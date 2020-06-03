@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.1004 6cd3eaec",
+  "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-03T12:55:03Z",
-    "timestamp_areas_base": "2020-03-06T11:03:01Z",
+    "timestamp_osm_base": "2020-06-03T14:24:03Z",
+    "timestamp_areas_base": "2020-06-03T11:49:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1562,49 +1562,6 @@
     "type": "boundary",
     "website": "https://www.concordia.gob.ar/turismo/atractivos/parque-san-carlos"
   }
-},
-{
-  "type": "relation",
-  "id": 11167506,
-  "members": [
-    {
-      "type": "way",
-      "ref": 812556988,
-      "role": "outer"
-    }
-  ],
-  "tags": {
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Prueba de reserva",
-    "operator": "Provincia de Tierra del Fuego",
-    "operator:type": "government",
-    "protect_class": "1",
-    "protected_area": "nature_reserve",
-    "protection_title": "Reserva Estricta",
-    "related_law": "Ley 000111",
-    "start_date": "2021",
-    "type": "boundary",
-    "wikipedia": "es:Buenos Aires"
-  }
-},
-{
-  "type": "node",
-  "id": 7589515295,
-  "lat": -54.8066213,
-  "lon": -65.6271745
-},
-{
-  "type": "node",
-  "id": 7589515293,
-  "lat": -54.8141397,
-  "lon": -65.6024553
-},
-{
-  "type": "node",
-  "id": 7589515294,
-  "lat": -54.7977162,
-  "lon": -65.6084635
 },
 {
   "type": "node",
@@ -91953,16 +91910,6 @@
   "id": 582539176,
   "lat": -26.0078645,
   "lon": -53.7819904
-},
-{
-  "type": "way",
-  "id": 812556988,
-  "nodes": [
-    7589515295,
-    7589515294,
-    7589515293,
-    7589515295
-  ]
 },
 {
   "type": "way",
