@@ -1,0 +1,1 @@
+[out:json][timeout:125];area(3600286393)->.searchArea;(node["boundary"="protected_area"]["protect_class"="6"](area.searchArea);way["boundary"="protected_area"]["protect_class"="6"](area.searchArea);relation["boundary"="protected_area"]["protect_class"="6"](area.searchArea););out body;>;out skel qt;
