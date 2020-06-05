@@ -17,4 +17,4 @@ wget -O UICN7.osm --post-file=Consultas/UICN7query.osm "https://overpass-api.de/
 git status
 git add *
 git commit -m "Actualizacion diaria"
-git push master origin
+git push origin master
