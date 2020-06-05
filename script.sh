@@ -8,6 +8,6 @@ wget -O UICN5.osm --post-file=Consultas/UICN5query.osm "https://overpass-api.de/
 wget -O UICN6.osm --post-file=Consultas/UICN6query.osm "https://overpass-api.de/api/interpreter"
 wget -O UICN7.osm --post-file=Consultas/UICN7query.osm "https://overpass-api.de/api/interpreter"
 git status
-git add .
+git add *
 git commit -m "Actualizacion diaria"
 git push origin master
