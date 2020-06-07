@@ -9,7 +9,6 @@ area(3600286393)->.searchArea;
 // gather results
 (
   // query part for: “ramsar=yes”
-  node["ramsar"="yes"](area.searchArea);
   way["ramsar"="yes"](area.searchArea);
   relation["ramsar"="yes"](area.searchArea);
 );
