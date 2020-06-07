@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-06T15:39:02Z",
-    "timestamp_areas_base": "2020-06-06T13:58:02Z",
+    "timestamp_osm_base": "2020-06-07T17:33:03Z",
+    "timestamp_areas_base": "2020-06-07T17:04:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -339,6 +339,7 @@
     "protected_area": "habitat",
     "protection_title": "Parque Natural",
     "ramsar": "yes",
+    "ref:ramsar": "1459",
     "related_law": "Ordenanza Municipal 41247/86",
     "type": "boundary",
     "wikidata": "Q1034280",
@@ -450,6 +451,7 @@
     "protected_area": "habitat",
     "protection_title": "Reserva Hemisférica de Aves Playeras",
     "ramsar": "yes",
+    "ref:ramsar": "754",
     "related_law": "Ley Provincial 415/98",
     "start_date": "1998",
     "type": "boundary",
