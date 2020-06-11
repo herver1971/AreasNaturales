@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-11T13:53:03Z",
-    "timestamp_areas_base": "2020-06-11T13:04:03Z",
+    "timestamp_osm_base": "2020-06-11T18:08:03Z",
+    "timestamp_areas_base": "2020-06-11T17:37:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -154,7 +154,7 @@
     "name": "Reserva Natural Integral Rincón del Ajo",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Natural Integral",
     "related_law": "Ley Provincial 12016/97",
@@ -198,7 +198,7 @@
     "name": "Parque Provincial Monte Loayza",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Parque Natural Provincial;Area de Uso Científico Bajo Proteccion Especial",
     "related_law": "Ley Provincial 3454/15",
@@ -231,7 +231,7 @@
     "name": "Reserva Natural Estricta San Antonio",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protection_title:en": "Strict Nature Reserve",
     "protection_title:es": "Reserva natural estricta",
     "related_law": "Decreto Nacional 002149/90",
@@ -275,7 +275,7 @@
     "name": "Refugio de Vida Silvestre Monte de Las Barrancas",
     "operator": "Provincia de Córdoba",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_wilderness",
     "protection_title": "Refugio de Vida Silvestre",
     "related_law": "Decreto Provincial 1222",
@@ -299,8 +299,49 @@
     "boundary": "protected_area",
     "leisure": "nature_reserve",
     "name": "Reserva Natural Estricta Balde de Leyes - Las Torrecitas",
-    "protect_class": "1",
+    "protect_class": "1a",
     "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10188730,
+  "members": [
+    {
+      "type": "way",
+      "ref": 737620878,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 737624870,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 737618796,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 749826695,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Reserva Natural Silvestre El Rincón",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protect_class": "1a",
+    "protected_area": "nature_reserve",
+    "protection_title": "Reserva Natural Silvestre",
+    "related_law": "Decreto Nacional 641/16",
+    "start_date": "2016",
+    "type": "boundary",
+    "wikidata": "Q50684942",
+    "wikipedia": "es:Reserva natural silvestre El Rincón"
   }
 },
 {
@@ -355,7 +396,7 @@
     "name": "Reserva Natural Estricta Cerro Capilla",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Reserva Natural Estricta",
     "related_law": "Decreto Nacional 453/1994",
@@ -393,7 +434,7 @@
     "name": "Reserva Natural Estricta Lago Martín",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Reserva Natural Estricta",
     "related_law": "Decreto Nacional 453/1994",
@@ -495,7 +536,7 @@
     "description": "Reserva Natural Estricta dentro del Parque Nacional Nahuel Huapi",
     "leisure": "nature_reserve",
     "name": "Reserva Natural Estricta Isla Victoria",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Reserva Natural Estricta",
     "related_law": "Decreto Nacional 453/1994",
@@ -539,7 +580,7 @@
     "name": "Reserva Natural Estricta Río Machete",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Reserva Natural Estricta",
     "related_law": "Decreto Nacional 453/1994",
@@ -568,7 +609,7 @@
     "name": "Reserva Natural Estricta Cuyín Manzano",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Reserva Natural Estricta",
     "related_law": "Decreto Nacional 453/1994",
@@ -642,7 +683,7 @@
     "name": "Reserva Natural Estricta Laguna Venados",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Reserva Natural Estricta",
     "related_law": "Decreto Nacional 453/1994",
@@ -669,7 +710,7 @@
     "leisure": "nature_reserve",
     "name": "Reserva Provincial Forestal y de Biósfera Ñacunán (Lote 9)",
     "operator": "Universidad de Ciencia y Tecnología Mendoza",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Forestal",
     "related_law": "Ley Provincial 2827/61",
@@ -697,7 +738,7 @@
     "leisure": "nature_reserve",
     "name": "Reserva Provincial Forestal y de Biósfera Ñacunán (Lote 11)",
     "operator": "Universidad de Ciencia y Tecnología Mendoza",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Forestal",
     "related_law": "Ley Provincial 2827/61",
@@ -750,7 +791,7 @@
     "leisure": "nature_reserve",
     "name": "Reserva Natural Santa Ana",
     "operator": "Provincia de Tucuman",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Natural",
     "related_law": "Ley Provincial 2439/51",
@@ -830,7 +871,7 @@
     "leisure": "nature_reserve",
     "name": "Parque Provincial La Florida",
     "operator": "Provincia de Tucuman",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Parque Provincial y Reserva de Flora y Fauna",
     "related_law": "Ley Provincial 1646/36",
@@ -865,7 +906,7 @@
     "leisure": "nature_reserve",
     "name": "Reserva Natural Abayuba",
     "operator": "Municipalidad Concordia",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Natural",
     "related_law": "Decreto Municipal 27917/95",
@@ -894,7 +935,7 @@
     "name": "Refugio Privado de Vida Silvestre Aguaray-mi",
     "operator": "Privado",
     "operator:type": "private",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Refugio Privado de Vida Silvestre",
     "related_law": "Decreto Provincial 1531/88",
@@ -982,7 +1023,7 @@
     "leisure": "nature_reserve",
     "name": "Reserva Natural Aguas Chiquitas",
     "operator": "Provincia de Tucumán",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Natural",
     "related_law": "Decreto Provincial 901/82",
@@ -1012,7 +1053,7 @@
     "leisure": "nature_reserve",
     "name": "Refugio Privado de Vida Silvestre Aponapó",
     "operator": "Fundación HF",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Refugio Privado de Vida Silvestre",
     "start_date": "2012",
@@ -1041,7 +1082,7 @@
     "name": "Reserva Natural Turística Punta León",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Reserva Natural Turística e Investigación Biológica",
     "related_law": "Ley Provincial 2580/85",
@@ -1090,7 +1131,7 @@
     "name": "Área Natural Protegida Punta Bermeja",
     "operator": "Provincia de Río Negro",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Área Natural Protegida",
     "related_law": "Decreto Provincial 898/71",
@@ -1161,7 +1202,7 @@
     "name": "Reserva Natural Chañy",
     "operator": "Provincia de Neuquén",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Natural",
     "related_law": "Decreto Provincial 1412/86",
@@ -1192,7 +1233,7 @@
     "name": "Reserva Natural Islote de La Gaviota Cangrejera",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Natural",
     "related_law": "Decreto Provincial 469/11",
@@ -1273,7 +1314,7 @@
     "natural": "grassland",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Natural Mixta Integral",
     "related_law": "Ley Provincial 12814/01",
@@ -1349,7 +1390,7 @@
     "name": "Reserva Natural Integral Bahia Samborombon",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Reserva Natural Integral",
     "related_law": "Ley Provincial 12016/97",
@@ -1388,7 +1429,7 @@
     "name": "Reserva Natural Integral Delta en Formación",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva Natural Integral",
     "related_law": "Ley Provincial 12331",
@@ -1542,7 +1583,7 @@
     "name": "Reserva de Biosfera Delta Del Paraná - Zona A Nucleo",
     "operator": "Municipalidad de San Fernando",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Reserva de Biosfera",
     "related_law": "Decreto Municipal 1303/00",
@@ -1595,7 +1636,7 @@
     "natural": "wood",
     "operator": "Municipalidad de Concordia",
     "operator:type": "government",
-    "protect_class": "1",
+    "protect_class": "1a",
     "protected_area": "nature_reserve",
     "protection_title": "Area Natural Protegida",
     "related_law": "Ordenanza Municipal 28312/95",
@@ -1603,6 +1644,54 @@
     "type": "boundary",
     "website": "https://www.concordia.gob.ar/turismo/atractivos/parque-san-carlos"
   }
+},
+{
+  "type": "node",
+  "id": 6906246453,
+  "lat": -47.7252975,
+  "lon": -72.1940215
+},
+{
+  "type": "node",
+  "id": 7011702287,
+  "lat": -47.7261653,
+  "lon": -72.1578645
+},
+{
+  "type": "node",
+  "id": 6906246458,
+  "lat": -47.7264180,
+  "lon": -72.1473373
+},
+{
+  "type": "node",
+  "id": 6906246455,
+  "lat": -47.6157901,
+  "lon": -72.2595048
+},
+{
+  "type": "node",
+  "id": 6906246454,
+  "lat": -47.6434933,
+  "lon": -72.1940374
+},
+{
+  "type": "node",
+  "id": 6906246456,
+  "lat": -47.5503177,
+  "lon": -72.2620301
+},
+{
+  "type": "node",
+  "id": 6906246459,
+  "lat": -47.7281332,
+  "lon": -72.0892848
+},
+{
+  "type": "node",
+  "id": 6906246457,
+  "lat": -47.5544170,
+  "lon": -72.0765299
 },
 {
   "type": "node",
@@ -95605,6 +95694,42 @@
   "id": 582539176,
   "lat": -26.0078645,
   "lon": -53.7819904
+},
+{
+  "type": "way",
+  "id": 737618796,
+  "nodes": [
+    7011702287,
+    6906246458,
+    6906246459
+  ]
+},
+{
+  "type": "way",
+  "id": 737620878,
+  "nodes": [
+    6906246456,
+    6906246455,
+    6906246454,
+    6906246453
+  ]
+},
+{
+  "type": "way",
+  "id": 737624870,
+  "nodes": [
+    6906246459,
+    6906246457,
+    6906246456
+  ]
+},
+{
+  "type": "way",
+  "id": 749826695,
+  "nodes": [
+    6906246453,
+    7011702287
+  ]
 },
 {
   "type": "way",
