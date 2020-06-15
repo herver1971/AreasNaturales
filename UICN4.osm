@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-14T04:20:02Z",
-    "timestamp_areas_base": "2020-06-14T03:28:02Z",
+    "timestamp_osm_base": "2020-06-15T04:20:02Z",
+    "timestamp_areas_base": "2020-06-15T03:32:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1576,6 +1576,58 @@
     "related_law": "Decreto Provincial 5295/89",
     "start_date": "1989",
     "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 11204017,
+  "members": [
+    {
+      "type": "way",
+      "ref": 815962510,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 724615395,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 815962506,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 815962511,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 815962508,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 815962512,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name": "Reserva Natural Los Quebrachales",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Reserva Natural Potrero 7-B",
+    "operator": "Provincia de Santa Fé",
+    "operator:type": "government",
+    "protect_class": "4",
+    "protected_area": "habitat",
+    "protection_title": "Reserva Natural Manejada",
+    "related_law": "Ley Provincial 11083/93",
+    "start_date": "1992",
+    "type": "boundary",
+    "wikidata": "Q24031409",
+    "wikipedia": "es:Reserva natural manejada Potrero Lote 7 b"
   }
 },
 {
@@ -90253,6 +90305,66 @@
   "lon": -57.9984838
 },
 {
+  "type": "node",
+  "id": 6795872659,
+  "lat": -29.3496240,
+  "lon": -60.2537992
+},
+{
+  "type": "node",
+  "id": 6795872661,
+  "lat": -29.3537520,
+  "lon": -60.2263568
+},
+{
+  "type": "node",
+  "id": 7620679546,
+  "lat": -29.2994565,
+  "lon": -60.2439058
+},
+{
+  "type": "node",
+  "id": 7620679476,
+  "lat": -29.2959849,
+  "lon": -60.2432221
+},
+{
+  "type": "node",
+  "id": 7620679252,
+  "lat": -29.3179476,
+  "lon": -60.2192013
+},
+{
+  "type": "node",
+  "id": 7620679477,
+  "lat": -29.3080457,
+  "lon": -60.2172516
+},
+{
+  "type": "node",
+  "id": 7620679475,
+  "lat": -29.3033542,
+  "lon": -60.2163268
+},
+{
+  "type": "node",
+  "id": 6795872657,
+  "lat": -29.2833753,
+  "lon": -60.2407389
+},
+{
+  "type": "node",
+  "id": 6795872655,
+  "lat": -29.2875036,
+  "lon": -60.2132027
+},
+{
+  "type": "node",
+  "id": 7620679287,
+  "lat": -29.2882142,
+  "lon": -60.2133501
+},
+{
   "type": "way",
   "id": 778048988,
   "nodes": [
@@ -106305,6 +106417,58 @@
     7515899021,
     7515899020,
     5996393244
+  ]
+},
+{
+  "type": "way",
+  "id": 724615395,
+  "nodes": [
+    7620679252,
+    6795872661,
+    6795872659,
+    7620679546
+  ]
+},
+{
+  "type": "way",
+  "id": 815962512,
+  "nodes": [
+    7620679476,
+    6795872657,
+    6795872655,
+    7620679287
+  ]
+},
+{
+  "type": "way",
+  "id": 815962510,
+  "nodes": [
+    7620679546,
+    7620679476
+  ]
+},
+{
+  "type": "way",
+  "id": 815962506,
+  "nodes": [
+    7620679477,
+    7620679252
+  ]
+},
+{
+  "type": "way",
+  "id": 815962511,
+  "nodes": [
+    7620679475,
+    7620679477
+  ]
+},
+{
+  "type": "way",
+  "id": 815962508,
+  "nodes": [
+    7620679287,
+    7620679475
   ]
 }
 

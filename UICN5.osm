@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-14T04:25:02Z",
-    "timestamp_areas_base": "2020-06-14T03:28:02Z",
+    "timestamp_osm_base": "2020-06-15T04:25:03Z",
+    "timestamp_areas_base": "2020-06-15T03:32:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1509,6 +1509,37 @@
     "protection_title": "Paisaje Protegido",
     "related_law": "Ordenanza Municipal 7348/91",
     "start_date": "1987",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 11203962,
+  "members": [
+    {
+      "type": "way",
+      "ref": 727175963,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 815958206,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name": "Reserva Ecológica San Justo",
+    "boundary": "protected_area",
+    "fixme": "No se pudo diferenciar la Reserva Ecologica de la Reserva Municipal. Se precisa conocimiento local, ya que la informacion del gobierno es contradictoria y ubicacion que marca lleva a otra localidad distante",
+    "leisure": "nature_reserve",
+    "name": "Reserva Municipal San Justo",
+    "operator": "Municipalidad de San Justo",
+    "operator:type": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Reserva Municipal",
+    "related_law": "Ordenanza Municipal 001123/91",
+    "start_date": "1992",
     "type": "boundary"
   }
 },
@@ -44696,6 +44727,126 @@
 },
 {
   "type": "node",
+  "id": 6814788653,
+  "lat": -30.7956506,
+  "lon": -60.6489369
+},
+{
+  "type": "node",
+  "id": 6814788654,
+  "lat": -30.7962068,
+  "lon": -60.6490603
+},
+{
+  "type": "node",
+  "id": 6814788649,
+  "lat": -30.7987616,
+  "lon": -60.6299383
+},
+{
+  "type": "node",
+  "id": 6814788658,
+  "lat": -30.7993177,
+  "lon": -60.6300617
+},
+{
+  "type": "node",
+  "id": 7620570542,
+  "lat": -30.7673079,
+  "lon": -60.5702031
+},
+{
+  "type": "node",
+  "id": 7620570543,
+  "lat": -30.7673591,
+  "lon": -60.5701318
+},
+{
+  "type": "node",
+  "id": 7620570532,
+  "lat": -30.7603049,
+  "lon": -60.5632716
+},
+{
+  "type": "node",
+  "id": 7620570533,
+  "lat": -30.7602886,
+  "lon": -60.5632687
+},
+{
+  "type": "node",
+  "id": 7620570534,
+  "lat": -30.7602728,
+  "lon": -60.5632737
+},
+{
+  "type": "node",
+  "id": 7620570535,
+  "lat": -30.7602524,
+  "lon": -60.5633024
+},
+{
+  "type": "node",
+  "id": 7620570536,
+  "lat": -30.7602511,
+  "lon": -60.5633213
+},
+{
+  "type": "node",
+  "id": 7620570537,
+  "lat": -30.7602565,
+  "lon": -60.5633392
+},
+{
+  "type": "node",
+  "id": 7620570538,
+  "lat": -30.7602600,
+  "lon": -60.5632856
+},
+{
+  "type": "node",
+  "id": 7620570539,
+  "lat": -30.7646198,
+  "lon": -60.5675876
+},
+{
+  "type": "node",
+  "id": 7620570544,
+  "lat": -30.7603187,
+  "lon": -60.5632818
+},
+{
+  "type": "node",
+  "id": 7620570545,
+  "lat": -30.7603660,
+  "lon": -60.5633278
+},
+{
+  "type": "node",
+  "id": 7620570546,
+  "lat": -30.7602675,
+  "lon": -60.5633531
+},
+{
+  "type": "node",
+  "id": 7620570547,
+  "lat": -30.7602859,
+  "lon": -60.5633710
+},
+{
+  "type": "node",
+  "id": 7620570548,
+  "lat": -30.7603186,
+  "lon": -60.5634029
+},
+{
+  "type": "node",
+  "id": 7620570549,
+  "lat": -30.7604506,
+  "lon": -60.5635312
+},
+{
+  "type": "node",
   "id": 2019321582,
   "lat": -34.5805389,
   "lon": -59.1330882
@@ -68572,6 +68723,40 @@
     7596562580,
     7596562579,
     7596562578
+  ]
+},
+{
+  "type": "way",
+  "id": 727175963,
+  "nodes": [
+    6814788658,
+    6814788654,
+    6814788653,
+    6814788649,
+    6814788658
+  ]
+},
+{
+  "type": "way",
+  "id": 815958206,
+  "nodes": [
+    7620570549,
+    7620570548,
+    7620570547,
+    7620570546,
+    7620570537,
+    7620570536,
+    7620570535,
+    7620570538,
+    7620570534,
+    7620570533,
+    7620570532,
+    7620570544,
+    7620570545,
+    7620570543,
+    7620570542,
+    7620570539,
+    7620570549
   ]
 },
 {
