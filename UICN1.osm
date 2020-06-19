@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-19T04:05:02Z",
-    "timestamp_areas_base": "2020-06-19T03:48:02Z",
+    "timestamp_osm_base": "2020-06-19T17:53:03Z",
+    "timestamp_areas_base": "2020-06-19T17:12:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1705,6 +1705,57 @@
     "wikidata": "Q19722091",
     "wikipedia": "es:Área natural protegida municipal Parque Rafael de Aguiar"
   }
+},
+{
+  "type": "relation",
+  "id": 11218404,
+  "members": [
+    {
+      "type": "way",
+      "ref": 817635951,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817635949,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "fixme": "Haciendo una prueba, lo borro en lo inmediato",
+    "land_area": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Zona A",
+    "protect_class": "1a",
+    "protected_area": "nature_reserve",
+    "protection_title": "Parque NAcional",
+    "type": "boundary"
+  }
+},
+{
+  "type": "node",
+  "id": 7636034279,
+  "lat": -50.3743001,
+  "lon": -70.5071962
+},
+{
+  "type": "node",
+  "id": 7636034280,
+  "lat": -50.3721584,
+  "lon": -70.5071748
+},
+{
+  "type": "node",
+  "id": 7636034282,
+  "lat": -50.3742591,
+  "lon": -70.5024970
+},
+{
+  "type": "node",
+  "id": 7636034281,
+  "lat": -50.3721515,
+  "lon": -70.5024970
 },
 {
   "type": "node",
@@ -97639,6 +97690,24 @@
   "id": 582539176,
   "lat": -26.0078645,
   "lon": -53.7819904
+},
+{
+  "type": "way",
+  "id": 817635949,
+  "nodes": [
+    7636034282,
+    7636034279
+  ]
+},
+{
+  "type": "way",
+  "id": 817635951,
+  "nodes": [
+    7636034279,
+    7636034280,
+    7636034281,
+    7636034282
+  ]
 },
 {
   "type": "way",
