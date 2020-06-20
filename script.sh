@@ -16,6 +16,8 @@ sleep 5m
 wget -O /media/Dona/ProyectosGIT/AreasNaturales/UICN7.osm --post-file=/media/Dona/ProyectosGIT/AreasNaturales/Consultas/UICN7query.osm "https://overpass-api.de/api/interpreter"
 sleep 5m
 wget -O /media/Dona/ProyectosGIT/AreasNaturales/ramsar.osm --post-file=/media/Dona/ProyectosGIT/AreasNaturales/Consultas/ramsar.osm "https://overpass-api.de/api/interpreter"
+sleep 5m
+wget -O /media/Dona/ProyectosGIT/AreasNaturales/Limites_mixtas.osm --post-file=/media/Dona/ProyectosGIT/AreasNaturales/Consultas/Limites_mixtas.osm "https://overpass-api.de/api/interpreter"
 cd /media/Dona/ProyectosGIT/AreasNaturales && /usr/bin/git status
 #cd /media/Dona/ProyectosGIT/AreasNaturales && /usr/bin/git add *
 cd /media/Dona/ProyectosGIT/AreasNaturales && /usr/bin/git commit -a -m "daily update: `date`"
