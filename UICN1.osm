@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-19T17:53:03Z",
-    "timestamp_areas_base": "2020-06-19T17:12:02Z",
+    "timestamp_osm_base": "2020-06-20T04:05:02Z",
+    "timestamp_areas_base": "2020-06-20T03:00:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1708,16 +1708,16 @@
 },
 {
   "type": "relation",
-  "id": 11218404,
+  "id": 11219207,
   "members": [
     {
       "type": "way",
-      "ref": 817635951,
+      "ref": 817701704,
       "role": "outer"
     },
     {
       "type": "way",
-      "ref": 817635949,
+      "ref": 817701708,
       "role": "outer"
     }
   ],
@@ -1726,36 +1726,68 @@
     "fixme": "Haciendo una prueba, lo borro en lo inmediato",
     "land_area": "protected_area",
     "leisure": "nature_reserve",
-    "name": "Zona A",
+    "natural": "water",
     "protect_class": "1a",
     "protected_area": "nature_reserve",
-    "protection_title": "Parque NAcional",
+    "protection_title": "Parque Nacional",
     "type": "boundary"
   }
 },
 {
-  "type": "node",
-  "id": 7636034279,
-  "lat": -50.3743001,
-  "lon": -70.5071962
+  "type": "relation",
+  "id": 11219209,
+  "members": [
+    {
+      "type": "way",
+      "ref": 817701706,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817701707,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "fixme": "Haciendo una prueba, lo borro en lo inmediato",
+    "land_area": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Zona Protegida Estricta A",
+    "natural": "water",
+    "protect_class": "1a",
+    "protected_area": "nature_reserve",
+    "protection_title": "Parque Nacional",
+    "type": "boundary"
+  }
 },
 {
-  "type": "node",
-  "id": 7636034280,
-  "lat": -50.3721584,
-  "lon": -70.5071748
-},
-{
-  "type": "node",
-  "id": 7636034282,
-  "lat": -50.3742591,
-  "lon": -70.5024970
-},
-{
-  "type": "node",
-  "id": 7636034281,
-  "lat": -50.3721515,
-  "lon": -70.5024970
+  "type": "relation",
+  "id": 11219210,
+  "members": [
+    {
+      "type": "way",
+      "ref": 817701710,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817701705,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "fixme": "Haciendo una prueba, lo borro en lo inmediato",
+    "land_area": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Zona Protegida Estricta B",
+    "natural": "water",
+    "protect_class": "1a",
+    "protected_area": "nature_reserve",
+    "protection_title": "Parque Nacional",
+    "type": "boundary"
+  }
 },
 {
   "type": "node",
@@ -1804,6 +1836,78 @@
   "id": 6906246457,
   "lat": -47.5544170,
   "lon": -72.0765299
+},
+{
+  "type": "node",
+  "id": 7636555792,
+  "lat": -50.3749331,
+  "lon": -70.3320050
+},
+{
+  "type": "node",
+  "id": 7636555791,
+  "lat": -50.3744130,
+  "lon": -70.3264153
+},
+{
+  "type": "node",
+  "id": 7636555786,
+  "lat": -50.3720592,
+  "lon": -70.3287864
+},
+{
+  "type": "node",
+  "id": 7636555787,
+  "lat": -50.3723876,
+  "lon": -70.3287542
+},
+{
+  "type": "node",
+  "id": 7636555788,
+  "lat": -50.3723739,
+  "lon": -70.3304601
+},
+{
+  "type": "node",
+  "id": 7636555789,
+  "lat": -50.3721276,
+  "lon": -70.3304923
+},
+{
+  "type": "node",
+  "id": 7636555793,
+  "lat": -50.3725795,
+  "lon": -70.3319185
+},
+{
+  "type": "node",
+  "id": 7636555798,
+  "lat": -50.3718402,
+  "lon": -70.3276599
+},
+{
+  "type": "node",
+  "id": 7636555799,
+  "lat": -50.3711217,
+  "lon": -70.3276491
+},
+{
+  "type": "node",
+  "id": 7636555800,
+  "lat": -50.3711285,
+  "lon": -70.3308678
+},
+{
+  "type": "node",
+  "id": 7636555801,
+  "lat": -50.3718197,
+  "lon": -70.3308678
+},
+{
+  "type": "node",
+  "id": 7636555790,
+  "lat": -50.3726234,
+  "lon": -70.3266612
 },
 {
   "type": "node",
@@ -97693,24 +97797,6 @@
 },
 {
   "type": "way",
-  "id": 817635949,
-  "nodes": [
-    7636034282,
-    7636034279
-  ]
-},
-{
-  "type": "way",
-  "id": 817635951,
-  "nodes": [
-    7636034279,
-    7636034280,
-    7636034281,
-    7636034282
-  ]
-},
-{
-  "type": "way",
   "id": 737618796,
   "nodes": [
     7011702287,
@@ -97743,6 +97829,60 @@
   "nodes": [
     6906246453,
     7011702287
+  ]
+},
+{
+  "type": "way",
+  "id": 817701704,
+  "nodes": [
+    7636555793,
+    7636555790
+  ]
+},
+{
+  "type": "way",
+  "id": 817701708,
+  "nodes": [
+    7636555793,
+    7636555792,
+    7636555791,
+    7636555790
+  ]
+},
+{
+  "type": "way",
+  "id": 817701705,
+  "nodes": [
+    7636555798,
+    7636555801
+  ]
+},
+{
+  "type": "way",
+  "id": 817701706,
+  "nodes": [
+    7636555787,
+    7636555786,
+    7636555789
+  ]
+},
+{
+  "type": "way",
+  "id": 817701707,
+  "nodes": [
+    7636555789,
+    7636555788,
+    7636555787
+  ]
+},
+{
+  "type": "way",
+  "id": 817701710,
+  "nodes": [
+    7636555801,
+    7636555800,
+    7636555799,
+    7636555798
   ]
 },
 {
