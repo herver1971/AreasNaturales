@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-20T20:54:02Z",
-    "timestamp_areas_base": "2020-06-20T20:38:02Z",
+    "timestamp_osm_base": "2020-06-21T04:49:02Z",
+    "timestamp_areas_base": "2020-06-21T04:10:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -255,7 +255,7 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "description": "Esta conformado por un area de acceso al publico y un area de Reserva Nacional Estricta",
+    "description": "Esta conformado por un area de acceso al publico y un area de Reserva Natural Estricta",
     "fixme": "La categoria de proteccion esta cargada en las subareas que la componen. No agrgar en esta relacion",
     "leisure": "nature_reserve",
     "name": "Parque Nacional Tierra del Fuego",

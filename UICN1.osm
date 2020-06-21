@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-20T20:39:02Z",
-    "timestamp_areas_base": "2020-06-20T19:31:03Z",
+    "timestamp_osm_base": "2020-06-21T04:05:02Z",
+    "timestamp_areas_base": "2020-06-21T03:07:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1934,8 +1934,8 @@
     "operator:type": "government",
     "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
-    "protection_title": "Parque Nacional",
-    "related_law": "Decreto 453",
+    "protection_title": "Reserva Natural Estricta",
+    "related_law": "Decreto Nacional 453",
     "start_date": "1994",
     "type": "boundary"
   }
