@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-21T04:49:02Z",
-    "timestamp_areas_base": "2020-06-21T04:10:02Z",
+    "timestamp_osm_base": "2020-06-22T04:48:02Z",
+    "timestamp_areas_base": "2020-06-22T04:02:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -224,6 +224,11 @@
     },
     {
       "type": "way",
+      "ref": 818074084,
+      "role": "outer"
+    },
+    {
+      "type": "way",
       "ref": 488966442,
       "role": "outer"
     },
@@ -255,8 +260,7 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "description": "Esta conformado por un area de acceso al publico y un area de Reserva Natural Estricta",
-    "fixme": "La categoria de proteccion esta cargada en las subareas que la componen. No agrgar en esta relacion",
+    "description": "Esta conformada por un areas con diferente grado de protección. Una Reserva Natural Estricta que es zona intangible y solo se permite el acceso con fines de investigacion y un area con proteccion de Parque Nacional de acceso limitado al publico",
     "leisure": "nature_reserve",
     "name": "Parque Nacional Tierra del Fuego",
     "name:de": "Nationalpark Feuerland",
@@ -264,6 +268,7 @@
     "name:es": "Parque Nacional Tierra del Fuego",
     "name:it": "Parco Nazionale Terra del Fuoco",
     "name:mk": "Национален парк Огнена Земја",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
     "protected_area": "national_park",
@@ -4224,8 +4229,8 @@
 {
   "type": "node",
   "id": 7638723121,
-  "lat": -54.8621784,
-  "lon": -68.5961110
+  "lat": -54.8608230,
+  "lon": -68.5963095
 },
 {
   "type": "node",
@@ -14442,8 +14447,8 @@
 {
   "type": "node",
   "id": 4812547885,
-  "lat": -54.8608276,
-  "lon": -68.5603629
+  "lat": -54.8608300,
+  "lon": -68.5603590
 },
 {
   "type": "node",
@@ -39676,6 +39681,28 @@
 },
 {
   "type": "way",
+  "id": 818074084,
+  "nodes": [
+    4812547885,
+    4812547884,
+    4812547883,
+    4812547882,
+    4812547881,
+    4812547880,
+    4812547879,
+    4812547878,
+    4812547877,
+    4812547876,
+    4812547875,
+    4812547874,
+    4812547873,
+    4812547872,
+    4812547871,
+    4812547870
+  ]
+},
+{
+  "type": "way",
   "id": 568748147,
   "nodes": [
     4812547908,
@@ -39701,22 +39728,7 @@
     4812547888,
     4812547887,
     4812547886,
-    4812547885,
-    4812547884,
-    4812547883,
-    4812547882,
-    4812547881,
-    4812547880,
-    4812547879,
-    4812547878,
-    4812547877,
-    4812547876,
-    4812547875,
-    4812547874,
-    4812547873,
-    4812547872,
-    4812547871,
-    4812547870
+    4812547885
   ]
 },
 {
