@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-06-29T04:40:02Z",
-    "timestamp_areas_base": "2020-06-29T04:25:02Z",
+    "timestamp_osm_base": "2020-06-30T04:40:02Z",
+    "timestamp_areas_base": "2020-06-30T03:40:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1723,6 +1723,52 @@
     "related_law": "Declaración Convención Ramsar",
     "start_date": "1997",
     "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 11256309,
+  "members": [
+    {
+      "type": "way",
+      "ref": 329389195,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 821223053,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 263929544,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 263929543,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 263929538,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Sitio Ramsar Lagunas de Los Pozuelos",
+    "protect_class": "6",
+    "protected_area": "sustainable",
+    "protection_title": "Sitio Ramsar",
+    "ramsar": "yes",
+    "ref:ramsar": "555",
+    "related_law": "Declaración Convención Ramsar",
+    "start_date": "1992",
+    "type": "boundary",
+    "wikidata": "Q830120",
+    "wikipedia": "es:Monumento natural Laguna de los Pozuelos"
   }
 },
 {
@@ -106450,6 +106496,96 @@
   "lon": -66.6361000
 },
 {
+  "type": "node",
+  "id": 2025451783,
+  "lat": -22.4742921,
+  "lon": -65.9917283
+},
+{
+  "type": "node",
+  "id": 2025452269,
+  "lat": -22.4741846,
+  "lon": -65.9945430
+},
+{
+  "type": "node",
+  "id": 2696131925,
+  "lat": -22.4744186,
+  "lon": -65.9930319
+},
+{
+  "type": "node",
+  "id": 2696131929,
+  "lat": -22.4745623,
+  "lon": -65.9935516
+},
+{
+  "type": "node",
+  "id": 2696132073,
+  "lat": -22.4743437,
+  "lon": -65.9927009
+},
+{
+  "type": "node",
+  "id": 2696132109,
+  "lat": -22.4743937,
+  "lon": -65.9942072
+},
+{
+  "type": "node",
+  "id": 2696132114,
+  "lat": -22.4742921,
+  "lon": -65.9919761
+},
+{
+  "type": "node",
+  "id": 2696132138,
+  "lat": -22.4744944,
+  "lon": -65.9940601
+},
+{
+  "type": "node",
+  "id": 3362650605,
+  "lat": -22.4742753,
+  "lon": -65.9895664
+},
+{
+  "type": "node",
+  "id": 7667700183,
+  "lat": -22.4745768,
+  "lon": -65.9938216
+},
+{
+  "type": "node",
+  "id": 7667700184,
+  "lat": -22.4745892,
+  "lon": -65.9936821
+},
+{
+  "type": "node",
+  "id": 3362650606,
+  "lat": -22.4074892,
+  "lon": -66.0619470
+},
+{
+  "type": "node",
+  "id": 3362658920,
+  "lat": -22.3074522,
+  "lon": -66.0430294
+},
+{
+  "type": "node",
+  "id": 3362650604,
+  "lat": -22.2791626,
+  "lon": -65.9338562
+},
+{
+  "type": "node",
+  "id": 3362650603,
+  "lat": -22.2104885,
+  "lon": -66.0102449
+},
+{
   "type": "way",
   "id": 778048988,
   "nodes": [
@@ -125868,6 +126004,56 @@
     7474571818,
     7474571817,
     7474540167
+  ]
+},
+{
+  "type": "way",
+  "id": 329389195,
+  "nodes": [
+    2025452269,
+    3362650606,
+    3362658920,
+    3362650603,
+    3362650604,
+    3362650605
+  ]
+},
+{
+  "type": "way",
+  "id": 263929538,
+  "nodes": [
+    2696132109,
+    2025452269
+  ]
+},
+{
+  "type": "way",
+  "id": 263929543,
+  "nodes": [
+    2696132114,
+    2696132073,
+    2696131925,
+    2696131929,
+    7667700184,
+    7667700183,
+    2696132138,
+    2696132109
+  ]
+},
+{
+  "type": "way",
+  "id": 263929544,
+  "nodes": [
+    2025451783,
+    2696132114
+  ]
+},
+{
+  "type": "way",
+  "id": 821223053,
+  "nodes": [
+    3362650605,
+    2025451783
   ]
 }
 
