@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-07-03T04:45:02Z",
-    "timestamp_areas_base": "2020-07-03T04:14:02Z",
+    "timestamp_osm_base": "2020-07-04T04:46:02Z",
+    "timestamp_areas_base": "2020-07-04T04:18:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -260,7 +260,7 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "description": "Esta conformada por un areas con diferente grado de protección. Una Reserva Natural Estricta que es zona intangible y solo se permite el acceso con fines de investigacion y un area con proteccion de Parque Nacional de acceso limitado al publico",
+    "description": "Esta conformada por areas con diferente grado de protección. Una Reserva Natural Estricta que es zona intangible y solo se permite el acceso con fines de investigación y un area con protección de Parque Nacional de acceso limitado al publico",
     "leisure": "nature_reserve",
     "name": "Parque Nacional Tierra del Fuego",
     "name:de": "Nationalpark Feuerland",
