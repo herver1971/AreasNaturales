@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-07-06T04:20:02Z",
-    "timestamp_areas_base": "2020-07-06T03:47:02Z",
+    "timestamp_osm_base": "2020-07-07T04:20:02Z",
+    "timestamp_areas_base": "2020-07-07T04:08:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -190,36 +190,6 @@
     "related_law": "Decreto Provincial 1561/77",
     "start_date": "1977",
     "type": "boundary"
-  }
-},
-{
-  "type": "relation",
-  "id": 6138217,
-  "members": [
-    {
-      "type": "way",
-      "ref": 410322303,
-      "role": "outer"
-    },
-    {
-      "type": "way",
-      "ref": 751586834,
-      "role": "outer"
-    }
-  ],
-  "tags": {
-    "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Paisaje Protegido Pedernal",
-    "operator": "Provincia de San Juan",
-    "protect_class": "4",
-    "protected_area": "landscape",
-    "protection_title": "Paisaje Protegido",
-    "related_law": "Ley Provincial 7028/00",
-    "start_date": "2000",
-    "type": "boundary",
-    "wikidata": "Q24943203",
-    "wikipedia": "es:Paisaje protegido Pedernal"
   }
 },
 {
@@ -73206,36 +73176,6 @@
 },
 {
   "type": "node",
-  "id": 4121546320,
-  "lat": -32.1244095,
-  "lon": -68.8430859
-},
-{
-  "type": "node",
-  "id": 4121546311,
-  "lat": -31.9483347,
-  "lon": -68.8935204
-},
-{
-  "type": "node",
-  "id": 4121546349,
-  "lat": -32.0355407,
-  "lon": -68.7567771
-},
-{
-  "type": "node",
-  "id": 4121546354,
-  "lat": -32.0023090,
-  "lon": -68.7245230
-},
-{
-  "type": "node",
-  "id": 4121546342,
-  "lat": -31.9492190,
-  "lon": -68.7050561
-},
-{
-  "type": "node",
   "id": 7468245445,
   "lat": -36.2723033,
   "lon": -57.1599770
@@ -102893,25 +102833,6 @@
     7395696002,
     7395696001,
     7395696000
-  ]
-},
-{
-  "type": "way",
-  "id": 410322303,
-  "nodes": [
-    4121546354,
-    4121546349,
-    4121546320,
-    4121546311
-  ]
-},
-{
-  "type": "way",
-  "id": 751586834,
-  "nodes": [
-    4121546311,
-    4121546342,
-    4121546354
   ]
 },
 {
