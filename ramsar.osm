@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-07-23T04:43:03Z",
-    "timestamp_areas_base": "2020-07-23T03:57:03Z",
+    "timestamp_osm_base": "2020-07-24T04:41:02Z",
+    "timestamp_areas_base": "2020-07-24T02:57:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2145,6 +2145,11 @@
     },
     {
       "type": "way",
+      "ref": 829392569,
+      "role": "outer"
+    },
+    {
+      "type": "way",
       "ref": 317456862,
       "role": "outer"
     },
@@ -2800,6 +2805,37 @@
     "type": "boundary",
     "wikidata": "Q879892",
     "wikipedia": "es:Jaaukanigás"
+  }
+},
+{
+  "type": "relation",
+  "id": 11341440,
+  "members": [
+    {
+      "type": "way",
+      "ref": 829471909,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 829471908,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Sitio Ramsar Lagunas y Esteros del Iberá",
+    "operator": "Provincia de Corrientes",
+    "operator:type": "government",
+    "protect_class": "6",
+    "protected_area": "sustainable",
+    "protection_title": "Sitio Ramsar",
+    "ramsar": "yes",
+    "ref:ramsar": "1162",
+    "related_law": "Declaración Convención Ramsar",
+    "start_date": "2002",
+    "type": "boundary"
   }
 },
 {
@@ -33923,12 +33959,6 @@
   "id": 3579471296,
   "lat": -33.8316899,
   "lon": -61.5071740
-},
-{
-  "type": "node",
-  "id": 6726582665,
-  "lat": -33.8318882,
-  "lon": -61.5085689
 },
 {
   "type": "node",
@@ -102692,6 +102722,12 @@
 },
 {
   "type": "node",
+  "id": 7741542782,
+  "lat": -29.2105774,
+  "lon": -59.3952287
+},
+{
+  "type": "node",
   "id": 7615466158,
   "lat": -29.1969017,
   "lon": -59.3984628
@@ -107501,6 +107537,30 @@
   "id": 267065731,
   "lat": -27.9999909,
   "lon": -58.8842233
+},
+{
+  "type": "node",
+  "id": 7742161058,
+  "lat": -28.6000899,
+  "lon": -57.2334266
+},
+{
+  "type": "node",
+  "id": 7742161059,
+  "lat": -28.5999980,
+  "lon": -57.0833623
+},
+{
+  "type": "node",
+  "id": 7742161061,
+  "lat": -28.4499698,
+  "lon": -57.2334145
+},
+{
+  "type": "node",
+  "id": 7742161060,
+  "lat": -28.4499670,
+  "lon": -57.0833456
 },
 {
   "type": "node",
@@ -125959,7 +126019,6 @@
     3579471295,
     249486261,
     2039093931,
-    6726582665,
     2396192471,
     3579471296,
     249486263,
@@ -138650,15 +138709,7 @@
   "type": "way",
   "id": 317456835,
   "nodes": [
-    3237241656,
-    7729331108,
-    7729331109,
-    7615466159,
-    3237241692,
-    7615466160,
-    7615466158,
-    255882311,
-    7615466161,
+    7741542782,
     7615466165,
     7615466162,
     7615466163,
@@ -139340,6 +139391,22 @@
     2714473516,
     2606644839,
     2698007804
+  ]
+},
+{
+  "type": "way",
+  "id": 829392569,
+  "nodes": [
+    3237241656,
+    7729331108,
+    7729331109,
+    7615466159,
+    3237241692,
+    7615466160,
+    7615466158,
+    255882311,
+    7615466161,
+    7741542782
   ]
 },
 {
@@ -140722,6 +140789,24 @@
     7729309968,
     7729309967,
     7729330897
+  ]
+},
+{
+  "type": "way",
+  "id": 829471908,
+  "nodes": [
+    7742161060,
+    7742161059,
+    7742161058
+  ]
+},
+{
+  "type": "way",
+  "id": 829471909,
+  "nodes": [
+    7742161058,
+    7742161061,
+    7742161060
   ]
 },
 {
