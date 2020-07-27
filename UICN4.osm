@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-07-26T04:20:03Z",
-    "timestamp_areas_base": "2020-07-26T03:45:02Z",
+    "timestamp_osm_base": "2020-07-27T04:20:03Z",
+    "timestamp_areas_base": "2020-07-27T03:47:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1680,6 +1680,40 @@
     "type": "boundary",
     "wikidata": "Q24031409",
     "wikipedia": "es:Reserva natural manejada Potrero Lote 7 b"
+  }
+},
+{
+  "type": "relation",
+  "id": 11351237,
+  "members": [
+    {
+      "type": "way",
+      "ref": 830413000,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 830412998,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 830413002,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 830412999,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Área de conservación",
+    "operator": "Instituto Nacional de Tecnología Agropecuaria",
+    "protect_class": "4",
+    "protection_title": "Sitio de Interés Natural y Científico",
+    "type": "boundary"
   }
 },
 {
@@ -94047,6 +94081,36 @@
   "lon": -56.5609854
 },
 {
+  "type": "node",
+  "id": 7752584577,
+  "lat": -26.1008939,
+  "lon": -58.2853205
+},
+{
+  "type": "node",
+  "id": 7752584579,
+  "lat": -26.1003497,
+  "lon": -58.2853085
+},
+{
+  "type": "node",
+  "id": 7752584578,
+  "lat": -26.1011880,
+  "lon": -58.2731766
+},
+{
+  "type": "node",
+  "id": 7752584576,
+  "lat": -26.0947567,
+  "lon": -58.2729682
+},
+{
+  "type": "node",
+  "id": 7752584575,
+  "lat": -26.0893948,
+  "lon": -58.2850413
+},
+{
   "type": "way",
   "id": 778048988,
   "nodes": [
@@ -110826,6 +110890,39 @@
     7738018987,
     7738018986,
     7738018985
+  ]
+},
+{
+  "type": "way",
+  "id": 830412999,
+  "nodes": [
+    7752584577,
+    7752584579,
+    7752584575
+  ]
+},
+{
+  "type": "way",
+  "id": 830413000,
+  "nodes": [
+    7752584576,
+    7752584575
+  ]
+},
+{
+  "type": "way",
+  "id": 830413002,
+  "nodes": [
+    7752584578,
+    7752584577
+  ]
+},
+{
+  "type": "way",
+  "id": 830412998,
+  "nodes": [
+    7752584576,
+    7752584578
   ]
 }
 
