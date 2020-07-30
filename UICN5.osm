@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-07-29T04:25:03Z",
-    "timestamp_areas_base": "2020-07-29T03:19:03Z",
+    "timestamp_osm_base": "2020-07-30T04:25:03Z",
+    "timestamp_areas_base": "2020-07-30T04:18:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1766,6 +1766,44 @@
     "type": "boundary",
     "wikidata": "Q26270242",
     "wikipedia": "es:Paisaje protegido Lago Urugua-í"
+  }
+},
+{
+  "type": "relation",
+  "id": 11363919,
+  "members": [
+    {
+      "type": "way",
+      "ref": 438468421,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 831990766,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name": "Güirá Oga",
+    "animal_shelter": "wildlife",
+    "animal_shelter:adoption": "no",
+    "animal_shelter:release": "yes",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Paisaje Protegido Güirá Oga",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "operator": "Fundación Temaikén",
+    "operator:type": "private",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "related_law": "Ley Provincial 3468/97",
+    "source": "Ley Provincial Nº 3468",
+    "start_date": "1997-08-23",
+    "type": "boundary",
+    "wikidata": "Q5890483",
+    "wikipedia": "es:Paisaje protegido Andrés Giai",
+    "zoo": "wildlife_park"
   }
 },
 {
@@ -85290,6 +85328,66 @@
 },
 {
   "type": "node",
+  "id": 4362136569,
+  "lat": -25.6317098,
+  "lon": -54.5586205
+},
+{
+  "type": "node",
+  "id": 4362136570,
+  "lat": -25.6317509,
+  "lon": -54.5581927
+},
+{
+  "type": "node",
+  "id": 4362136571,
+  "lat": -25.6324135,
+  "lon": -54.5571908
+},
+{
+  "type": "node",
+  "id": 4362136572,
+  "lat": -25.6323748,
+  "lon": -54.5581108
+},
+{
+  "type": "node",
+  "id": 7767887449,
+  "lat": -25.6323217,
+  "lon": -54.5571868
+},
+{
+  "type": "node",
+  "id": 534174897,
+  "lat": -25.6256768,
+  "lon": -54.5487391
+},
+{
+  "type": "node",
+  "id": 4362136565,
+  "lat": -25.6252770,
+  "lon": -54.5491522
+},
+{
+  "type": "node",
+  "id": 4362136566,
+  "lat": -25.6258187,
+  "lon": -54.5486440
+},
+{
+  "type": "node",
+  "id": 4362136567,
+  "lat": -25.6267486,
+  "lon": -54.5520007
+},
+{
+  "type": "node",
+  "id": 4362136568,
+  "lat": -25.6272275,
+  "lon": -54.5515582
+},
+{
+  "type": "node",
   "id": 7758216728,
   "lat": -25.9637098,
   "lon": -54.4325568
@@ -113365,6 +113463,30 @@
     7758204282,
     7758204281,
     7758216091
+  ]
+},
+{
+  "type": "way",
+  "id": 438468421,
+  "nodes": [
+    4362136566,
+    534174897,
+    4362136565,
+    4362136568,
+    4362136567,
+    4362136569,
+    4362136570,
+    4362136572,
+    7767887449,
+    4362136571
+  ]
+},
+{
+  "type": "way",
+  "id": 831990766,
+  "nodes": [
+    4362136571,
+    4362136566
   ]
 },
 {
