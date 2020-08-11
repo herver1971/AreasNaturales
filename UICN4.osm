@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.3 eb200aeb",
   "osm3s": {
-    "timestamp_osm_base": "2020-08-10T04:20:03Z",
-    "timestamp_areas_base": "2020-08-10T03:15:02Z",
+    "timestamp_osm_base": "2020-08-11T04:20:02Z",
+    "timestamp_areas_base": "2020-08-11T03:33:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1781,6 +1781,40 @@
     "protected_area": "habitat",
     "protection_title": "Reserva Provincial",
     "start_date": "2004",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 11489873,
+  "members": [
+    {
+      "type": "way",
+      "ref": 835598790,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 121914286,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 835776907,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Reserva Provincial La Piramide",
+    "operator": "Provincia de Chaco",
+    "operator:type": "government",
+    "protect_class": "4",
+    "protected_area": "habitat",
+    "protection_title": "Reserva Provincial",
+    "related_law": "Decreto Provincial 2158/07",
+    "start_date": "2007",
     "type": "boundary"
   }
 },
@@ -92140,6 +92174,36 @@
 },
 {
   "type": "node",
+  "id": 7799439289,
+  "lat": -25.6933197,
+  "lon": -61.7118719
+},
+{
+  "type": "node",
+  "id": 364064514,
+  "lat": -25.6547462,
+  "lon": -61.7118213
+},
+{
+  "type": "node",
+  "id": 7799439288,
+  "lat": -25.6025215,
+  "lon": -61.7119007
+},
+{
+  "type": "node",
+  "id": 7801064750,
+  "lat": -25.6950598,
+  "lon": -61.6451456
+},
+{
+  "type": "node",
+  "id": 7801064749,
+  "lat": -25.6039146,
+  "lon": -61.6446306
+},
+{
+  "type": "node",
   "id": 6795872659,
   "lat": -29.3496240,
   "lon": -60.2537992
@@ -118972,6 +119036,32 @@
     7515899021,
     7515899020,
     5996393244
+  ]
+},
+{
+  "type": "way",
+  "id": 835776907,
+  "nodes": [
+    7799439289,
+    7801064750,
+    7801064749,
+    7799439288
+  ]
+},
+{
+  "type": "way",
+  "id": 835598790,
+  "nodes": [
+    364064514,
+    7799439289
+  ]
+},
+{
+  "type": "way",
+  "id": 121914286,
+  "nodes": [
+    364064514,
+    7799439288
   ]
 },
 {
