@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-09-06T04:20:03Z",
-    "timestamp_areas_base": "2020-09-06T03:26:02Z",
+    "timestamp_osm_base": "2020-09-07T04:20:02Z",
+    "timestamp_areas_base": "2020-09-07T03:28:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1820,6 +1820,35 @@
     "protection_title": "Reserva Provincial",
     "related_law": "Decreto Provincial 2158/07",
     "start_date": "2007",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 11589212,
+  "members": [
+    {
+      "type": "way",
+      "ref": 844813758,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 844813759,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Reserva Fauna Silvestre Carabajal",
+    "operator": "Provincia de Salta",
+    "operator:type": "government",
+    "protect_class": "4",
+    "protected_area": "habitat",
+    "protection_title": "Reserva Fauna Silvestre",
+    "related_law": "Decreto Provincial 3121",
+    "start_date": "1971",
     "type": "boundary"
   }
 },
@@ -92179,6 +92208,138 @@
 },
 {
   "type": "node",
+  "id": 7881644730,
+  "lat": -25.0713532,
+  "lon": -65.7249463
+},
+{
+  "type": "node",
+  "id": 7881644731,
+  "lat": -25.0765279,
+  "lon": -65.7215224
+},
+{
+  "type": "node",
+  "id": 7881644729,
+  "lat": -25.0611683,
+  "lon": -65.7302248
+},
+{
+  "type": "node",
+  "id": 7881582233,
+  "lat": -25.0621305,
+  "lon": -65.7093573
+},
+{
+  "type": "node",
+  "id": 7881582234,
+  "lat": -25.0527345,
+  "lon": -65.7001519
+},
+{
+  "type": "node",
+  "id": 7881582235,
+  "lat": -25.0465455,
+  "lon": -65.6991273
+},
+{
+  "type": "node",
+  "id": 7881582236,
+  "lat": -25.0404425,
+  "lon": -65.6933974
+},
+{
+  "type": "node",
+  "id": 7881582237,
+  "lat": -25.0325353,
+  "lon": -65.6955070
+},
+{
+  "type": "node",
+  "id": 7881582238,
+  "lat": -25.0295582,
+  "lon": -65.6945686
+},
+{
+  "type": "node",
+  "id": 7881644728,
+  "lat": -25.0259035,
+  "lon": -65.6937683
+},
+{
+  "type": "node",
+  "id": 7881582242,
+  "lat": -25.0396387,
+  "lon": -65.6818475
+},
+{
+  "type": "node",
+  "id": 7881582240,
+  "lat": -25.0326647,
+  "lon": -65.6900722
+},
+{
+  "type": "node",
+  "id": 7881582241,
+  "lat": -25.0359020,
+  "lon": -65.6844670
+},
+{
+  "type": "node",
+  "id": 7881582243,
+  "lat": -25.0368708,
+  "lon": -65.6813979
+},
+{
+  "type": "node",
+  "id": 7881582244,
+  "lat": -25.0362152,
+  "lon": -65.6791817
+},
+{
+  "type": "node",
+  "id": 7881582245,
+  "lat": -25.0362541,
+  "lon": -65.6772854
+},
+{
+  "type": "node",
+  "id": 7881582246,
+  "lat": -25.0327643,
+  "lon": -65.6760013
+},
+{
+  "type": "node",
+  "id": 7881582247,
+  "lat": -25.0325419,
+  "lon": -65.6697303
+},
+{
+  "type": "node",
+  "id": 7881582239,
+  "lat": -25.0287206,
+  "lon": -65.6896799
+},
+{
+  "type": "node",
+  "id": 7881644727,
+  "lat": -25.0247175,
+  "lon": -65.6896806
+},
+{
+  "type": "node",
+  "id": 7881644725,
+  "lat": -25.0290144,
+  "lon": -65.6666029
+},
+{
+  "type": "node",
+  "id": 7881644726,
+  "lat": -25.0284359,
+  "lon": -65.6525541
+},
+{
+  "type": "node",
   "id": 7799439289,
   "lat": -25.6933197,
   "lon": -61.7118719
@@ -119437,6 +119598,42 @@
     7515899021,
     7515899020,
     5996393244
+  ]
+},
+{
+  "type": "way",
+  "id": 844813758,
+  "nodes": [
+    7881644731,
+    7881644730,
+    7881644729,
+    7881644728,
+    7881644727,
+    7881644726
+  ]
+},
+{
+  "type": "way",
+  "id": 844813759,
+  "nodes": [
+    7881644726,
+    7881644725,
+    7881582247,
+    7881582246,
+    7881582245,
+    7881582244,
+    7881582243,
+    7881582242,
+    7881582241,
+    7881582240,
+    7881582239,
+    7881582238,
+    7881582237,
+    7881582236,
+    7881582235,
+    7881582234,
+    7881582233,
+    7881644731
   ]
 },
 {
