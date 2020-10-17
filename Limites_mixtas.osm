@@ -1,0 +1,3749 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2020-10-17T06:01:02Z",
+    "timestamp_areas_base": "2020-10-17T05:21:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 3213872,
+  "members": [
+    {
+      "type": "relation",
+      "ref": 11221736,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 11221737,
+      "role": "subarea"
+    },
+    {
+      "type": "way",
+      "ref": 568576130,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 488966414,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 488966389,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 238407197,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568977432,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568977431,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568977424,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568791053,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568275542,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568275508,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568275544,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568275496,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 858900247,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568275492,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568254284,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568275446,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568275463,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 777798661,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 858900242,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817871607,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817928143,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817928144,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817928145,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 542138022,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 365213340,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 197732137,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817928150,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 146584507,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 775367471,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817928153,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 145812443,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817871608,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 411879484,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817928160,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568584692,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 488561048,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 238408251,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568584690,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568694357,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568694352,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568748147,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 818074084,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 488966442,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568748144,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568748136,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568748138,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568694338,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 568576129,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "description": "Esta conformada por areas con diferente grado de protección. Una Reserva Natural Estricta que es zona intangible y solo se permite el acceso con fines de investigación y un area con protección de Parque Nacional de acceso limitado al publico",
+    "leisure": "nature_reserve",
+    "name": "Parque Nacional Tierra del Fuego",
+    "name:de": "Nationalpark Feuerland",
+    "name:en": "Fire Land National Park",
+    "name:es": "Parque Nacional Tierra del Fuego",
+    "name:it": "Parco Nazionale Terra del Fuoco",
+    "name:mk": "Национален парк Огнена Земја",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Ley Nacional 15554/60",
+    "start_date": "1960-09-30",
+    "type": "boundary",
+    "wikidata": "Q828709",
+    "wikipedia": "es:Parque nacional Tierra del Fuego"
+  }
+},
+{
+  "type": "relation",
+  "id": 10891156,
+  "members": [
+    {
+      "type": "way",
+      "ref": 825236381,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236389,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236391,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236387,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236376,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 328099001,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 853539222,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236374,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236383,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236384,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784054881,
+      "role": "outer"
+    },
+    {
+      "type": "relation",
+      "ref": 11293231,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 11293230,
+      "role": "subarea"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque Nacional Laguna Blanca",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Decreto Nacional 63691/40",
+    "start_date": "1940",
+    "type": "boundary",
+    "wikidata": "Q828531",
+    "wikipedia": "es:Parque nacional Laguna Blanca"
+  }
+},
+{
+  "type": "relation",
+  "id": 11273278,
+  "members": [
+    {
+      "type": "way",
+      "ref": 23042168,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746988205,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248147360,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825931202,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 824218518,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711324679,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711324680,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711324678,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444986268,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444986270,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444986279,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711043573,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 445918636,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711043575,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 445918638,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711043576,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711043578,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 204426987,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747140627,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743627272,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 426323670,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 426323668,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 426323669,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 426323667,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248168365,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 426585447,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 426585448,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 198138745,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743627271,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743627270,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 198138766,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 673586996,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 673587000,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 247886297,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248168364,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 253385582,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 253385583,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248168360,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 247885307,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 247885304,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747007961,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778331745,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778321814,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747007963,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778321811,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747007960,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778166265,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 247885299,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778166237,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778166238,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778158616,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778158617,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778166245,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778166248,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778166251,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778166253,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778166258,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778160778,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778160776,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778160777,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778337443,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778160773,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 836965237,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 836965235,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 836965257,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 836965249,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 836965248,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747007962,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 247885300,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 247924315,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 367369698,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 367369699,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784037073,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784037069,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784037067,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784037068,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784037072,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 247924320,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753942735,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248166804,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753942728,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248166805,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248167095,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 201802503,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 201802511,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248166363,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747007954,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248166365,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248166364,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 563665000,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 563665001,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747007953,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747007952,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 561266789,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248165592,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 561110020,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 561110021,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 196702253,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 822929285,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248165589,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 204427657,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 822947811,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 822947809,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823220640,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 826197407,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 191657645,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 826197404,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823220633,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823220641,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 456809231,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 812659011,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 826197411,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823261631,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825992957,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823269831,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823573282,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 812659017,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 812659014,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823573278,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 41656040,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 456809232,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823573276,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659803349,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659803348,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659803346,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 812648224,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 460962248,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823573275,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823607389,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825973890,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 220888685,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 824180206,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753942736,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825973886,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 660825589,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 131665536,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 660825591,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 660825592,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825936424,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 204431106,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444899201,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746988209,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746988208,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444899200,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444939228,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248130528,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248130516,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823974404,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 433170918,
+      "role": "outer"
+    },
+    {
+      "type": "relation",
+      "ref": 2744138,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 10390119,
+      "role": "subarea"
+    }
+  ],
+  "tags": {
+    "alt_name": "Parque Nacional Lanín",
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque y Reserva Nacional Lanín",
+    "name:ca": "Parc Nacional Lanín",
+    "name:de": "Nationalpark Lanín",
+    "name:en": "Lanín National Park",
+    "name:es": "Parque y Reserva Nacional Lanin",
+    "name:fr": "Parc national Lanín",
+    "name:ka": "ლანინის ეროვნული პარკი",
+    "name:lt": "Lanino nacionalinis parkas",
+    "name:ms": "Taman Negara Lanín",
+    "name:pl": "Park Narodowy Lanín",
+    "name:pt": "Parque Nacional Lanín",
+    "name:sv": "Parque Nacional Lanín",
+    "name:vi": "Vườn quốc gia Lanín",
+    "name:zh": "拉寧國家公園",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
+    "official_name": "Parque y Reserva Nacional Lanin",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Decreto Nacional 105433/37",
+    "start_date": "1937",
+    "type": "boundary",
+    "website": "https://sib.gob.ar/#!/area-protegida/parque-nacional-lanin",
+    "wikidata": "Q828206",
+    "wikipedia": "es:Parque nacional Lanín"
+  }
+},
+{
+  "type": "relation",
+  "id": 11273411,
+  "members": [
+    {
+      "type": "relation",
+      "ref": 2744139,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 10316595,
+      "role": "subarea"
+    },
+    {
+      "type": "way",
+      "ref": 673394434,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 487725617,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 673394429,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 479160988,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747140604,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747140605,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 479123496,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747140602,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747140601,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 479123509,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 479113915,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 478902363,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 478902355,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817928678,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 817928676,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747140598,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 661618249,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746640725,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 204431116,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746640727,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 133885049,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 660809019,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 824988436,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 660809020,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 824988409,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746957622,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 824969650,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 133040586,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 133576948,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746957626,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 335279149,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 824710119,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 133040587,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 133042561,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 198130988,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 824710126,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 191708814,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 824710129,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746988204,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 131908812,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444899201,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746988209,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746988208,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444899200,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444939228,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248130528,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248130516,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 823974404,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 433170918,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 23042168,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746988205,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248147360,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825931202,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 824218518,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711324679,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711324680,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711324678,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444986268,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444986270,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 444986279,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711043573,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 445918636,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711043575,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 445918638,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711043576,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711043578,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 204426987,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747140627,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743627272,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 711043580,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 742275870,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 191708815,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743199405,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 108788412,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459063556,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459063549,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743315460,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248128271,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459063555,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459063554,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 799425918,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459063559,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459063560,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459057684,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459057688,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 742220777,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459057683,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459057687,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 732000812,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 373125857,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 732011455,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 732011451,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 732011452,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 732011447,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 222268556,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458332864,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458332863,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 777824651,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459054106,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459054105,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459054104,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 222268546,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459054124,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459054123,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459054103,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459054122,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458332866,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086201,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086199,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086200,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086191,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459054121,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086196,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086205,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281273,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086204,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281272,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458269363,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086229,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086217,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086218,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458269368,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086219,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086222,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086228,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281288,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086227,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086226,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281291,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281286,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281290,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458264843,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458264842,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458264841,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458264840,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458264834,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458269366,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458269362,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458269361,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458267703,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458269365,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281316,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281315,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281313,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 373125891,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458332868,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281319,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458281318,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458273302,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458273301,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458267704,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458267708,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458267707,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458267711,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458267712,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458267716,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458267719,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458267718,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086241,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 673407010,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086239,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 673407012,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086250,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086249,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086248,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086247,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086256,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086257,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086259,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086264,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086261,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086262,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086263,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 323357030,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086268,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458086267,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457989039,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778135649,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457989038,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457989055,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747140620,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778135648,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457989054,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457987917,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457987916,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457987921,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457987922,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457987923,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457987926,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457987920,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457987927,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457987932,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457307210,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457307209,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457307218,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457307216,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 323357033,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457307213,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457307215,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743299028,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 261300874,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 261300876,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 777871486,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 777871485,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 487725759,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 261300982,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743299029,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 261298905,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 261298906,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743299032,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743299031,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 261276960,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 259681302,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 263675298,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 199059744,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248123745,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 487725622,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 481687672,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 481431915,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 481435681,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 481435682,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 480862671,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 480862669,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 248123717,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747140610,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 373116831,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 373116842,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 824642332,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 824642334,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 824642331,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 373116839,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 373116840,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 443784502,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447483432,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 373116844,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 443784478,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461906481,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461930148,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461930146,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 248150273,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 443602653,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 373116845,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 248150301,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 443784477,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447483433,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 373116832,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 23041879,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 438541211,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 745699003,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 745699005,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 747140622,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 745699004,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 248150299,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455499483,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 373116838,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 373116833,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 373116837,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 747140596,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 747140597,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 556828018,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 556828020,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque y Reserva Nacional Nahuel Huapi",
+    "name:de": "Nationalpark Nahuel Huapi",
+    "name:en": "Nahuel Huapi National Park",
+    "name:es": "Parque y Reserva Nacional Nahuel Huapi",
+    "name:fr": "Parc national Nahuel Huapi",
+    "name:it": "Parco Nazionale Nahuel Huapi",
+    "name:pt": "Parque Nacional Nahuel Huapi",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Ley Nacional 12103/34",
+    "start_date": "1934",
+    "type": "boundary",
+    "website": "http://www.nahuelhuapi.gov.ar/",
+    "wikidata": "Q827817",
+    "wikipedia": "es:Parque nacional Nahuel Huapi"
+  }
+},
+{
+  "type": "relation",
+  "id": 11274142,
+  "members": [
+    {
+      "type": "relation",
+      "ref": 2622198,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 10339230,
+      "role": "subarea"
+    },
+    {
+      "type": "way",
+      "ref": 741991454,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 859328047,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741991455,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 715569133,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 822675512,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 822675499,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 780227643,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 742036268,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 715569140,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 859337411,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 749807291,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 822650524,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 749807296,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 715569134,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 822675513,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 194755896,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 822675497,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 749807289,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741991451,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 194756700,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 859360521,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 715569137,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 859328044,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 715569139,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 859328045,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741991452,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque y Reserva Nacional Lago Puelo",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Ley Nacional 19292/71",
+    "source": "Administración de Parques Nacionales; Decreto 19292/71",
+    "start_date": "1971-10-11",
+    "type": "boundary",
+    "wikidata": "Q828353",
+    "wikimedia_commons": "File:Parque_nacional_Lago_Puelo.jpg",
+    "wikipedia": "es:Parque nacional Lago Puelo"
+  }
+},
+{
+  "type": "relation",
+  "id": 11274150,
+  "members": [
+    {
+      "type": "relation",
+      "ref": 8751125,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 2620953,
+      "role": "subarea"
+    },
+    {
+      "type": "way",
+      "ref": 822305658,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 194665858,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 780227653,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741919490,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 194959424,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 859035465,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 194959422,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741919491,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741919493,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 194665857,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 859035476,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 741919494,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 715619301,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 859401532,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 238917203,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 859401533,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 715619302,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 194656688,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 628688430,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 715619303,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 228881376,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 822352918,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 344928203,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 194656687,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 194656685,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name": "Parque Nacional de Los Alerces",
+    "boundary": "protected_area",
+    "heritage": "1",
+    "heritage:operator": "whc",
+    "leisure": "nature_reserve",
+    "name": "Parque y Reserva Nacional Los Alerces",
+    "name:en": "Los Alerces National Park",
+    "name:fr": "Parc national de Los Alerces",
+    "name:nl": "Los Alerces Nationaal Park",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "ref:whc": "1526",
+    "related_law": "Decreto Nacional 105433/37",
+    "source": "http://whc.unesco.org/en/list/1526/",
+    "source:name": "World Heritage Centre",
+    "type": "boundary",
+    "whc:criteria": "(vii)(x)",
+    "whc:inscription_date": "2017",
+    "wikidata": "Q828291",
+    "wikipedia": "es:Parque nacional Los Alerces"
+  }
+},
+{
+  "type": "relation",
+  "id": 11277779,
+  "members": [
+    {
+      "type": "relation",
+      "ref": 3642560,
+      "role": "subarea"
+    },
+    {
+      "type": "way",
+      "ref": 333382010,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747816327,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747816326,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747816330,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747816328,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 367377601,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 367389860,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 367377597,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 274471138,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 273356720,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 274469046,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 333380493,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747816318,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 367379044,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 818153221,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 820262901,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 820262902,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 274469047,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 333380496,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747816317,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747816316,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 367383555,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747388582,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747388583,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 273354022,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 273341447,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 742197004,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 742197001,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 273341459,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 742196999,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 742196998,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 638571322,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747816331,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 638553067,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779892449,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779892445,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 638553065,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 742196997,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 412561018,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 453432961,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 410368381,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659435028,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659435025,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659435019,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 712068329,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 712068328,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 712068321,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 364451529,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 712068314,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 712068315,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 712068317,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 712068330,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 712068318,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 659435027,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 492873586,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 364451522,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 364451615,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 273358429,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 818872085,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 819197321,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 492873585,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 364451619,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 492873584,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 364451581,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 492873583,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 492873582,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 364451600,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 820504356,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 206475805,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 655813922,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747816319,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 655813923,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 206461886,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 273356721,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque y Reserva Nacional Los Glaciares",
+    "name:de": "Nationalpark der Gletscher",
+    "name:en": "Los Glaciares National Park",
+    "name:es": "Parque y Reserva Nacional Los Glaciares",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Decreto Nacional 105433/37",
+    "start_date": "1937",
+    "type": "boundary",
+    "wikidata": "Q215992",
+    "wikipedia": "es:Parque nacional Los Glaciares"
+  }
+},
+{
+  "type": "relation",
+  "id": 11277823,
+  "members": [
+    {
+      "type": "way",
+      "ref": 779906781,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 592870115,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779906777,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 737675662,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779906776,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779906775,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779906779,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 779906782,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque y Reserva Nacional Patagonia",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Ley nacional 27081/15",
+    "start_date": "2015",
+    "type": "boundary",
+    "wikidata": "Q16622739",
+    "wikipedia": "es:Parque nacional Patagonia (Argentina)"
+  }
+},
+{
+  "type": "relation",
+  "id": 11293141,
+  "members": [
+    {
+      "type": "way",
+      "ref": 853539222,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 328099001,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236374,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236383,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236384,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784054880,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784054883,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236376,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236387,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236391,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236389,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 825236381,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784054882,
+      "role": "outer"
+    },
+    {
+      "type": "relation",
+      "ref": 10891156,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 10891155,
+      "role": "subarea"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque y Reserva Nacional Laguna Blanca",
+    "name:es": "Parque y Reserva Nacional Laguna Blanca",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Decreto Nacional 63691/40",
+    "start_date": "1940",
+    "type": "boundary",
+    "wikidata": "Q828531",
+    "wikipedia": "es:Parque nacional Laguna Blanca"
+  }
+},
+{
+  "type": "relation",
+  "id": 11296190,
+  "members": [
+    {
+      "type": "relation",
+      "ref": 3519998,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 6545279,
+      "role": "subarea"
+    },
+    {
+      "type": "way",
+      "ref": 27996034,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 237615188,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439441822,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 710449886,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439441821,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 830419087,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 344201316,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 237615808,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 832754426,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 832971618,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 830440186,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439627522,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439627520,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439630560,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439630580,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439630567,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439969480,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439973528,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 751868356,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439630564,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 442977029,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 442977028,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 832025006,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439971296,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 262159836,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 831990766,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 831990767,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 443319132,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 834249598,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 834249599,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 443319136,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 202879822,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 439630583,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Parque y Reserva Nacional Iguazú",
+    "name:de": "Nationalpark Iguazú",
+    "name:en": "Iguazú National Park",
+    "name:es": "Parque y Reserva Nacional Iguazú",
+    "name:fr": "Parc national d'Iguazú",
+    "name:it": "Parco Nazionale dell'Iguazú",
+    "name:ja": "イグアス国立公園",
+    "name:pt": "Parque Nacional Iguazú",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
+    "operator": "Administración Parques Nacionales",
+    "operator:type": "government",
+    "protected_area": "national_park",
+    "protection_title": "Parque Nacional",
+    "related_law": "Ley Nacional 12103/34",
+    "start_date": "1934",
+    "type": "boundary",
+    "wikidata": "Q474205",
+    "wikipedia": "es:Parque nacional Iguazú"
+  }
+},
+{
+  "type": "relation",
+  "id": 11527683,
+  "members": [
+    {
+      "type": "relation",
+      "ref": 11527678,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 11527677,
+      "role": "subarea"
+    },
+    {
+      "type": "way",
+      "ref": 839500873,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 835598794,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 313876873,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 839500872,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 839500870,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 329240941,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 839500869,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Reserva Provincial de Uso Múltiple Copo",
+    "note": "La categoría de protección está cargada en las subareas que la componen. No agregar en esta relación",
+    "operator": "Provincia de Santiago del Estero",
+    "operator:type": "government",
+    "protected_area": "sustainable",
+    "protection_title": "Reserva Provincial de Uso Múltiple",
+    "related_law": "Ley Provincial 6601",
+    "start_date": "2002",
+    "type": "boundary",
+    "wikidata": "Q25408593",
+    "wikipedia": "es:Reserva provincial Copo"
+  }
+},
+{
+  "type": "relation",
+  "id": 11535940,
+  "members": [
+    {
+      "type": "relation",
+      "ref": 11574040,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 10440426,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 9210766,
+      "role": "subarea"
+    },
+    {
+      "type": "relation",
+      "ref": 10437574,
+      "role": "subarea"
+    },
+    {
+      "type": "way",
+      "ref": 756945784,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 756606123,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 756945779,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 756606122,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 757042205,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 757042204,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 756606121,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 756606137,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 757042207,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 85444654,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 757042202,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 757042201,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 757042200,
+     
