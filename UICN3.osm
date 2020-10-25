@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-10-24T04:17:02Z",
-    "timestamp_areas_base": "2020-10-24T02:54:02Z",
+    "timestamp_osm_base": "2020-10-25T05:44:02Z",
+    "timestamp_areas_base": "2020-10-25T05:10:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -75,7 +75,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Provincial Barco Hundido",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
@@ -114,7 +113,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Provincial Puente del Inca",
     "operator": "Provincia de Mendoza",
     "protect_class": "3",
@@ -154,7 +152,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural del Abra del Acay",
     "operator": "Provincia de Salta",
     "protect_class": "3",
@@ -184,7 +181,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Provincial Bloque Errático",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
@@ -233,7 +229,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Bosques Petrificados",
     "name:es": "Monumento Natural Bosques Petrificados",
     "operator": "Administración Parques Nacionales",
@@ -264,7 +259,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Patrimonio Mundial Cultural de la Humanidad Cueva de las Manos del Río Pinturas",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
@@ -314,7 +308,6 @@
   "tags": {
     "boundary": "protected_area",
     "fixme": "Chequear limites. Aproximados segun la ley y superficie declarada",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Provincial Cerro Chalten",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
@@ -343,7 +336,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Provincial Bosque Petrificado Sarmiento",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
@@ -374,7 +366,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Provincial Cañada Molina",
     "operator": "Provincia de Neuquén",
     "operator:type": "government",
@@ -405,7 +396,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Cerro de La Ventana",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
@@ -454,7 +444,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Islote Municipal Curupí",
     "operator": "MIxto",
     "operator:type": "government",
@@ -512,7 +501,6 @@
   "tags": {
     "boundary": "protected_area",
     "fixme": "Hay que mejorar los limtes, pero no pude encontrarlos exactos",
-    "leisure": "nature_reserve",
     "name": "Escuela Agrotecnica Manuel Bernard 52",
     "operator": "Provincia de Entre Rios",
     "operator:type": "government",
@@ -555,7 +543,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Laguna de Los Pozuelos",
     "operator": "Administración de Parques Nacionales",
     "operator:type": "government",
@@ -586,7 +573,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Isla Palacios",
     "natural": "wood",
     "operator": "Provincia de Misiones",
@@ -659,7 +645,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Saltos de Moconá",
     "operator": "Provincia de Misiones",
     "operator:type": "government",
@@ -728,7 +713,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Angastaco",
     "operator": "Provincia de Salta",
     "operator:type": "government",
@@ -757,7 +741,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Laguna Leandro",
     "operator": "Provincia de jujuy",
     "operator:type": "government",
@@ -813,7 +796,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Monumento Natural Cerro Bola",
     "operator": "Provincia de La Rioja",
     "operator:type": "government",
@@ -823,6 +805,49 @@
     "related_law": "Ley Provincial 6192/96",
     "start_date": "1996",
     "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 11790070,
+  "members": [
+    {
+      "type": "way",
+      "ref": 863369127,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 863374842,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 863369641,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 863369640,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Monumento Natural Provincial Cerro Alcazar",
+    "official_name": "Monumento Natural Provincial Cerro Alcazar - Area Núcleo",
+    "operator": "Provincia de San Juan",
+    "operator:type": "government",
+    "protect_class": "3",
+    "protected_area": "national_monument",
+    "protection_title": "Monumento Natural Provincial",
+    "related_law": "Ley Provincial 8508/14",
+    "short_name": "Cerro Alcazar",
+    "start_date": "1993",
+    "type": "boundary",
+    "wikidata": "Q6023300",
+    "wikipedia": "es:Monumento natural Cerro Alcázar"
   }
 },
 {
@@ -9230,6 +9255,66 @@
   "id": 7025940346,
   "lat": -32.8270839,
   "lon": -69.8964283
+},
+{
+  "type": "node",
+  "id": 4302969516,
+  "lat": -31.4826750,
+  "lon": -69.3974724
+},
+{
+  "type": "node",
+  "id": 4302969503,
+  "lat": -31.4832306,
+  "lon": -69.3932555
+},
+{
+  "type": "node",
+  "id": 4302969502,
+  "lat": -31.4792278,
+  "lon": -69.3968390
+},
+{
+  "type": "node",
+  "id": 4302969510,
+  "lat": -31.4788025,
+  "lon": -69.4004713
+},
+{
+  "type": "node",
+  "id": 4302969514,
+  "lat": -31.4756306,
+  "lon": -69.4001194
+},
+{
+  "type": "node",
+  "id": 8042816992,
+  "lat": -31.4770447,
+  "lon": -69.4002760
+},
+{
+  "type": "node",
+  "id": 8042817052,
+  "lat": -31.4767802,
+  "lon": -69.4002467
+},
+{
+  "type": "node",
+  "id": 4302969509,
+  "lat": -31.4762139,
+  "lon": -69.3960333
+},
+{
+  "type": "node",
+  "id": 4302969507,
+  "lat": -31.4734111,
+  "lon": -69.3915750
+},
+{
+  "type": "node",
+  "id": 4302969513,
+  "lat": -31.4728778,
+  "lon": -69.3952806
 },
 {
   "type": "node",
@@ -29070,6 +29155,44 @@
   "nodes": [
     7025940346,
     2383595724
+  ]
+},
+{
+  "type": "way",
+  "id": 863369127,
+  "nodes": [
+    4302969510,
+    4302969516,
+    4302969503,
+    4302969502,
+    4302969509,
+    4302969507,
+    4302969513,
+    4302969514
+  ]
+},
+{
+  "type": "way",
+  "id": 863369640,
+  "nodes": [
+    8042816992,
+    4302969510
+  ]
+},
+{
+  "type": "way",
+  "id": 863369641,
+  "nodes": [
+    8042817052,
+    8042816992
+  ]
+},
+{
+  "type": "way",
+  "id": 863374842,
+  "nodes": [
+    4302969514,
+    8042817052
   ]
 },
 {

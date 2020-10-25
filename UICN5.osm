@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.6 474850e8",
+  "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-10-24T15:15:02Z",
-    "timestamp_areas_base": "2020-10-24T14:11:03Z",
+    "timestamp_osm_base": "2020-10-25T07:15:03Z",
+    "timestamp_areas_base": "2020-10-25T06:13:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -65,7 +65,6 @@
   "tags": {
     "boundary": "protected_area",
     "landuse": "forest",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Quinta Cigordia",
     "operator": "Municipalidad de Luján",
     "protect_class": "5",
@@ -133,7 +132,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Área Natural Protegida Loma de las Tapias",
     "operator": "Provincia de San Juan",
     "protect_class": "5",
@@ -162,7 +160,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Pedernal",
     "operator": "Provincia de San Juan",
     "protect_class": "5",
@@ -212,7 +209,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Bahía San Julián",
     "operator": "Consejo Agrario Provincial",
     "operator:type": "government",
@@ -248,7 +244,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Área Natural Protegida Puerto Lobos",
     "operator": "Provincia de Río Negro",
     "operator:type": "government",
@@ -278,7 +273,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Area Natural Protegida Cipresal de Las Guaitecas",
     "operator": "Provincia de Rio Negro",
     "operator:type": "government",
@@ -359,7 +353,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Río Limay",
     "operator": "Provincia de Rio Negro",
     "operator:type": "government",
@@ -390,7 +383,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural El Manzano Histórico",
     "operator": "Provincia de Mendoza",
     "protect_class": "5",
@@ -502,7 +494,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Parque Natural y Paisaje Protegido Afloramientos Limo Arcillosos",
     "operator": "Provincia de San Juan",
     "protect_class": "5",
@@ -549,7 +540,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Costera Urbana del Río Chico",
     "operator": "Municipalidad de Río Gallegos",
     "operator:type": "government",
@@ -590,7 +580,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Costera Urbana del Río Gallegos",
     "operator": "Municipalidad de Río Gallegos",
     "operator:type": "government",
@@ -651,7 +640,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Cultural Natural Playa Larga",
     "operator": "Provincia de Tierra del Fuego",
     "operator:type": "government",
@@ -682,7 +670,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Túristica Piedra Parada",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
@@ -921,7 +908,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Área Natural Protegida Bahía San Antonio",
     "operator": "Provincia de Río Negro",
     "operator:type": "government",
@@ -1002,7 +988,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Área Natural Protegida Punta Bermeja",
     "operator": "Provincia de Río Negro",
     "operator:type": "government",
@@ -1033,7 +1018,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Camino Colonia La Luisa",
     "operator": "Provincia de Río Negro",
     "operator:type": "government",
@@ -1337,7 +1321,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva de Biosfera Delta Del Paraná - Zona B Tampón",
     "operator": "Municipalidad de San Fernando",
     "operator:type": "government",
@@ -1368,7 +1351,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "El Alisal (Isla Espinillo)",
     "operator": "Privada",
     "operator:type": "private",
@@ -1427,7 +1409,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Camping Toma Vieja",
     "operator": "Privado",
     "operator:type": "private",
@@ -1501,7 +1482,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Balneario Thompson",
     "operator": "Municipalidad Paraná",
     "operator:type": "government",
@@ -1560,7 +1540,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Las Piedras",
     "operator": "Provincia de Entre Rios",
     "operator:type": "government",
@@ -1591,7 +1570,6 @@
     "alt_name": "Reserva Ecológica San Justo",
     "boundary": "protected_area",
     "fixme": "No se pudo diferenciar la Reserva Ecologica de la Reserva Municipal. Se precisa conocimiento local, ya que la informacion del gobierno es contradictoria y ubicacion que marca lleva a otra localidad distante",
-    "leisure": "nature_reserve",
     "name": "Reserva Municipal San Justo",
     "operator": "Municipalidad de San Justo",
     "operator:type": "government",
@@ -1665,7 +1643,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje protegido Corredor Biológico de la Autopista AP-01 Rosario - Santa Fe",
     "operator": "Provincia de Santa Fe",
     "operator:type": "government",
@@ -1769,7 +1746,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Lago Urugua-Í",
     "operator": "Provincia de Misiones",
     "operator:type": "government",
@@ -1804,7 +1780,6 @@
     "animal_shelter:adoption": "no",
     "animal_shelter:release": "yes",
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Güirá Oga",
     "opening_hours": "Mo-Su 09:00-18:00",
     "operator": "Fundación Temaikén",
@@ -1908,7 +1883,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Quebrada de Humahuaca",
     "operator": "Provincia de jujuy",
     "operator:type": "government",
@@ -34475,32 +34449,500 @@
 {
   "type": "node",
   "id": 4121546320,
-  "lat": -32.1244095,
-  "lon": -68.8430859
+  "lat": -32.1214292,
+  "lon": -68.8509823
+},
+{
+  "type": "node",
+  "id": 8043063051,
+  "lat": -32.1213276,
+  "lon": -68.8492370
+},
+{
+  "type": "node",
+  "id": 8043063046,
+  "lat": -32.1210550,
+  "lon": -68.8451386
+},
+{
+  "type": "node",
+  "id": 8043063047,
+  "lat": -32.1207824,
+  "lon": -68.8427353
+},
+{
+  "type": "node",
+  "id": 8043063048,
+  "lat": -32.1212186,
+  "lon": -68.8405252
+},
+{
+  "type": "node",
+  "id": 8043063049,
+  "lat": -32.1206371,
+  "lon": -68.8395167
+},
+{
+  "type": "node",
+  "id": 8043063050,
+  "lat": -32.1194013,
+  "lon": -68.8381434
+},
+{
+  "type": "node",
+  "id": 8043063052,
+  "lat": -32.1188197,
+  "lon": -68.8374996
+},
+{
+  "type": "node",
+  "id": 8043063053,
+  "lat": -32.1159846,
+  "lon": -68.8381863
+},
+{
+  "type": "node",
+  "id": 8043063054,
+  "lat": -32.1128223,
+  "lon": -68.8371992
+},
+{
+  "type": "node",
+  "id": 8043063055,
+  "lat": -32.1112047,
+  "lon": -68.8354182
+},
+{
+  "type": "node",
+  "id": 8043063056,
+  "lat": -32.1093145,
+  "lon": -68.8334227
+},
+{
+  "type": "node",
+  "id": 8043063057,
+  "lat": -32.1088783,
+  "lon": -68.8321138
+},
+{
+  "type": "node",
+  "id": 8043063058,
+  "lat": -32.1065154,
+  "lon": -68.8297320
+},
+{
+  "type": "node",
+  "id": 8043063059,
+  "lat": -32.1052613,
+  "lon": -68.8277793
+},
+{
+  "type": "node",
+  "id": 8043063060,
+  "lat": -32.1041707,
+  "lon": -68.8266206
+},
+{
+  "type": "node",
+  "id": 8043063061,
+  "lat": -32.1025530,
+  "lon": -68.8247109
+},
+{
+  "type": "node",
+  "id": 8043063062,
+  "lat": -32.1003899,
+  "lon": -68.8232947
+},
+{
+  "type": "node",
+  "id": 8043063063,
+  "lat": -32.0980814,
+  "lon": -68.8229084
+},
+{
+  "type": "node",
+  "id": 8043063064,
+  "lat": -32.0961818,
+  "lon": -68.8228118
+},
+{
+  "type": "node",
+  "id": 8043063065,
+  "lat": -32.0942458,
+  "lon": -68.8226509
+},
+{
+  "type": "node",
+  "id": 8043063066,
+  "lat": -32.0927915,
+  "lon": -68.8229943
+},
+{
+  "type": "node",
+  "id": 8043063067,
+  "lat": -32.0909009,
+  "lon": -68.8215351
+},
+{
+  "type": "node",
+  "id": 8043063068,
+  "lat": -32.0882104,
+  "lon": -68.8200331
+},
+{
+  "type": "node",
+  "id": 8043063069,
+  "lat": -32.0856652,
+  "lon": -68.8185740
+},
+{
+  "type": "node",
+  "id": 8043063070,
+  "lat": -32.0819564,
+  "lon": -68.8153982
+},
+{
+  "type": "node",
+  "id": 8043063071,
+  "lat": -32.0770838,
+  "lon": -68.8121796
+},
+{
+  "type": "node",
+  "id": 8043063072,
+  "lat": -32.0755565,
+  "lon": -68.8116217
+},
+{
+  "type": "node",
+  "id": 8043063073,
+  "lat": -32.0721745,
+  "lon": -68.8091755
+},
+{
+  "type": "node",
+  "id": 8043063074,
+  "lat": -32.0698108,
+  "lon": -68.8081885
+},
+{
+  "type": "node",
+  "id": 8043063075,
+  "lat": -32.0667195,
+  "lon": -68.8061285
+},
+{
+  "type": "node",
+  "id": 8043063076,
+  "lat": -32.0643920,
+  "lon": -68.8053990
+},
+{
+  "type": "node",
+  "id": 8043063077,
+  "lat": -32.0614461,
+  "lon": -68.8039828
+},
+{
+  "type": "node",
+  "id": 8043063078,
+  "lat": -32.0581000,
+  "lon": -68.8022662
+},
+{
+  "type": "node",
+  "id": 8043063079,
+  "lat": -32.0554812,
+  "lon": -68.7996054
+},
+{
+  "type": "node",
+  "id": 8043063080,
+  "lat": -32.0527533,
+  "lon": -68.7968588
+},
+{
+  "type": "node",
+  "id": 8043063081,
+  "lat": -32.0498797,
+  "lon": -68.7918806
+},
+{
+  "type": "node",
+  "id": 8043063082,
+  "lat": -32.0479155,
+  "lon": -68.7896490
 },
 {
   "type": "node",
   "id": 4121546311,
-  "lat": -31.9483347,
-  "lon": -68.8935204
+  "lat": -31.9568645,
+  "lon": -68.8926192
+},
+{
+  "type": "node",
+  "id": 8043063083,
+  "lat": -32.0434776,
+  "lon": -68.7852717
+},
+{
+  "type": "node",
+  "id": 8043063084,
+  "lat": -32.0402400,
+  "lon": -68.7817526
+},
+{
+  "type": "node",
+  "id": 8043066685,
+  "lat": -32.0378754,
+  "lon": -68.7792206
+},
+{
+  "type": "node",
+  "id": 8043066686,
+  "lat": -32.0357290,
+  "lon": -68.7761307
+},
+{
+  "type": "node",
+  "id": 8043066687,
+  "lat": -32.0315088,
+  "lon": -68.7704230
 },
 {
   "type": "node",
   "id": 4121546349,
-  "lat": -32.0355407,
-  "lon": -68.7567771
+  "lat": -32.0297624,
+  "lon": -68.7677193
+},
+{
+  "type": "node",
+  "id": 8043066688,
+  "lat": -32.0210302,
+  "lon": -68.7561322
+},
+{
+  "type": "node",
+  "id": 8043066689,
+  "lat": -32.0199023,
+  "lon": -68.7548447
+},
+{
+  "type": "node",
+  "id": 8043066690,
+  "lat": -32.0171368,
+  "lon": -68.7539435
+},
+{
+  "type": "node",
+  "id": 8043066691,
+  "lat": -32.0068386,
+  "lon": -68.7522698
+},
+{
+  "type": "node",
+  "id": 8043066692,
+  "lat": -32.0061290,
+  "lon": -68.7509823
+},
+{
+  "type": "node",
+  "id": 8043066693,
+  "lat": -32.0044186,
+  "lon": -68.7497163
+},
+{
+  "type": "node",
+  "id": 8043066694,
+  "lat": -32.0037271,
+  "lon": -68.7487078
+},
+{
+  "type": "node",
+  "id": 8043066695,
+  "lat": -32.0028537,
+  "lon": -68.7475705
+},
+{
+  "type": "node",
+  "id": 8043066696,
+  "lat": -32.0013251,
+  "lon": -68.7467981
+},
+{
+  "type": "node",
+  "id": 8043066697,
+  "lat": -32.0001423,
+  "lon": -68.7465191
+},
+{
+  "type": "node",
+  "id": 8043066698,
+  "lat": -31.9987593,
+  "lon": -68.7460041
+},
+{
+  "type": "node",
+  "id": 8043066699,
+  "lat": -31.9980860,
+  "lon": -68.7455320
+},
+{
+  "type": "node",
+  "id": 8043066700,
+  "lat": -31.9969578,
+  "lon": -68.7449527
+},
+{
+  "type": "node",
+  "id": 8043066701,
+  "lat": -31.9958295,
+  "lon": -68.7442875
+},
+{
+  "type": "node",
+  "id": 8043066702,
+  "lat": -31.9951926,
+  "lon": -68.7435794
+},
+{
+  "type": "node",
+  "id": 8043066703,
+  "lat": -31.9946103,
+  "lon": -68.7430644
+},
+{
+  "type": "node",
+  "id": 8043066704,
+  "lat": -31.9937003,
+  "lon": -68.7423349
+},
+{
+  "type": "node",
+  "id": 8043066705,
+  "lat": -31.9923718,
+  "lon": -68.7415838
 },
 {
   "type": "node",
   "id": 4121546354,
-  "lat": -32.0023090,
-  "lon": -68.7245230
+  "lat": -31.9873319,
+  "lon": -68.7388567
+},
+{
+  "type": "node",
+  "id": 8043066706,
+  "lat": -31.9889504,
+  "lon": -68.7400389
+},
+{
+  "type": "node",
+  "id": 8043066710,
+  "lat": -31.9848828,
+  "lon": -68.7371528
+},
+{
+  "type": "node",
+  "id": 8043066711,
+  "lat": -31.9864662,
+  "lon": -68.7384295
+},
+{
+  "type": "node",
+  "id": 8043066707,
+  "lat": -31.9820071,
+  "lon": -68.7345243
+},
+{
+  "type": "node",
+  "id": 8043066708,
+  "lat": -31.9832266,
+  "lon": -68.7356830
+},
+{
+  "type": "node",
+  "id": 8043066709,
+  "lat": -31.9842185,
+  "lon": -68.7365413
+},
+{
+  "type": "node",
+  "id": 8043066723,
+  "lat": -31.9799413,
+  "lon": -68.7325287
+},
+{
+  "type": "node",
+  "id": 8043066722,
+  "lat": -31.9771383,
+  "lon": -68.7296534
+},
+{
+  "type": "node",
+  "id": 8043066719,
+  "lat": -31.9732795,
+  "lon": -68.7238169
+},
+{
+  "type": "node",
+  "id": 8043066720,
+  "lat": -31.9740075,
+  "lon": -68.7248040
+},
+{
+  "type": "node",
+  "id": 8043066721,
+  "lat": -31.9753545,
+  "lon": -68.7272930
+},
+{
+  "type": "node",
+  "id": 8043066716,
+  "lat": -31.9661438,
+  "lon": -68.7223149
+},
+{
+  "type": "node",
+  "id": 8043066717,
+  "lat": -31.9681826,
+  "lon": -68.7222720
+},
+{
+  "type": "node",
+  "id": 8043066718,
+  "lat": -31.9717140,
+  "lon": -68.7227011
+},
+{
+  "type": "node",
+  "id": 8043066713,
+  "lat": -31.9600635,
+  "lon": -68.7211991
+},
+{
+  "type": "node",
+  "id": 8043066714,
+  "lat": -31.9615927,
+  "lon": -68.7212849
+},
+{
+  "type": "node",
+  "id": 8043066715,
+  "lat": -31.9638501,
+  "lon": -68.7220574
 },
 {
   "type": "node",
   "id": 4121546342,
-  "lat": -31.9492190,
-  "lon": -68.7050561
+  "lat": -31.9566472,
+  "lon": -68.7215356
+},
+{
+  "type": "node",
+  "id": 8043066712,
+  "lat": -31.9582794,
+  "lon": -68.7214995
 },
 {
   "type": "node",
@@ -115281,7 +115723,68 @@
   "id": 410322303,
   "nodes": [
     4121546354,
+    8043066706,
+    8043066705,
+    8043066704,
+    8043066703,
+    8043066702,
+    8043066701,
+    8043066700,
+    8043066699,
+    8043066698,
+    8043066697,
+    8043066696,
+    8043066695,
+    8043066694,
+    8043066693,
+    8043066692,
+    8043066691,
+    8043066690,
+    8043066689,
+    8043066688,
     4121546349,
+    8043066687,
+    8043066686,
+    8043066685,
+    8043063084,
+    8043063083,
+    8043063082,
+    8043063081,
+    8043063080,
+    8043063079,
+    8043063078,
+    8043063077,
+    8043063076,
+    8043063075,
+    8043063074,
+    8043063073,
+    8043063072,
+    8043063071,
+    8043063070,
+    8043063069,
+    8043063068,
+    8043063067,
+    8043063066,
+    8043063065,
+    8043063064,
+    8043063063,
+    8043063062,
+    8043063061,
+    8043063060,
+    8043063059,
+    8043063058,
+    8043063057,
+    8043063056,
+    8043063055,
+    8043063054,
+    8043063053,
+    8043063052,
+    8043063050,
+    8043063049,
+    8043063048,
+    8043063047,
+    8043063046,
+    8043063051,
     4121546320,
     4121546311
   ]
@@ -115292,6 +115795,23 @@
   "nodes": [
     4121546311,
     4121546342,
+    8043066712,
+    8043066713,
+    8043066714,
+    8043066715,
+    8043066716,
+    8043066717,
+    8043066718,
+    8043066719,
+    8043066720,
+    8043066721,
+    8043066722,
+    8043066723,
+    8043066707,
+    8043066708,
+    8043066709,
+    8043066710,
+    8043066711,
     4121546354
   ]
 },

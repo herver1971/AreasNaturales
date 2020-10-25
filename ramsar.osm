@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "generator": "Overpass API 0.7.56.6 474850e8",
   "osm3s": {
-    "timestamp_osm_base": "2020-10-24T05:13:02Z",
-    "timestamp_areas_base": "2020-10-24T05:00:03Z",
+    "timestamp_osm_base": "2020-10-25T09:19:03Z",
+    "timestamp_areas_base": "2020-10-25T08:43:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -75,7 +75,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Parque Nacional Río Pilcomayo",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
@@ -194,7 +193,6 @@
   "tags": {
     "alt_name": "Reserva Bañados del Río Dulce y Laguna Mar de Ansenuza",
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Bañados del Río Dulce y Laguna Mar Chiquita",
     "operator": "Provincia de Córdoba",
     "protect_class": "6",
@@ -432,7 +430,6 @@
   "tags": {
     "boundary": "protected_area",
     "contact:website": "http://www.santafe.gob.ar/index.php/web/content/view/full/210015/(subtema)/112853",
-    "leisure": "nature_reserve",
     "name": "Humedal Laguna Melincué",
     "official_name": "Reserva de Usos Múltiples Humedal Laguna Melincué",
     "operator": "Provincia de Santa Fe",
@@ -584,7 +581,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Sitio Ramsar Humedales Valdés",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
@@ -674,7 +670,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Parque Nacional Ciervo de Los Pantanos",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
@@ -763,7 +758,6 @@
   "tags": {
     "boundary": "protected_area",
     "contact:website": "http://www.reservacostanera.com.ar/",
-    "leisure": "nature_reserve",
     "name": "Reserva Ecológica Costanera Sur",
     "operator": "Gobierno de la Ciudad Autónoma de Buenos Aires",
     "protect_class": "4",
@@ -884,7 +878,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Sitio Ramsar Lagunas de Guanacache, Desaguadero y Del Bebedero",
     "operator": "Interjurisdiccional",
     "operator:type": "government",
@@ -932,7 +925,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Sitio Ramsar Lagunas de Vilama",
     "operator": "Provincia de Jujuy",
     "protect_class": "6",
@@ -959,7 +951,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Sitio Ramsar Glaciar Vinciguerra y Turberas Asociadas",
     "operator": "Mixto",
     "protect_class": "6",
@@ -1116,7 +1107,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Costa Atlantica Tierra del Fuego",
     "operator": "Provincia de Tierra del Fuego",
     "operator:type": "government",
@@ -1149,7 +1139,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Parque Provincial El Tromén",
     "operator": "Provincia de Neuquén",
     "operator:type": "government",
@@ -1372,7 +1361,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Sitio Ramsar Palmar Yatay",
     "operator": "Provincia de Entre Rios",
     "operator:type": "government",
@@ -1735,7 +1723,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Delta Del Paraná",
     "operator": "Provincia de Entre Ríos; Provincia de Santa Fe",
     "operator:type": "government",
@@ -1821,7 +1808,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Laguna Blanca",
     "operator": "Provincia de Neuquén",
     "operator:type": "government",
@@ -2154,7 +2140,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Bahia Samborombon",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
@@ -2200,7 +2185,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Sitio Ramsar Lagunas de Los Pozuelos",
     "protect_class": "6",
     "protected_area": "sustainable",
@@ -2891,7 +2875,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Sitio Ramsar Jaaukanigás",
     "operator": "Provincia de Santa Fe",
     "operator:type": "government",
@@ -2924,7 +2907,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Sitio Ramsar Lagunas y Esteros del Iberá",
     "operator": "Provincia de Corrientes",
     "operator:type": "government",
@@ -3762,7 +3744,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Lagunas Altoandinas y Puneñas",
     "operator": "Provincia de Catamarca",
     "operator:type": "government",
@@ -3835,7 +3816,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Provincial Laguna Brava",
     "operator": "Provincia de La Rioja",
     "operator:type": "government",

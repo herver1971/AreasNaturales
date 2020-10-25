@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "generator": "Overpass API 0.7.56.6 474850e8",
   "osm3s": {
-    "timestamp_osm_base": "2020-10-24T04:22:03Z",
-    "timestamp_areas_base": "2020-10-24T02:54:02Z",
+    "timestamp_osm_base": "2020-10-25T06:45:03Z",
+    "timestamp_areas_base": "2020-10-25T06:36:04Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -62,7 +62,6 @@
     "alt_name": "reserva ecológica Costanera Norte",
     "boundary": "protected_area",
     "fixme": "verificar tamaño/area",
-    "leisure": "nature_reserve",
     "name": "Reserva Ecológica Ciudad Universitaria",
     "official_name": "Parque Natural y Área de Reserva Ecológica Ciudad Universitaria",
     "operator": "Gobierno de la Ciudad de Buenos Aires",
@@ -103,7 +102,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Turística y de Investigación Punta Marqués",
     "operator": "Municipalidad Rada Tilly",
     "operator:type": "government",
@@ -149,7 +147,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Intangible Cabo Blanco",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
@@ -180,7 +177,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Intangible Bahía Laura",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
@@ -219,7 +215,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Provincial Rincón de Santa María",
     "operator": "provincia de Corrientes",
     "operator:type": "government",
@@ -261,7 +256,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Provincial Cabo Virgenes",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
@@ -292,7 +286,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Turística Punta Loma",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
@@ -379,7 +372,6 @@
   "tags": {
     "boundary": "protected_area",
     "contact:website": "http://www.reservacostanera.com.ar/",
-    "leisure": "nature_reserve",
     "name": "Reserva Ecológica Costanera Sur",
     "operator": "Gobierno de la Ciudad Autónoma de Buenos Aires",
     "protect_class": "4",
@@ -535,7 +527,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Costa Atlantica Tierra del Fuego",
     "operator": "Provincia de Tierra del Fuego",
     "operator:type": "government",
@@ -568,7 +559,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Provincial Aves Migratorias",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
@@ -597,7 +587,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Turística de Objetivo Integral Cabo Dos Bahias",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
@@ -649,7 +638,6 @@
   "tags": {
     "boundary": "protected_area",
     "fixme": "Limites Aproximados. A revisar",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Turística Caleta Valdes",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
@@ -680,7 +668,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Turística Isla de Los Pajaros",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
@@ -719,7 +706,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Turística Punta Norte",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
@@ -755,7 +741,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Turística de Objetivo Específico Punta Tombo",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
@@ -786,7 +771,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Área Natural Protegida Complejo Islote Lobos",
     "operator": "Provincia de Río Negro",
     "operator:type": "government",
@@ -852,7 +836,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Provincial Laguna Chasicó",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
@@ -896,7 +879,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Laguna de Los Padres",
     "operator": "Municipalidad General Pueyrredon",
     "operator:type": "government",
@@ -926,7 +908,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Barranca Norte",
     "operator": "Provincia de Buenos Aires; Fundación Arturo Figueroa Salas",
     "operator:type": "consortium",
@@ -955,7 +936,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Restinga Del Faro",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
@@ -989,7 +969,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural de Objetivo Definido Educativo Arroyo El Durazno",
     "operator": "Privado",
     "operator:type": "private",
@@ -1013,7 +992,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Costera Bahia Blanca",
     "operator": "Municipalidad Bahia Blanca",
     "operator:type": "government",
@@ -1097,7 +1075,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Provincial Pehuen-Có Monte Hermoso",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
@@ -1238,7 +1215,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural de Objetivo Definido Bahia San Samborombón",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
@@ -1312,7 +1288,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural de Objetivo Definido Rincon del Ajo",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
@@ -1351,7 +1326,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Privada El Destino",
     "operator": "Fundación Elsa Shaw de Pearson",
     "operator:type": "private",
@@ -1460,7 +1434,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Municipal Lagunas San VIcente",
     "operator": "Municipalidad de San Vicente",
     "operator:type": "government",
@@ -1489,7 +1462,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Guardia del Juncal",
     "operator": "Municipalidad de Cañuelas",
     "operator:type": "government",
@@ -1518,7 +1490,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Municipal Guardia del Juncal",
     "operator": "Municipalidad de Cañuelas",
     "operator:type": "government",
@@ -1558,7 +1529,6 @@
   "tags": {
     "boundary": "protected_area",
     "fixme": "Limites a verificar, Superficie aproximada segun SIFAP pero la ley usa nomenclatura diferente a Catrasto de la Provincia",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Provincial Paraná Guazú",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
@@ -1613,7 +1583,6 @@
   "tags": {
     "boundary": "protected_area",
     "email": "info@parquesancarlos.com.ar",
-    "leisure": "nature_reserve",
     "name": "Area de Reserva Protegida San Carlos",
     "operator": "Municipalidad de Concordia",
     "operator:type": "government",
@@ -1658,7 +1627,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva de Uso Múltiple Carpincho",
     "operator": "Jauregui",
     "operator:type": "private",
@@ -1708,7 +1676,6 @@
   "tags": {
     "alt_name": "Reserva Natural Los Quebrachales",
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Natural Potrero 7-B",
     "operator": "Provincia de Santa Fé",
     "operator:type": "government",
@@ -1813,7 +1780,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Provincial Isla del Cerrito",
     "operator": "Provincia de Chaco",
     "operator:type": "government",
@@ -1846,7 +1812,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Provincial La Piramide",
     "operator": "Provincia de Chaco",
     "operator:type": "government",
@@ -1875,7 +1840,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Fauna Silvestre Carabajal",
     "operator": "Provincia de Salta",
     "operator:type": "government",
@@ -1944,7 +1908,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Reserva Provincial Laguna Brava",
     "operator": "Provincia de La Rioja",
     "operator:type": "government",
@@ -139891,7 +139854,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Área Marina Protegida Namuncurá-Banco Burdwood -Zona de Amortiguación",
     "operator": "Secretaría de Ambiente y Desarrollo Sustentable",
     "protect_class": "4",
