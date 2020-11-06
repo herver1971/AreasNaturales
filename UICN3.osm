@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2020-11-05T05:15:02Z",
-    "timestamp_areas_base": "2020-11-05T04:59:03Z",
+    "timestamp_osm_base": "2020-11-06T05:14:03Z",
+    "timestamp_areas_base": "2020-11-06T04:37:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -848,6 +848,34 @@
     "type": "boundary",
     "wikidata": "Q6023300",
     "wikipedia": "es:Monumento natural Cerro Alcázar"
+  }
+},
+{
+  "type": "relation",
+  "id": 11840961,
+  "members": [
+    {
+      "type": "way",
+      "ref": 867498748,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 867498747,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Vía Panorámica Casuchas del Rey",
+    "operator": "Provincia de Mendoza",
+    "operator:type": "government",
+    "protect_class": "3",
+    "protected_area": "landscape",
+    "protection_title": "Vía Panorámica",
+    "related_law": "Ley Provincial 8820/15",
+    "start_date": "2015",
+    "type": "boundary"
   }
 },
 {
@@ -8856,6 +8884,18 @@
 },
 {
   "type": "node",
+  "id": 8085922591,
+  "lat": -32.8146389,
+  "lon": -70.0533056
+},
+{
+  "type": "node",
+  "id": 8085922590,
+  "lat": -32.8202730,
+  "lon": -70.0102970
+},
+{
+  "type": "node",
   "id": 7025940361,
   "lat": -32.8516015,
   "lon": -69.9239016
@@ -9255,6 +9295,12 @@
   "id": 7025940346,
   "lat": -32.8270839,
   "lon": -69.8964283
+},
+{
+  "type": "node",
+  "id": 8085922589,
+  "lat": -32.8533417,
+  "lon": -69.8141556
 },
 {
   "type": "node",
@@ -29060,6 +29106,23 @@
     6157615986,
     6157615990,
     6157616001
+  ]
+},
+{
+  "type": "way",
+  "id": 867498747,
+  "nodes": [
+    8085922591,
+    8085922589
+  ]
+},
+{
+  "type": "way",
+  "id": 867498748,
+  "nodes": [
+    8085922589,
+    8085922590,
+    8085922591
   ]
 },
 {
