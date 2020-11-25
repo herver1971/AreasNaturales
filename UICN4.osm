@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
-    "timestamp_osm_base": "2020-11-24T06:15:03Z",
-    "timestamp_areas_base": "2020-11-24T05:02:03Z",
+    "timestamp_osm_base": "2020-11-25T06:15:02Z",
+    "timestamp_areas_base": "2020-11-25T05:44:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2054,6 +2054,33 @@
     "type": "boundary",
     "wikidata": "Q25409165",
     "wikipedia": "es:Reserva Quebrada de las Higueritas"
+  }
+},
+{
+  "type": "relation",
+  "id": 11936566,
+  "members": [
+    {
+      "type": "way",
+      "ref": 326365838,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 876552259,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Reserva Ecológica Complejo Industrial Luján de Cuyo",
+    "operator": "Yacimientos Petroliferos Fiscales",
+    "operator:type": "private",
+    "protect_class": "4",
+    "protected_area": "habitat",
+    "protection_title": "Reserva Ecológica",
+    "start_date": "2001",
+    "type": "boundary"
   }
 },
 {
@@ -79530,6 +79557,84 @@
 },
 {
   "type": "node",
+  "id": 3329978029,
+  "lat": -33.0730544,
+  "lon": -68.9833988
+},
+{
+  "type": "node",
+  "id": 3329978030,
+  "lat": -33.0677228,
+  "lon": -68.9841445
+},
+{
+  "type": "node",
+  "id": 3329978033,
+  "lat": -33.0708607,
+  "lon": -68.9845146
+},
+{
+  "type": "node",
+  "id": 8158124387,
+  "lat": -33.0677500,
+  "lon": -68.9837873
+},
+{
+  "type": "node",
+  "id": 3329978025,
+  "lat": -33.0744658,
+  "lon": -68.9814783
+},
+{
+  "type": "node",
+  "id": 3329978026,
+  "lat": -33.0729150,
+  "lon": -68.9817090
+},
+{
+  "type": "node",
+  "id": 3329922571,
+  "lat": -33.0739028,
+  "lon": -68.9760294
+},
+{
+  "type": "node",
+  "id": 8158124385,
+  "lat": -33.0741019,
+  "lon": -68.9762369
+},
+{
+  "type": "node",
+  "id": 3329978024,
+  "lat": -33.0691614,
+  "lon": -68.9815427
+},
+{
+  "type": "node",
+  "id": 3329978027,
+  "lat": -33.0695255,
+  "lon": -68.9768784
+},
+{
+  "type": "node",
+  "id": 8158124384,
+  "lat": -33.0706495,
+  "lon": -68.9770496
+},
+{
+  "type": "node",
+  "id": 8158124386,
+  "lat": -33.0683209,
+  "lon": -68.9827788
+},
+{
+  "type": "node",
+  "id": 3329978031,
+  "lat": -33.0707438,
+  "lon": -68.9758055
+},
+{
+  "type": "node",
   "id": 1272254974,
   "lat": -28.3936883,
   "lon": -69.6298148
@@ -137304,6 +137409,33 @@
     8104872606,
     8104872605,
     8104872603
+  ]
+},
+{
+  "type": "way",
+  "id": 326365838,
+  "nodes": [
+    3329978025,
+    3329978026,
+    3329978029,
+    3329978033,
+    3329978030,
+    8158124387,
+    8158124386,
+    3329978024,
+    3329978027
+  ]
+},
+{
+  "type": "way",
+  "id": 876552259,
+  "nodes": [
+    3329978027,
+    8158124384,
+    3329978031,
+    3329922571,
+    8158124385,
+    3329978025
   ]
 },
 {
