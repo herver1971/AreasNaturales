@@ -21,6 +21,6 @@ sh /home/gabriel/Proyectos/AreasNaturales/automatizacion/consultas.sh
 echo "    ... hecho."
 
 # echo "  Hacer push ..."
-# git push
+# git push origin master
 # echo "    ... hecho."
 
