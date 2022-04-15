@@ -154,6 +154,46 @@ then
   fi
 fi
 
+sleep $DORMIR
+
+echo ramsar:
+JSONFILE=automatizacion/ramsar.json
+POSTFILE=Consultas/ramsar.osm
+OSMFILE=ramsar.osm
+GEOJSONFILE=ramsar.geojson
+if wget -O $JSONFILE --post-file=$POSTFILE "https://overpass-api.de/api/interpreter"
+then
+  JSONSIZE=$( wc -c < $JSONFILE )
+  if [ $JSONSIZE -gt 60000 ]
+  then
+    echo "  Convertir a geojson y copiar..."
+    osmtogeojson $JSONFILE > $GEOJSONFILE
+    /bin/cp -f $JSONFILE $OSMFILE
+    echo "    ... hecho."
+  fi
+fi
+
+sleep $DORMIR
+
+echo Limites_mixtas:
+JSONFILE=automatizacion/Limites_mixtas.json
+POSTFILE=Consultas/Limites_mixtas.osm
+OSMFILE=Limites_mixtas.osm
+GEOJSONFILE=Limites_mixtas.geojson
+if wget -O $JSONFILE --post-file=$POSTFILE "https://overpass-api.de/api/interpreter"
+then
+  JSONSIZE=$( wc -c < $JSONFILE )
+  if [ $JSONSIZE -gt 60000 ]
+  then
+    echo "  Convertir a geojson y copiar..."
+    osmtogeojson $JSONFILE > $GEOJSONFILE
+    /bin/cp -f $JSONFILE $OSMFILE
+    echo "    ... hecho."
+  fi
+fi
+
+
+
 echo "    ... hecho."
 
 echo "  Mostrar status resumido ..."
