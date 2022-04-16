@@ -1,5 +1,6 @@
 # AreasNaturales
-Consultas Overpass de Areas Naturales Protegidas
+Consultas Overpass de Areas Naturales Protegidas.  
+En formato json OSM y geojson.  
 Se pueden visualizar los datos en
 https://umap.openstreetmap.fr/es/map/areas-protegidas_391253#5/-39.419/-60.227
 
