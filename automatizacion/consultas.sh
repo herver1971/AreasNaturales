@@ -138,10 +138,10 @@ fi
 sleep $DORMIR
 
 echo UICN7:
-JSONFILE=automatizacion/UICN6query.json
+JSONFILE=automatizacion/UICN7query.json
 POSTFILE=Consultas/UICN7query.osm
 OSMFILE=UICN7.osm
-GEOJSONFILE=UICN6.geojson
+GEOJSONFILE=UICN7.geojson
 if wget -O $JSONFILE --post-file=$POSTFILE "https://overpass-api.de/api/interpreter"
 then
   JSONSIZE=$( wc -c < $JSONFILE )
@@ -191,10 +191,7 @@ then
     echo "    ... hecho."
   fi
 fi
-
-
-
-echo "    ... hecho."
+echo "    ... Terminan consultas overpass-api y osmtogeojson."
 
 echo "  Mostrar status resumido ..."
 git status -s

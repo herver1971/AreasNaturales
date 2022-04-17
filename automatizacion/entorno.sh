@@ -18,7 +18,7 @@ echo "    ... hecho."
 
 echo "  Correr consultas.sh ..."
 sh /home/gabriel/Proyectos/AreasNaturales/automatizacion/consultas.sh
-echo "    ... hecho."
+echo "    ... Termina consultas.sh."
 
 echo "  Hacer push ..."
 git push origin master
