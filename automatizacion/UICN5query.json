@@ -1,0 +1,611 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.2 48842a1b",
+  "osm3s": {
+    "timestamp_osm_base": "2022-05-27T14:35:15Z",
+    "timestamp_areas_base": "2022-05-27T14:24:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 5604956,
+  "members": [
+    {
+      "type": "way",
+      "ref": 255736812,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 464805410,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753507133,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753507135,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753507134,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753507142,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753507136,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753507129,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753507141,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 376173379,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Área Natural Protegida Loma de las Tapias",
+    "operator": "Provincia de San Juan",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Parque Natural y Paisaje Protegido",
+    "related_law": "Ley Provincial 729-L",
+    "start_date": "2002",
+    "type": "boundary",
+    "wikidata": "Q24943254",
+    "wikipedia": "es:Loma de Las Tapias"
+  }
+},
+{
+  "type": "relation",
+  "id": 6138217,
+  "members": [
+    {
+      "type": "way",
+      "ref": 410322303,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 751586834,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Paisaje Protegido Pedernal",
+    "operator": "Provincia de San Juan",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "related_law": "Ley Provincial 7028/00",
+    "start_date": "2000",
+    "type": "boundary",
+    "wikidata": "Q24943203",
+    "wikipedia": "es:Paisaje protegido Pedernal"
+  }
+},
+{
+  "type": "relation",
+  "id": 7791574,
+  "members": [
+    {
+      "type": "way",
+      "ref": 545348863,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 654831476,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 869739958,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 654831480,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name": "Reserva natural Castillos de Pincheira",
+    "boundary": "protected_area",
+    "name": "Paisaje Protegido Castillos de Pincheira",
+    "name:en": "Reserva Provincial Castillos de Pincheira",
+    "operator": "Provincia de Mendoza",
+    "operator:type": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "related_law": "Ley Provincial 6691/99",
+    "short_name": "Castillos de Pincheira",
+    "start_date": "1999",
+    "type": "boundary",
+    "wikidata": "Q3647920",
+    "wikipedia": "es:Reserva natural Castillos de Pincheira"
+  }
+},
+{
+  "type": "relation",
+  "id": 10188474,
+  "members": [
+    {
+      "type": "way",
+      "ref": 747304201,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 338694123,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 338694126,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747304204,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747304202,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 747304200,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Bahía San Julián",
+    "operator": "Consejo Agrario Provincial",
+    "operator:type": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Area Uso Limitado bajo Protección Especial",
+    "related_law": "Disposicion Provincial 15/90",
+    "start_date": "1990",
+    "type": "boundary",
+    "wikidata": "Q5716471",
+    "wikipedia": "es:Bahía San Julián"
+  }
+},
+{
+  "type": "relation",
+  "id": 10246617,
+  "members": [
+    {
+      "type": "way",
+      "ref": 741068447,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 629750200,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 807401393,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Área Natural Protegida Puerto Lobos",
+    "operator": "Provincia de Río Negro",
+    "operator:type": "government",
+    "protect_class": "5",
+    "protection_title": "Área Natural Protegida",
+    "related_law": "Ley Provincial 3211/98",
+    "start_date": "1998",
+    "type": "boundary",
+    "wikidata": "Q6174092",
+    "wikipedia": "es:Área natural protegida Puerto Lobos"
+  }
+},
+{
+  "type": "relation",
+  "id": 10263057,
+  "members": [
+    {
+      "type": "way",
+      "ref": 742285190,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 742285189,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Area Natural Protegida Cipresal de Las Guaitecas",
+    "operator": "Provincia de Rio Negro",
+    "operator:type": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Area Natural Protegida",
+    "related_law": "Ley Provincial 4011/05",
+    "start_date": "2005",
+    "type": "boundary",
+    "wikidata": "Q25336897",
+    "wikipedia": "es:Área natural protegida Cipresal de las Guaitecas"
+  }
+},
+{
+  "type": "relation",
+  "id": 10274139,
+  "members": [
+    {
+      "type": "way",
+      "ref": 743315459,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743315458,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 191708815,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 860810401,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743199405,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 860810403,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 108788412,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 860810404,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459063556,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 459063549,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 860715877,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 743315460,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Paisaje Protegido Río Limay",
+    "operator": "Provincia de Rio Negro",
+    "operator:type": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "related_law": "Ley Provincial 2946/96",
+    "start_date": "1996",
+    "type": "boundary",
+    "wikidata": "Q25017316",
+    "wikipedia": "es:Paisaje protegido Río Limay"
+  }
+},
+{
+  "type": "relation",
+  "id": 10344117,
+  "members": [
+    {
+      "type": "way",
+      "ref": 512655306,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 750223604,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Reserva Natural El Manzano Histórico",
+    "operator": "Provincia de Mendoza",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Reserva Natural Cultural y Paisajística",
+    "related_law": "Ley Provincial 6128/95",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10383420,
+  "members": [
+    {
+      "type": "way",
+      "ref": 477992312,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517237,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517240,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517244,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517243,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517245,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517247,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517251,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517252,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517253,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517254,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517255,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517256,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517257,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517258,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517260,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517239,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517246,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 753517238,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Parque Natural y Paisaje Protegido Afloramientos Limo Arcillosos",
+    "operator": "Provincia de San Juan",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "related_law": "Ley Provincial 7308/02 730-L",
+    "start_date": "2002",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10751913,
+  "members": [
+    {
+      "type": "way",
+      "ref": 776339133,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 776339131,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784956606,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 776339130,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 776339136,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 737629188,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Reserva Costera Urbana del Río Chico",
+    "operator": "Municipalidad de Río Gallegos",
+    "operator:type": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Reserva Natural Municipal Urbana",
+    "related_law": "Ordenanza Municipal 5356/04",
+    "start_date": "2004",
+    "type": "boundary",
+    "wikidata": "Q6106176",
+    "wikipedia": "es:Reserva Costera Urbana"
+  }
+},
+{
+  "type": "relation",
+  "id": 10751914,
+  "members": [
+    {
+      "type": "way",
+      "ref": 776339134,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 784956604,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 776339132,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 776339136,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Reserva Costera Urbana del Río Gallegos",
+    "operator": "Municipalidad de Río Gallegos",
+    "operator:type": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Reserva Natural Municipal Urbana",
+    "related_law": "Ordenanza Municipal 5356/04",
+    "start_date": "2004",
+    "type": "boundary",
+    "wikidata": "Q6106176",
+    "wikipedia": "es:Reserva Costera Urbana"
+  }
+},
+{
+  "type": "relation",
+  "id": 10782308,
+  "members": [
+    {
+      "type": "way",
+      "ref": 252929426,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778045860,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778045859,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 929016334,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778045858,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 746698201,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 778045862,
+      "role": "ou
