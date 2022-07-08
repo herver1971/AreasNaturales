@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.3 b33c3320",
   "osm3s": {
-    "timestamp_osm_base": "2022-07-06T14:25:24Z",
-    "timestamp_areas_base": "2022-07-06T12:48:09Z",
+    "timestamp_osm_base": "2022-07-08T14:24:23Z",
+    "timestamp_areas_base": "2022-07-08T11:49:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -135,7 +135,7 @@
     "alt_name": "Reserva natural Castillos de Pincheira",
     "boundary": "protected_area",
     "name": "Paisaje Protegido Castillos de Pincheira",
-    "name:en": "Reserva Provincial Castillos de Pincheira",
+    "name:es": "Reserva Provincial Castillos de Pincheira",
     "operator": "Provincia de Mendoza",
     "operator:type": "government",
     "protect_class": "5",
