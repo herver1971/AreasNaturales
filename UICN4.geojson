@@ -86019,6 +86019,73 @@
 },
 {
   "type": "Feature",
+  "id": "relation/10757455",
+  "properties": {
+    "boundary": "protected_area",
+    "name": "Área Marina Protegida Namuncurá-Banco Burdwood -Zona de Amortiguación",
+    "operator": "Secretaría de Ambiente y Desarrollo Sustentable",
+    "protect_class": "4",
+    "protected_area": "habitat",
+    "protection_title": "Área Marina Protegida",
+    "related_law": "Ley Nacional 26875/13",
+    "start_date": "2013",
+    "type": "boundary",
+    "wikidata": "Q48784480",
+    "wikipedia": "es:Área marina protegida Namuncurá-Banco Burdwood",
+    "id": "relation/10757455"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -58.9999938,
+          -54.0000002
+        ],
+        [
+          -60.9999991,
+          -54.0000002
+        ],
+        [
+          -60.9999991,
+          -54.5833294
+        ],
+        [
+          -59.0000045,
+          -54.5833419
+        ],
+        [
+          -58.9999938,
+          -54.0000002
+        ]
+      ],
+      [
+        [
+          -60.5000138,
+          -54.2499949
+        ],
+        [
+          -59.4999991,
+          -54.2500076
+        ],
+        [
+          -59.5000112,
+          -54.5000037
+        ],
+        [
+          -60.5000092,
+          -54.5000029
+        ],
+        [
+          -60.5000138,
+          -54.2499949
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1058739442",
   "properties": {
     "addr:city": "OHiggins",
