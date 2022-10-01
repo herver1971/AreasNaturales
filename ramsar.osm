@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-09-28T14:52:24Z",
+    "timestamp_osm_base": "2022-10-01T14:41:09Z",
     "timestamp_areas_base": "2022-07-20T11:06:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -142680,6 +142680,12 @@
 },
 {
   "type": "node",
+  "id": 10058831103,
+  "lat": -32.0950704,
+  "lon": -58.1746877
+},
+{
+  "type": "node",
   "id": 301649846,
   "lat": -32.0878741,
   "lon": -58.1744850
@@ -142869,6 +142875,12 @@
   "id": 7723057313,
   "lat": -32.0819837,
   "lon": -58.1735274
+},
+{
+  "type": "node",
+  "id": 10058831108,
+  "lat": -32.0811564,
+  "lon": -58.1731015
 },
 {
   "type": "node",
@@ -222905,6 +222917,7 @@
     7723047883,
     7723057313,
     7723057312,
+    10058831108,
     7723057311,
     7723057310,
     7723057309,
@@ -223261,6 +223274,7 @@
     301649841,
     301649842,
     7723825213,
+    10058831103,
     301649843,
     7723825214,
     301649844,
@@ -234655,6 +234669,5 @@
   ]
 }
 
-  ],
-"remark": "runtime error: Query timed out in \"print\" at line 19 after 32 seconds."
+  ]
 }
