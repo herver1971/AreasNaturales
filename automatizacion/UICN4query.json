@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-11-19T11:31:54Z",
-    "timestamp_areas_base": "2022-11-19T10:43:19Z",
+    "timestamp_osm_base": "2022-11-21T22:44:50Z",
+    "timestamp_areas_base": "2022-11-21T22:11:10Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2998,7 +2998,7 @@
     "related_law": "Decreto 8.939/2014",
     "start_date": "1993",
     "type": "boundary",
-    "website": "https://www.fev.org.ar/mogote_bayo.html",
+    "website": "https://www.fev.org.ar/01/mogote_bayo.html",
     "wikidata": "Q16624969",
     "wikipedia": "es:Reserva provincial natural Mogote Bayo"
   }
