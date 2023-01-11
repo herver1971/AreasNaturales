@@ -75452,8 +75452,12 @@
           -33.3222845
         ],
         [
-          -60.2182805,
-          -33.3228109
+          -60.2187884,
+          -33.3225032
+        ],
+        [
+          -60.2181972,
+          -33.3227141
         ],
         [
           -60.218129,
@@ -185591,51 +185595,6 @@
         [
           -58,
           -54.7875387
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "relation/10757456",
-  "properties": {
-    "boundary": "protected_area",
-    "name": "Área Marina Protegida Namuncurá-Banco Burdwood -Zona Nucleo",
-    "operator": "Secretaría de Ambiente y Desarrollo Sustentable",
-    "protect_class": "1a",
-    "protected_area": "nature_reserve_strict",
-    "protection_title": "Área Marina Protegida",
-    "related_law": "Ley Nacional 26875/13",
-    "start_date": "2013",
-    "type": "boundary",
-    "wikidata": "Q48784480",
-    "wikipedia": "es:Área marina protegida Namuncurá-Banco Burdwood",
-    "id": "relation/10757456"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -59.5000112,
-          -54.5000037
-        ],
-        [
-          -59.4999991,
-          -54.2500076
-        ],
-        [
-          -60.5000138,
-          -54.2499949
-        ],
-        [
-          -60.5000092,
-          -54.5000029
-        ],
-        [
-          -59.5000112,
-          -54.5000037
         ]
       ]
     ]
