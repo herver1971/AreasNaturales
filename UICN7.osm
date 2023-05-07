@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60 f4c14d41",
   "osm3s": {
-    "timestamp_osm_base": "2023-04-30T01:25:22Z",
-    "timestamp_areas_base": "2023-04-29T21:05:39Z",
+    "timestamp_osm_base": "2023-05-07T22:59:53Z",
+    "timestamp_areas_base": "2023-05-07T17:47:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -938,7 +938,7 @@
     "protected_area": "habitat",
     "protection_title": "Reserva Natural Manejada – Santuario de Flora y Fauna",
     "related_law": "Ordenanza 2541/18",
-    "source:name": "https://341media.com.ar/wp-content/uploads/2020/06/PROYECTO-DE-LEY-reserva-VGG-incorporacion-ley-12175.pdf",
+    "source_ref:name": "https://341media.com.ar/wp-content/uploads/2020/06/PROYECTO-DE-LEY-reserva-VGG-incorporacion-ley-12175.pdf",
     "start_date": "2018",
     "type": "boundary"
   }
