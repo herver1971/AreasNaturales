@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60.6 e2dc3e5b",
   "osm3s": {
-    "timestamp_osm_base": "2023-07-12T20:54:00Z",
-    "timestamp_areas_base": "2023-07-12T19:01:45Z",
+    "timestamp_osm_base": "2023-07-19T15:50:32Z",
+    "timestamp_areas_base": "2023-07-19T10:52:11Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2053,12 +2053,12 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "name": "Reserva Natural Provincial Pehuen-Có Monte Hermoso",
+    "name": "Reserva Natural Provincial Pehuén-Co - Monte Hermoso",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
     "protect_class": "4",
     "protected_area": "habitat",
-    "protection_title": "Reserva Natural Provincial de Objetivo Definido Geologico Paleo y Arqueológico",
+    "protection_title": "Reserva Natural Provincial de Objetivo Definido Geológico Paleo y Arqueológico",
     "related_law": "Ley Provincial 13394/05",
     "start_date": "2005",
     "type": "boundary",

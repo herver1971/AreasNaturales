@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60.6 e2dc3e5b",
   "osm3s": {
-    "timestamp_osm_base": "2023-07-12T20:59:02Z",
-    "timestamp_areas_base": "2023-07-12T19:01:45Z",
+    "timestamp_osm_base": "2023-07-19T15:54:36Z",
+    "timestamp_areas_base": "2023-07-19T10:52:11Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -235055,6 +235055,5 @@
   ]
 }
 
-  ],
-"remark": "runtime error: Query timed out in \"print\" at line 19 after 47 seconds."
+  ]
 }
