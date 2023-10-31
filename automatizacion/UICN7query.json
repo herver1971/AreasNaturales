@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-18T23:11:44Z",
-    "timestamp_areas_base": "2023-10-18T22:12:26Z",
+    "timestamp_osm_base": "2023-10-31T23:51:45Z",
+    "timestamp_areas_base": "2023-10-31T20:56:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1130,7 +1130,7 @@
     "protection_title": "Reserva Natural Municipal",
     "start_date": "2018",
     "type": "boundary",
-    "website": "http://www.mda.gob.ar/noticias/se-expande-el-verde-nuevos-senderos-y-un-mirador-al-rio-en-la-eco-area/"
+    "website": "https://www.mda.gob.ar/noticias/se-expande-el-verde-nuevos-senderos-y-un-mirador-al-rio-en-la-eco-area/"
   }
 },
 {
