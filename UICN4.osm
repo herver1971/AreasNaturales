@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-27T23:50:57Z",
-    "timestamp_areas_base": "2023-12-27T19:33:34Z",
+    "timestamp_osm_base": "2024-01-02T22:18:00Z",
+    "timestamp_areas_base": "2024-01-02T16:41:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2297,8 +2297,8 @@
   "tags": {
     "boundary": "protected_area",
     "fixme": "Limites Aproximados. A revisar",
-    "name": "Reserva Natural Turística Caleta Valdes",
-    "operator": "Provincia de Chubut",
+    "name": "Reserva Natural Turística Caleta Valdés",
+    "operator": "Provincia del Chubut",
     "operator:type": "government",
     "protect_class": "4",
     "protected_area": "landscape",
@@ -2326,8 +2326,8 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "name": "Reserva Natural Turística Isla de Los Pajaros",
-    "operator": "Provincia de Chubut",
+    "name": "Reserva Natural Turística Isla de Los Pájaros",
+    "operator": "Provincia del Chubut",
     "operator:type": "government",
     "protect_class": "4",
     "protected_area": "habitat",
@@ -2620,7 +2620,7 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "name": "Reserva Natural Costera Bahia Blanca",
+    "name": "Reserva Natural Costera Bahía Blanca",
     "operator": "Municipalidad Bahia Blanca",
     "operator:type": "government",
     "protect_class": "4",

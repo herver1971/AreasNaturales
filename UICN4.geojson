@@ -19848,8 +19848,8 @@
   "properties": {
     "boundary": "protected_area",
     "fixme": "Limites Aproximados. A revisar",
-    "name": "Reserva Natural Turística Caleta Valdes",
-    "operator": "Provincia de Chubut",
+    "name": "Reserva Natural Turística Caleta Valdés",
+    "operator": "Provincia del Chubut",
     "operator:type": "government",
     "protect_class": "4",
     "protected_area": "landscape",
@@ -23625,8 +23625,8 @@
   "id": "relation/10823119",
   "properties": {
     "boundary": "protected_area",
-    "name": "Reserva Natural Turística Isla de Los Pajaros",
-    "operator": "Provincia de Chubut",
+    "name": "Reserva Natural Turística Isla de Los Pájaros",
+    "operator": "Provincia del Chubut",
     "operator:type": "government",
     "protect_class": "4",
     "protected_area": "habitat",
@@ -55524,7 +55524,7 @@
   "id": "relation/11016697",
   "properties": {
     "boundary": "protected_area",
-    "name": "Reserva Natural Costera Bahia Blanca",
+    "name": "Reserva Natural Costera Bahía Blanca",
     "operator": "Municipalidad Bahia Blanca",
     "operator:type": "government",
     "protect_class": "4",
