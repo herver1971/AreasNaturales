@@ -14,7 +14,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 'lts/*'  # Utiliza la última versión estable (LTS)
+          node-version: '20.x'  # Utiliza la última versión estable (LTS)
 
       - name: Install dependencies
         run: npm install -g osmtogeojson #Instalación global
