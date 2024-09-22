@@ -1,6 +1,10 @@
 #!/bin/bash
 
+# Personalizar tiempo de espera entre consultas
 DORMIR=60
+
+# Personalizar path al ejecutable de osm2geojson
+OSM2GEO="osmtogeojson"
 
 echo "  Consultar overpass API  y convertir a geojson..."
 
@@ -15,7 +19,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
@@ -34,7 +38,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
@@ -53,7 +57,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
@@ -72,7 +76,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
@@ -91,7 +95,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
@@ -110,7 +114,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
@@ -129,7 +133,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
@@ -148,7 +152,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
@@ -167,7 +171,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
@@ -186,7 +190,7 @@ then
   if [ $JSONSIZE -gt 60000 ]
   then
     echo "  Convertir a geojson y copiar..."
-    osmtogeojson $JSONFILE > $GEOJSONFILE
+    "$OSM2GEO" $JSONFILE > $GEOJSONFILE
     /bin/cp -f $JSONFILE $OSMFILE
     echo "    ... hecho."
   fi
