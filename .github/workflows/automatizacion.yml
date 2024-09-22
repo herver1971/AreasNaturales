@@ -1,0 +1,42 @@
+name: Automatización diaria
+
+on:
+  schedule:
+    - cron: '0 23 * * *'  # Ejecutar diariamente a las 23 UTC
+  workflow_dispatch:  # Permite la ejecución manual desde la interfaz de GitHub
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 'lts/*'  # Utiliza la última versión estable (LTS)
+
+      - name: Install dependencies
+        run: npm install -g osmtogeojson #Instalación global
+
+      - name: Create working directory
+        run: mkdir -p /tmp/wd
+
+      - name: Change directory to wd
+        run: cd /tmp/wd
+
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Configure git
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+
+      - name: Run the automation script
+        run: bash automatizacion/consultas.sh  # Correr el script de automatización
+
+      - name: Push changes
+        run: git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
