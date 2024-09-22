@@ -2,7 +2,7 @@ name: Automatización diaria
 
 on:
   schedule:
-    - cron: '0 23 * * *'  # Ejecutar diariamente a las 23 UTC
+    - cron: '0 22 * * *'  # Ejecutar diariamente a las 22 UTC
   workflow_dispatch:  # Permite la ejecución manual desde la interfaz de GitHub
 
 jobs:
