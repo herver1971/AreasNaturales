@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-08-07T23:59:13Z",
-    "timestamp_areas_base": "2024-08-07T22:45:39Z",
+    "timestamp_osm_base": "2024-09-22T15:21:41Z",
+    "timestamp_areas_base": "2024-09-22T09:47:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1012,14 +1012,15 @@
   "tags": {
     "alt_name": "Legado de Deliot",
     "boundary": "protected_area",
-    "contact:website": "https://www.rosario.gob.ar/web/ciudad/planeamiento-urbano/edificacion/arquitectura-sustentable/recuperacion-y-revalorizacion",
+    "contact:website": "https://www.rosario.gob.ar/inicio/reserva-los-tres-cerros",
     "name": "Reserva Municipal Los Tres Cerros",
     "operator": "Municipalidad de Rosario",
     "operator:type": "government",
     "protect_class": "7",
     "protected_area": "habitat",
     "protection_title": "Reserva Municipal",
-    "related_law": "Decreto Municipal 1531",
+    "related_law": "Decreto Municipal 1531-13",
+    "source_ref": "https://www.rosario.gob.ar/web/ciudad/planeamiento-urbano/edificacion/arquitectura-sustentable/recuperacion-y-revalorizacion",
     "start_date": "2013",
     "type": "boundary"
   }
@@ -42950,6 +42951,12 @@
 },
 {
   "type": "node",
+  "id": 12103431048,
+  "lat": -33.2725409,
+  "lon": -60.2583234
+},
+{
+  "type": "node",
   "id": 6010814063,
   "lat": -33.2758301,
   "lon": -60.2528215
@@ -57303,6 +57310,7 @@
   "id": 816237822,
   "nodes": [
     6010814068,
+    12103431048,
     6010814067,
     6010814066,
     6010814065,

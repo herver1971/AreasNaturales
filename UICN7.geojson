@@ -4717,6 +4717,10 @@
           -33.2731885
         ],
         [
+          -60.2583234,
+          -33.2725409
+        ],
+        [
           -60.2583709,
           -33.2725067
         ],
@@ -27231,14 +27235,15 @@
   "properties": {
     "alt_name": "Legado de Deliot",
     "boundary": "protected_area",
-    "contact:website": "https://www.rosario.gob.ar/web/ciudad/planeamiento-urbano/edificacion/arquitectura-sustentable/recuperacion-y-revalorizacion",
+    "contact:website": "https://www.rosario.gob.ar/inicio/reserva-los-tres-cerros",
     "name": "Reserva Municipal Los Tres Cerros",
     "operator": "Municipalidad de Rosario",
     "operator:type": "government",
     "protect_class": "7",
     "protected_area": "habitat",
     "protection_title": "Reserva Municipal",
-    "related_law": "Decreto Municipal 1531",
+    "related_law": "Decreto Municipal 1531-13",
+    "source_ref": "https://www.rosario.gob.ar/web/ciudad/planeamiento-urbano/edificacion/arquitectura-sustentable/recuperacion-y-revalorizacion",
     "start_date": "2013",
     "type": "boundary",
     "id": "relation/11505789"
