@@ -4765,7 +4765,7 @@
   "id": "relation/10192097",
   "properties": {
     "boundary": "protected_area",
-    "name": "Reserva Provincial Cabo Virgenes",
+    "name": "Reserva Provincial Cabo Vírgenes",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
     "protect_class": "4",
@@ -9245,7 +9245,7 @@
   "id": "relation/10782344",
   "properties": {
     "boundary": "protected_area",
-    "name": "Costa Atlantica Tierra del Fuego",
+    "name": "Costa Atlántica Tierra del Fuego",
     "operator": "Provincia de Tierra del Fuego",
     "operator:type": "government",
     "protect_class": "4",
@@ -18597,7 +18597,7 @@
   "id": "relation/10813417",
   "properties": {
     "boundary": "protected_area",
-    "name": "Reserva Natural Turística de Objetivo Integral Cabo Dos Bahias",
+    "name": "Reserva Natural Turística de Objetivo Integral Cabo Dos Bahías",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
     "protect_class": "4",

@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-12-15T03:51:59Z",
-    "timestamp_areas_base": "2024-12-15T03:51:59Z",
+    "timestamp_osm_base": "2024-12-17T22:12:30Z",
+    "timestamp_areas_base": "2024-12-17T17:36:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1210,7 +1210,7 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "name": "Reserva Provincial Cabo Virgenes",
+    "name": "Reserva Provincial Cabo Vírgenes",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
     "protect_class": "4",
@@ -1527,7 +1527,7 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "name": "Costa Atlantica Tierra del Fuego",
+    "name": "Costa Atlántica Tierra del Fuego",
     "operator": "Provincia de Tierra del Fuego",
     "operator:type": "government",
     "protect_class": "4",
@@ -1592,7 +1592,7 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "name": "Reserva Natural Turística de Objetivo Integral Cabo Dos Bahias",
+    "name": "Reserva Natural Turística de Objetivo Integral Cabo Dos Bahías",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
     "protect_class": "4",
