@@ -98481,6 +98481,7 @@
     "name": "Sitio Ramsar Jaaukanigás",
     "operator": "Provincia de Santa Fe",
     "operator:type": "government",
+    "operator:wikidata": "Q44823",
     "protect_class": "6",
     "protected_area": "sustainable",
     "protection_title": "Sitio Ramsar",
