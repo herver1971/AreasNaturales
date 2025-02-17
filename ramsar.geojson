@@ -21449,6 +21449,7 @@
     "official_name": "Reserva de Usos Múltiples Humedal Laguna Melincué",
     "operator": "Provincia de Santa Fe",
     "operator:type": "government",
+    "operator:wikidata": "Q44823",
     "protect_class": "6",
     "protected_area": "sustainable",
     "protection_title": "Sitio Ramsar",
@@ -22657,6 +22658,10 @@
           -33.8391003
         ],
         [
+          -61.7351214,
+          -33.8395037
+        ],
+        [
           -61.7314276,
           -33.8401941
         ],
@@ -22829,8 +22834,8 @@
           -33.8480169
         ],
         [
-          -61.5951526,
-          -33.8479938
+          -61.5949324,
+          -33.847964
         ],
         [
           -61.5912556,
