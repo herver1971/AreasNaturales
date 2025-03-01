@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-02-28T22:16:35Z",
+    "timestamp_osm_base": "2025-03-01T22:15:14Z",
     "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -2392,6 +2392,7 @@
     "name": "Bahia Samborombon",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
+    "operator:wikidata": "Q44754",
     "protect_class": "6",
     "protected_area": "sustainable",
     "protection_title": "Sitio Ramsar",
@@ -142056,32 +142057,32 @@
 {
   "type": "node",
   "id": 7600248355,
-  "lat": -36.3272963,
-  "lon": -56.7518628
+  "lat": -36.3274538,
+  "lon": -56.7521253
 },
 {
   "type": "node",
   "id": 7600248356,
-  "lat": -36.3270197,
-  "lon": -56.7515516
+  "lat": -36.3271142,
+  "lon": -56.7515069
 },
 {
   "type": "node",
   "id": 7600248357,
-  "lat": -36.3268771,
-  "lon": -56.7498350
+  "lat": -36.3269221,
+  "lon": -56.7498182
 },
 {
   "type": "node",
   "id": 7600248358,
-  "lat": -36.3270889,
-  "lon": -56.7485315
+  "lat": -36.3271789,
+  "lon": -56.7485259
 },
 {
   "type": "node",
   "id": 7600248359,
-  "lat": -36.3260598,
-  "lon": -56.7468794
+  "lat": -36.3260535,
+  "lon": -56.7468120
 },
 {
   "type": "node",
