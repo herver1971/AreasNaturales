@@ -86576,18 +86576,20 @@
   "id": "relation/16795612",
   "properties": {
     "boundary": "protected_area",
-    "description": "área protegida de 92953 hectáreas que tiene como objetos conservación los siguientes: ecosistemas de matorral subandino; matorral andino;vega altoandina; sistemas hídricos; estructuras geológicas; patrimonio arqueológico; atributos paleontológicos",
+    "description": "Área protegida de 92953 hectáreas que tiene como objetos conservación los siguientes: ecosistemas de matorral subandino; matorral andino;vega altoandina; sistemas hídricos; estructuras geológicas; patrimonio arqueológico; atributos paleontológicos",
     "dog": "no",
     "leisure": "nature_reserve",
     "name": "Santuario de la Naturaleza Cruz de Piedra",
     "old_name": "Fundo Cruz de Piedra",
     "operator": "Fundación Cruz de Piedra",
+    "operator:type": "private",
     "protect_class": "4",
     "protection_title": "Santuario de la Naturaleza",
     "related_law": "https://bcn.cl/3gv71",
     "source": "https://simbio.mma.gob.cl/",
     "start_date": "2023-11-30",
     "type": "multipolygon",
+    "website": "https://www.santuariocruzdepiedra.cl",
     "id": "relation/16795612"
   },
   "geometry": {
