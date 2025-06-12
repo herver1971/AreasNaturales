@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-11T22:17:14Z",
-    "timestamp_areas_base": "2025-06-11T19:12:16Z",
+    "timestamp_osm_base": "2025-06-12T22:18:01Z",
+    "timestamp_areas_base": "2025-06-12T15:43:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -171,6 +171,7 @@
     "boundary": "protected_area",
     "name": "Reserva Bañados del Río Dulce y Laguna Mar Chiquita",
     "operator": "Provincia de Córdoba",
+    "operator:wikidata": "Q44759",
     "protect_class": "6",
     "protected_area": "sustainable",
     "protection_title": "Reserva de Uso Múltiple",
@@ -148097,6 +148098,12 @@
 },
 {
   "type": "node",
+  "id": 2717286892,
+  "lat": -30.2738394,
+  "lon": -62.5873032
+},
+{
+  "type": "node",
   "id": 8061292986,
   "lat": -30.2681988,
   "lon": -62.5903095
@@ -148116,8 +148123,14 @@
 {
   "type": "node",
   "id": 8061292989,
-  "lat": -30.2710342,
-  "lon": -62.5871552
+  "lat": -30.2710623,
+  "lon": -62.5879683
+},
+{
+  "type": "node",
+  "id": 8061292991,
+  "lat": -30.2714080,
+  "lon": -62.5874560
 },
 {
   "type": "node",
@@ -148193,21 +148206,9 @@
 },
 {
   "type": "node",
-  "id": 2717286892,
-  "lat": -30.2724797,
-  "lon": -62.5824345
-},
-{
-  "type": "node",
-  "id": 8061292990,
-  "lat": -30.2714605,
-  "lon": -62.5862754
-},
-{
-  "type": "node",
-  "id": 8061292991,
-  "lat": -30.2719979,
-  "lon": -62.5848378
+  "id": 12909313827,
+  "lat": -30.2723882,
+  "lon": -62.5868214
 },
 {
   "type": "node",
@@ -224504,8 +224505,8 @@
     8061292987,
     8061292988,
     8061292989,
-    8061292990,
     8061292991,
+    12909313827,
     2717286892
   ]
 },

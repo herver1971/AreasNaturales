@@ -8482,6 +8482,7 @@
     "boundary": "protected_area",
     "name": "Reserva Bañados del Río Dulce y Laguna Mar Chiquita",
     "operator": "Provincia de Córdoba",
+    "operator:wikidata": "Q44759",
     "protect_class": "6",
     "protected_area": "sustainable",
     "protection_title": "Reserva de Uso Múltiple",
@@ -8619,20 +8620,20 @@
           -30.2741529
         ],
         [
-          -62.5824345,
-          -30.2724797
+          -62.5873032,
+          -30.2738394
         ],
         [
-          -62.5848378,
-          -30.2719979
+          -62.5868214,
+          -30.2723882
         ],
         [
-          -62.5862754,
-          -30.2714605
+          -62.587456,
+          -30.271408
         ],
         [
-          -62.5871552,
-          -30.2710342
+          -62.5879683,
+          -30.2710623
         ],
         [
           -62.5883568,
