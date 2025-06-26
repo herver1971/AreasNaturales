@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-25T21:31:54Z",
-    "timestamp_areas_base": "2025-06-25T18:06:00Z",
+    "timestamp_osm_base": "2025-06-26T22:17:05Z",
+    "timestamp_areas_base": "2025-06-25T21:32:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3704,6 +3704,11 @@
     {
       "type": "way",
       "ref": 827943046,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1409766824,
       "role": "outer"
     },
     {
@@ -176070,6 +176075,12 @@
 },
 {
   "type": "node",
+  "id": 12954190177,
+  "lat": -27.8815278,
+  "lon": -58.8365838
+},
+{
+  "type": "node",
   "id": 255834448,
   "lat": -27.8726827,
   "lon": -58.8341368
@@ -229631,7 +229642,7 @@
   "type": "way",
   "id": 827943046,
   "nodes": [
-    255834448,
+    12954190177,
     255834449,
     255834450,
     255834452,
@@ -229650,6 +229661,14 @@
     7729309968,
     7729309967,
     7729330897
+  ]
+},
+{
+  "type": "way",
+  "id": 1409766824,
+  "nodes": [
+    255834448,
+    12954190177
   ]
 },
 {
