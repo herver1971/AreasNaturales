@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-11T22:14:01Z",
-    "timestamp_areas_base": "2025-08-11T20:06:11Z",
+    "timestamp_osm_base": "2025-08-12T22:17:54Z",
+    "timestamp_areas_base": "2025-08-12T18:55:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1040,14 +1040,10 @@
     308183837,
     1721442992,
     13061000719,
-    12810614354,
+    13064631152,
     1721443117
   ],
   "tags": {
-    "addr:city": "Llavallol",
-    "addr:housenumber": "2348",
-    "addr:postcode": "1836",
-    "addr:street": "Avenida José Garibaldi",
     "boundary": "protected_area",
     "description": "La Reserva Natural Santa Catalina es un área natural que constituye uno de los principales pulmones del Gran Buenos Aires. La Reserva Municipal alberga uno de los últimos relictos de talar del conurbano, además de zonas de bosque mixto y pastizal pampeano",
     "leisure": "nature_reserve",
@@ -3256,30 +3252,6 @@
     "start_date": "2023-11-30",
     "type": "multipolygon",
     "website": "https://www.santuariocruzdepiedra.cl"
-  }
-},
-{
-  "type": "relation",
-  "id": 19446485,
-  "members": [
-    {
-      "type": "way",
-      "ref": 160069207,
-      "role": "outer"
-    }
-  ],
-  "tags": {
-    "boundary": "protected_area",
-    "description": "La Reserva Natural Santa Catalina es un área natural que constituye uno de los principales pulmones del Gran Buenos Aires. La Reserva Municipal alberga uno de los últimos relictos de talar del conurbano, además de zonas de bosque mixto y pastizal pampeano",
-    "leisure": "nature_reserve",
-    "name": "Reserva Natural Municipal Santa Catalina",
-    "operator": "Municipalidad de Lomas de Zamora",
-    "protect_class": "4",
-    "protection_title": "Reserva Natural Municipal",
-    "source": "survey;datos_municipales",
-    "type": "boundary",
-    "wikidata": "Q115943545",
-    "wikipedia": "es:Reserva Natural Municipal Santa Catalina"
   }
 },
 {
@@ -149360,9 +149332,9 @@
 },
 {
   "type": "node",
-  "id": 12810614354,
-  "lat": -34.7857045,
-  "lon": -58.4346867
+  "id": 13064631152,
+  "lat": -34.7846255,
+  "lon": -58.4325301
 },
 {
   "type": "node",
@@ -149391,8 +149363,8 @@
 {
   "type": "node",
   "id": 13061000719,
-  "lat": -34.7841060,
-  "lon": -58.4312504
+  "lat": -34.7841002,
+  "lon": -58.4311733
 },
 {
   "type": "node",
@@ -189800,17 +189772,6 @@
     202006156,
     9755629701,
     3791255733
-  ]
-},
-{
-  "type": "way",
-  "id": 160069207,
-  "nodes": [
-    13061000719,
-    1721442992,
-    308183837,
-    9211413903,
-    13061949245
   ]
 },
 {
