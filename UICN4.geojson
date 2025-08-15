@@ -105326,6 +105326,77 @@
 },
 {
   "type": "Feature",
+  "id": "relation/19464000",
+  "properties": {
+    "access": "yes",
+    "boundary": "protected_area",
+    "description": "La Reserva Natural Santa Catalina es un área natural que constituye uno de los principales pulmones del Gran Buenos Aires. La Reserva Municipal alberga uno de los últimos relictos de talar del conurbano, además de zonas de bosque mixto y pastizal pampeano",
+    "leisure": "nature_reserve",
+    "name": "Reserva Natural Municipal Santa Catalina",
+    "operator": "Municipalidad de Lomas de Zamora",
+    "operator:type": "government",
+    "protect_class": "4",
+    "protection_title": "Reserva Natural Municipal",
+    "source": "survey;datos_municipales",
+    "type": "multipolygon",
+    "wikidata": "Q115943545",
+    "wikipedia": "es:Reserva Natural Municipal Santa Catalina",
+    "id": "relation/19464000"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -58.4333216,
+          -34.7837304
+        ],
+        [
+          -58.4370459,
+          -34.7787644
+        ],
+        [
+          -58.4381794,
+          -34.7793668
+        ],
+        [
+          -58.4385342,
+          -34.7788957
+        ],
+        [
+          -58.4394596,
+          -34.7794498
+        ],
+        [
+          -58.4346356,
+          -34.7856684
+        ],
+        [
+          -58.4325301,
+          -34.7846255
+        ],
+        [
+          -58.4314137,
+          -34.7841749
+        ],
+        [
+          -58.4316657,
+          -34.7841145
+        ],
+        [
+          -58.4322166,
+          -34.7839969
+        ],
+        [
+          -58.4333216,
+          -34.7837304
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "relation/10757455",
   "properties": {
     "boundary": "protected_area",
@@ -109266,66 +109337,6 @@
         [
           -72.3943323,
           -47.5017698
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1421588942",
-  "properties": {
-    "boundary": "protected_area",
-    "description": "La Reserva Natural Santa Catalina es un área natural que constituye uno de los principales pulmones del Gran Buenos Aires. La Reserva Municipal alberga uno de los últimos relictos de talar del conurbano, además de zonas de bosque mixto y pastizal pampeano",
-    "leisure": "nature_reserve",
-    "name": "Reserva Natural Municipal Santa Catalina",
-    "operator": "Municipalidad de Lomas de Zamora",
-    "protect_class": "4",
-    "protection_title": "Reserva Natural Municipal",
-    "source": "survey;datos_municipales",
-    "wikidata": "Q115943545",
-    "wikipedia": "es:Reserva Natural Municipal Santa Catalina",
-    "id": "way/1421588942"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -58.4346356,
-          -34.7856684
-        ],
-        [
-          -58.4325301,
-          -34.7846255
-        ],
-        [
-          -58.4312658,
-          -34.78412
-        ],
-        [
-          -58.433503,
-          -34.7836772
-        ],
-        [
-          -58.4370459,
-          -34.7787644
-        ],
-        [
-          -58.4381712,
-          -34.7793691
-        ],
-        [
-          -58.4385342,
-          -34.7788957
-        ],
-        [
-          -58.4394596,
-          -34.7794498
-        ],
-        [
-          -58.4346356,
-          -34.7856684
         ]
       ]
     ]
