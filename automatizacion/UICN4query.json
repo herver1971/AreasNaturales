@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-15T22:13:59Z",
-    "timestamp_areas_base": "2025-08-15T16:35:13Z",
+    "timestamp_osm_base": "2025-08-16T22:12:13Z",
+    "timestamp_areas_base": "2025-08-16T17:57:19Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3225,42 +3225,6 @@
     "start_date": "2023-11-30",
     "type": "multipolygon",
     "website": "https://www.santuariocruzdepiedra.cl"
-  }
-},
-{
-  "type": "relation",
-  "id": 19464000,
-  "members": [
-    {
-      "type": "way",
-      "ref": 1421588942,
-      "role": "outer"
-    },
-    {
-      "type": "way",
-      "ref": 1422415135,
-      "role": "outer"
-    },
-    {
-      "type": "way",
-      "ref": 1422483540,
-      "role": "outer"
-    }
-  ],
-  "tags": {
-    "access": "yes",
-    "boundary": "protected_area",
-    "description": "La Reserva Natural Santa Catalina es un área natural que constituye uno de los principales pulmones del Gran Buenos Aires. La Reserva Municipal alberga uno de los últimos relictos de talar del conurbano, además de zonas de bosque mixto y pastizal pampeano",
-    "leisure": "nature_reserve",
-    "name": "Reserva Natural Municipal Santa Catalina",
-    "operator": "Municipalidad de Lomas de Zamora",
-    "operator:type": "government",
-    "protect_class": "4",
-    "protection_title": "Reserva Natural Municipal",
-    "source": "survey;datos_municipales",
-    "type": "multipolygon",
-    "wikidata": "Q115943545",
-    "wikipedia": "es:Reserva Natural Municipal Santa Catalina"
   }
 },
 {
@@ -149329,66 +149293,6 @@
 },
 {
   "type": "node",
-  "id": 1721442992,
-  "lat": -34.7837304,
-  "lon": -58.4333216
-},
-{
-  "type": "node",
-  "id": 1721443117,
-  "lat": -34.7856684,
-  "lon": -58.4346356
-},
-{
-  "type": "node",
-  "id": 1988695916,
-  "lat": -34.7839969,
-  "lon": -58.4322166
-},
-{
-  "type": "node",
-  "id": 13064631152,
-  "lat": -34.7846255,
-  "lon": -58.4325301
-},
-{
-  "type": "node",
-  "id": 13061949243,
-  "lat": -34.7794498,
-  "lon": -58.4394596
-},
-{
-  "type": "node",
-  "id": 13061949245,
-  "lat": -34.7788957,
-  "lon": -58.4385342
-},
-{
-  "type": "node",
-  "id": 13071959623,
-  "lat": -34.7787644,
-  "lon": -58.4370459
-},
-{
-  "type": "node",
-  "id": 13071959631,
-  "lat": -34.7793668,
-  "lon": -58.4381794
-},
-{
-  "type": "node",
-  "id": 308183840,
-  "lat": -34.7841749,
-  "lon": -58.4314137
-},
-{
-  "type": "node",
-  "id": 1988695927,
-  "lat": -34.7841145,
-  "lon": -58.4316657
-},
-{
-  "type": "node",
   "id": 237821408,
   "lat": -34.6161951,
   "lon": -58.3566101
@@ -189793,37 +189697,6 @@
     202006156,
     9755629701,
     3791255733
-  ]
-},
-{
-  "type": "way",
-  "id": 1421588942,
-  "nodes": [
-    308183840,
-    13064631152,
-    1721443117,
-    13061949243
-  ]
-},
-{
-  "type": "way",
-  "id": 1422415135,
-  "nodes": [
-    13061949243,
-    13061949245,
-    13071959631,
-    13071959623,
-    1721442992
-  ]
-},
-{
-  "type": "way",
-  "id": 1422483540,
-  "nodes": [
-    1721442992,
-    1988695916,
-    1988695927,
-    308183840
   ]
 },
 {
