@@ -4825,6 +4825,7 @@
     "name": "Reserva Provincial Cabo Vírgenes",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
+    "operator:wikidata": "Q44821",
     "protect_class": "4",
     "protected_area": "habitat",
     "protection_title": "Reserva Provincial",

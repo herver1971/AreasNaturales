@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-29T22:13:13Z",
-    "timestamp_areas_base": "2025-08-29T16:43:10Z",
+    "timestamp_osm_base": "2025-08-30T22:11:45Z",
+    "timestamp_areas_base": "2025-08-30T16:29:39Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1214,6 +1214,7 @@
     "name": "Reserva Provincial Cabo Vírgenes",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
+    "operator:wikidata": "Q44821",
     "protect_class": "4",
     "protected_area": "habitat",
     "protection_title": "Reserva Provincial",
