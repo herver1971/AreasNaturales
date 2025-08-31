@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-30T22:10:41Z",
-    "timestamp_areas_base": "2025-08-30T19:41:41Z",
+    "timestamp_osm_base": "2025-08-31T22:10:30Z",
+    "timestamp_areas_base": "2025-08-31T16:37:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -185,11 +185,6 @@
   "members": [
     {
       "type": "way",
-      "ref": 778248287,
-      "role": "outer"
-    },
-    {
-      "type": "way",
       "ref": 778248286,
       "role": "outer"
     }
@@ -199,6 +194,7 @@
     "name": "Monumento Natural Provincial Bloque Errático",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
+    "operator:wikidata": "Q44821",
     "protect_class": "3",
     "protected_area": "national_monument",
     "protection_title": "Monumento Natural",
@@ -28538,22 +28534,15 @@
   "type": "way",
   "id": 778248286,
   "nodes": [
+    7263478036,
+    7263478035,
+    7263478042,
+    7263478041,
     7263478040,
     7263478039,
     7263478038,
     7263478037,
     7263478036
-  ]
-},
-{
-  "type": "way",
-  "id": 778248287,
-  "nodes": [
-    7263478036,
-    7263478035,
-    7263478042,
-    7263478041,
-    7263478040
   ]
 },
 {

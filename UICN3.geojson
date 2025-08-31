@@ -3191,6 +3191,7 @@
     "name": "Monumento Natural Provincial Bloque Errático",
     "operator": "Provincia de Santa Cruz",
     "operator:type": "government",
+    "operator:wikidata": "Q44821",
     "protect_class": "3",
     "protected_area": "national_monument",
     "protection_title": "Monumento Natural",
@@ -3203,22 +3204,6 @@
     "type": "Polygon",
     "coordinates": [
       [
-        [
-          -70.5116418,
-          -51.8175404
-        ],
-        [
-          -70.5322319,
-          -51.8152544
-        ],
-        [
-          -70.5802864,
-          -51.8152528
-        ],
-        [
-          -70.6306288,
-          -51.8381359
-        ],
         [
           -70.6100374,
           -51.8610174
@@ -3238,6 +3223,22 @@
         [
           -70.5116418,
           -51.8175404
+        ],
+        [
+          -70.5322319,
+          -51.8152544
+        ],
+        [
+          -70.5802864,
+          -51.8152528
+        ],
+        [
+          -70.6306288,
+          -51.8381359
+        ],
+        [
+          -70.6100374,
+          -51.8610174
         ]
       ]
     ]
