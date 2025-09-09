@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-08T22:16:28Z",
-    "timestamp_areas_base": "2025-09-08T19:44:36Z",
+    "timestamp_osm_base": "2025-09-09T22:14:28Z",
+    "timestamp_areas_base": "2025-09-09T17:43:46Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -533,7 +533,6 @@
   "tags": {
     "boundary": "protected_area",
     "name": "Reserva Natural Municipal Paraná Guazú",
-    "natural": "wetland",
     "operator": "Municipalidad de Baradero",
     "operator:type": "government",
     "protect_class": "7",
@@ -40542,27 +40541,15 @@
 },
 {
   "type": "node",
-  "id": 94168859,
-  "lat": -33.8290831,
-  "lon": -59.3191100
-},
-{
-  "type": "node",
   "id": 94174508,
-  "lat": -33.8301519,
-  "lon": -59.3168082
+  "lat": -33.8300962,
+  "lon": -59.3168162
 },
 {
   "type": "node",
   "id": 94177988,
   "lat": -33.8295955,
   "lon": -59.3212436
-},
-{
-  "type": "node",
-  "id": 94187766,
-  "lat": -33.8287333,
-  "lon": -59.3175600
 },
 {
   "type": "node",
@@ -40579,14 +40566,26 @@
 {
   "type": "node",
   "id": 2431517925,
-  "lat": -33.8305146,
-  "lon": -59.3178833
+  "lat": -33.8303609,
+  "lon": -59.3178618
 },
 {
   "type": "node",
   "id": 2431517933,
   "lat": -33.8302820,
   "lon": -59.3200290
+},
+{
+  "type": "node",
+  "id": 94168859,
+  "lat": -33.8293416,
+  "lon": -59.3164788
+},
+{
+  "type": "node",
+  "id": 94187766,
+  "lat": -33.8291633,
+  "lon": -59.3164442
 },
 {
   "type": "node",
