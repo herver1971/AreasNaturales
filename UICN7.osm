@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-14T22:15:44Z",
-    "timestamp_areas_base": "2025-09-14T17:33:00Z",
+    "timestamp_osm_base": "2025-09-15T22:15:41Z",
+    "timestamp_areas_base": "2025-09-15T15:25:19Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -54,6 +54,7 @@
     "boundary": "protected_area",
     "fence_type": "chain_link",
     "height": "2",
+    "layer": "1",
     "protect_class": "7",
     "protection_title": "Área Natural Protegída"
   }
@@ -34722,8 +34723,8 @@
 {
   "type": "node",
   "id": 7814080579,
-  "lat": -32.8922884,
-  "lon": -60.5763173
+  "lat": -32.8923391,
+  "lon": -60.5761926
 },
 {
   "type": "node",

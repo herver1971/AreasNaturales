@@ -28477,8 +28477,8 @@
             -32.8922986
           ],
           [
-            -60.5763173,
-            -32.8922884
+            -60.5761926,
+            -32.8923391
           ],
           [
             -60.5758694,
@@ -31190,6 +31190,7 @@
     "boundary": "protected_area",
     "fence_type": "chain_link",
     "height": "2",
+    "layer": "1",
     "protect_class": "7",
     "protection_title": "Área Natural Protegída",
     "id": "way/724670058"
