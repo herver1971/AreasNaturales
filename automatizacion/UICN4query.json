@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-08T22:12:59Z",
-    "timestamp_areas_base": "2025-10-08T17:24:15Z",
+    "timestamp_osm_base": "2025-10-09T22:12:23Z",
+    "timestamp_areas_base": "2025-10-09T19:19:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1384,7 +1384,7 @@
     "related_law": "Ordenanza Municipal 41247/86",
     "type": "boundary",
     "wikidata": "Q1034280",
-    "wikipedia": "es:Reserva ecológica de Buenos Aires"
+    "wikipedia": "es:Reserva ecológica Costanera Sur (Buenos Aires)"
   }
 },
 {
@@ -149345,8 +149345,8 @@
 {
   "type": "node",
   "id": 1621078104,
-  "lat": -34.6177601,
-  "lon": -58.3549626
+  "lat": -34.6177778,
+  "lon": -58.3549546
 },
 {
   "type": "node",
