@@ -2,12 +2,74 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-15T22:48:01Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-05-16T22:38:52Z",
+    "timestamp_areas_base": "2026-05-16T11:39:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
+{
+  "type": "way",
+  "id": 993171906,
+  "nodes": [
+    9175606850,
+    9175606849,
+    9175606848,
+    9175606847,
+    9175606846,
+    9175606845,
+    9175606844,
+    9175606843,
+    9175606842,
+    9175606841,
+    9175606840,
+    9175606839,
+    9175606838,
+    9175606837,
+    9175606836,
+    9175606835,
+    9175606834,
+    9175606833,
+    9175606832,
+    9175606831,
+    9175606830,
+    9175606829,
+    9175606828,
+    9175606827,
+    9175606826,
+    9175606825,
+    9175606824,
+    9175606823,
+    9175606822,
+    9175606821,
+    9175606820,
+    9175606819,
+    9175606818,
+    9175606817,
+    9175590016,
+    9175590015,
+    9175590014,
+    9175590013,
+    9175590012,
+    9175590011,
+    9175590010,
+    9175606850
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Paisaje Protegido Cerro Mbororé",
+    "operator": "Provincia de Misiones",
+    "operator:type": "government",
+    "operator:wikidata": "Q44798",
+    "ownership": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "ref": "Ley N° XVI-124/18",
+    "source": "SOT MERNR Misiones"
+  }
+},
 {
   "type": "way",
   "id": 1514072406,
@@ -74,6 +136,35 @@
     "operator": "Ministerio de Ecología y Recursos Naturales Renovables de Misiones",
     "protect_class": "5",
     "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 1514902047,
+  "nodes": [
+    13836991943,
+    13836991942,
+    13836991941,
+    13836991940,
+    13836991939,
+    13836991938,
+    13836991937,
+    13836991936,
+    13836991943
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Paisaje Protegido Andrés Giai",
+    "operator": "Provincia de Misiones",
+    "operator:type": "government",
+    "operator:wikidata": "Q44798",
+    "ownership": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "ref": "Ley N° 3468",
+    "source": "SOT MERNR Misiones"
   }
 },
 {
@@ -3653,6 +3744,58 @@
     "type": "boundary",
     "website": "https://www.parquedelacruz.tur.ar/",
     "wikipedia": "es:Parque Temático de la Cruz"
+  }
+},
+{
+  "type": "relation",
+  "id": 20694387,
+  "members": [
+    {
+      "type": "way",
+      "ref": 1514902047,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Paisaje Protegido Andrés Giai",
+    "operator": "Provincia de Misiones",
+    "operator:type": "government",
+    "operator:wikidata": "Q44798",
+    "ownership": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "ref": "Ley N° 3468",
+    "source": "SOT MERNR Misiones",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 20694392,
+  "members": [
+    {
+      "type": "way",
+      "ref": 993171906,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Paisaje Protegido Cerro Mbororé",
+    "operator": "Provincia de Misiones",
+    "operator:type": "government",
+    "operator:wikidata": "Q44798",
+    "ownership": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "ref": "Ley N° XVI-124/18",
+    "source": "SOT MERNR Misiones",
+    "type": "boundary"
   }
 },
 {
@@ -151797,6 +151940,252 @@
 },
 {
   "type": "node",
+  "id": 9175606843,
+  "lat": -27.6870623,
+  "lon": -54.9128437
+},
+{
+  "type": "node",
+  "id": 9175606844,
+  "lat": -27.6870148,
+  "lon": -54.9132729
+},
+{
+  "type": "node",
+  "id": 9175606845,
+  "lat": -27.6872713,
+  "lon": -54.9137020
+},
+{
+  "type": "node",
+  "id": 9175606846,
+  "lat": -27.6876228,
+  "lon": -54.9140024
+},
+{
+  "type": "node",
+  "id": 9175606847,
+  "lat": -27.6881904,
+  "lon": -54.9144557
+},
+{
+  "type": "node",
+  "id": 9175606848,
+  "lat": -27.6887913,
+  "lon": -54.9152175
+},
+{
+  "type": "node",
+  "id": 9175606849,
+  "lat": -27.6888946,
+  "lon": -54.9152108
+},
+{
+  "type": "node",
+  "id": 9175606850,
+  "lat": -27.6880218,
+  "lon": -54.9176180
+},
+{
+  "type": "node",
+  "id": 9175606835,
+  "lat": -27.6858272,
+  "lon": -54.9095714
+},
+{
+  "type": "node",
+  "id": 9175606836,
+  "lat": -27.6859317,
+  "lon": -54.9100649
+},
+{
+  "type": "node",
+  "id": 9175606837,
+  "lat": -27.6861122,
+  "lon": -54.9105370
+},
+{
+  "type": "node",
+  "id": 9175606838,
+  "lat": -27.6861312,
+  "lon": -54.9110949
+},
+{
+  "type": "node",
+  "id": 9175606839,
+  "lat": -27.6863307,
+  "lon": -54.9115992
+},
+{
+  "type": "node",
+  "id": 9175606840,
+  "lat": -27.6865492,
+  "lon": -54.9119425
+},
+{
+  "type": "node",
+  "id": 9175606841,
+  "lat": -27.6866918,
+  "lon": -54.9123395
+},
+{
+  "type": "node",
+  "id": 9175606842,
+  "lat": -27.6870338,
+  "lon": -54.9125755
+},
+{
+  "type": "node",
+  "id": 9175590010,
+  "lat": -27.6846112,
+  "lon": -54.9156117
+},
+{
+  "type": "node",
+  "id": 9175590011,
+  "lat": -27.6846919,
+  "lon": -54.9152309
+},
+{
+  "type": "node",
+  "id": 9175590012,
+  "lat": -27.6846110,
+  "lon": -54.9149105
+},
+{
+  "type": "node",
+  "id": 9175590013,
+  "lat": -27.6841931,
+  "lon": -54.9145335
+},
+{
+  "type": "node",
+  "id": 9175590014,
+  "lat": -27.6833571,
+  "lon": -54.9139971
+},
+{
+  "type": "node",
+  "id": 9175590015,
+  "lat": -27.6831528,
+  "lon": -54.9137771
+},
+{
+  "type": "node",
+  "id": 9175590016,
+  "lat": -27.6829628,
+  "lon": -54.9127579
+},
+{
+  "type": "node",
+  "id": 9175606817,
+  "lat": -27.6821220,
+  "lon": -54.9116904
+},
+{
+  "type": "node",
+  "id": 9175606818,
+  "lat": -27.6803691,
+  "lon": -54.9102420
+},
+{
+  "type": "node",
+  "id": 9175606827,
+  "lat": -27.6822550,
+  "lon": -54.9084824
+},
+{
+  "type": "node",
+  "id": 9175606828,
+  "lat": -27.6830578,
+  "lon": -54.9083161
+},
+{
+  "type": "node",
+  "id": 9175606829,
+  "lat": -27.6840174,
+  "lon": -54.9085683
+},
+{
+  "type": "node",
+  "id": 9175606830,
+  "lat": -27.6843689,
+  "lon": -54.9087399
+},
+{
+  "type": "node",
+  "id": 9175606831,
+  "lat": -27.6845826,
+  "lon": -54.9088848
+},
+{
+  "type": "node",
+  "id": 9175606832,
+  "lat": -27.6848582,
+  "lon": -54.9091852
+},
+{
+  "type": "node",
+  "id": 9175606833,
+  "lat": -27.6852952,
+  "lon": -54.9093461
+},
+{
+  "type": "node",
+  "id": 9175606834,
+  "lat": -27.6855992,
+  "lon": -54.9094427
+},
+{
+  "type": "node",
+  "id": 9175606819,
+  "lat": -27.6790817,
+  "lon": -54.9102151
+},
+{
+  "type": "node",
+  "id": 9175606820,
+  "lat": -27.6783976,
+  "lon": -54.9099523
+},
+{
+  "type": "node",
+  "id": 9175606821,
+  "lat": -27.6776945,
+  "lon": -54.9096948
+},
+{
+  "type": "node",
+  "id": 9175606822,
+  "lat": -27.6775662,
+  "lon": -54.9094427
+},
+{
+  "type": "node",
+  "id": 9175606823,
+  "lat": -27.6776565,
+  "lon": -54.9089706
+},
+{
+  "type": "node",
+  "id": 9175606824,
+  "lat": -27.6777325,
+  "lon": -54.9088258
+},
+{
+  "type": "node",
+  "id": 9175606825,
+  "lat": -27.6781791,
+  "lon": -54.9085361
+},
+{
+  "type": "node",
+  "id": 9175606826,
+  "lat": -27.6785259,
+  "lon": -54.9084127
+},
+{
+  "type": "node",
   "id": 7758215984,
   "lat": -25.9163171,
   "lon": -54.5408493
@@ -154287,6 +154676,42 @@
 },
 {
   "type": "node",
+  "id": 13836991936,
+  "lat": -25.6317209,
+  "lon": -54.5581841
+},
+{
+  "type": "node",
+  "id": 13836991937,
+  "lat": -25.6323508,
+  "lon": -54.5581011
+},
+{
+  "type": "node",
+  "id": 13836991938,
+  "lat": -25.6322927,
+  "lon": -54.5571790
+},
+{
+  "type": "node",
+  "id": 13836991939,
+  "lat": -25.6323891,
+  "lon": -54.5571847
+},
+{
+  "type": "node",
+  "id": 13836991942,
+  "lat": -25.6316826,
+  "lon": -54.5586144
+},
+{
+  "type": "node",
+  "id": 13836991943,
+  "lat": -25.6317112,
+  "lon": -54.5583305
+},
+{
+  "type": "node",
   "id": 4362136567,
   "lat": -25.6267486,
   "lon": -54.5520007
@@ -154296,6 +154721,18 @@
   "id": 9176447375,
   "lat": -25.6276753,
   "lon": -54.5510497
+},
+{
+  "type": "node",
+  "id": 13836991940,
+  "lat": -25.6276899,
+  "lon": -54.5510952
+},
+{
+  "type": "node",
+  "id": 13836991941,
+  "lat": -25.6267182,
+  "lon": -54.5519898
 },
 {
   "type": "node",
@@ -205869,6 +206306,54 @@
 },
 {
   "type": "way",
+  "id": 993171906,
+  "nodes": [
+    9175606850,
+    9175606849,
+    9175606848,
+    9175606847,
+    9175606846,
+    9175606845,
+    9175606844,
+    9175606843,
+    9175606842,
+    9175606841,
+    9175606840,
+    9175606839,
+    9175606838,
+    9175606837,
+    9175606836,
+    9175606835,
+    9175606834,
+    9175606833,
+    9175606832,
+    9175606831,
+    9175606830,
+    9175606829,
+    9175606828,
+    9175606827,
+    9175606826,
+    9175606825,
+    9175606824,
+    9175606823,
+    9175606822,
+    9175606821,
+    9175606820,
+    9175606819,
+    9175606818,
+    9175606817,
+    9175590016,
+    9175590015,
+    9175590014,
+    9175590013,
+    9175590012,
+    9175590011,
+    9175590010,
+    9175606850
+  ]
+},
+{
+  "type": "way",
   "id": 830894431,
   "nodes": [
     7758216454,
@@ -207043,6 +207528,21 @@
   "nodes": [
     4362136571,
     9176447375
+  ]
+},
+{
+  "type": "way",
+  "id": 1514902047,
+  "nodes": [
+    13836991943,
+    13836991942,
+    13836991941,
+    13836991940,
+    13836991939,
+    13836991938,
+    13836991937,
+    13836991936,
+    13836991943
   ]
 },
 {
