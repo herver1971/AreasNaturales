@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-17T22:47:29Z",
-    "timestamp_areas_base": "2026-05-17T09:51:14Z",
+    "timestamp_osm_base": "2026-05-18T22:52:40Z",
+    "timestamp_areas_base": "2026-05-18T09:42:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -57,7 +57,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Cerro Mbororé",
     "operator": "Provincia de Misiones",
     "operator:type": "government",
@@ -131,8 +130,7 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Paisaje Natural Protegido Arroyo Cazador",
+    "name": "Paisaje Protegido Arroyo Cazador",
     "operator": "Ministerio de Ecología y Recursos Naturales Renovables de Misiones",
     "protect_class": "5",
     "source": "survey"
@@ -154,7 +152,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Andrés Giai",
     "operator": "Provincia de Misiones",
     "operator:type": "government",
@@ -1988,11 +1985,6 @@
   "members": [
     {
       "type": "way",
-      "ref": 438468421,
-      "role": "outer"
-    },
-    {
-      "type": "way",
       "ref": 831990766,
       "role": "outer"
     }
@@ -3707,7 +3699,7 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "name": "Paisaje Natural Protegido Arroyo Cazador",
+    "name": "Paisaje Protegido Arroyo Cazador",
     "operator": "Provincia de Misiones",
     "operator:type": "government",
     "operator:wikidata": "Q44798",
@@ -3784,7 +3776,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Cerro Mbororé",
     "operator": "Provincia de Misiones",
     "operator:type": "government",
@@ -154646,33 +154637,9 @@
 },
 {
   "type": "node",
-  "id": 4362136569,
-  "lat": -25.6317098,
-  "lon": -54.5586205
-},
-{
-  "type": "node",
-  "id": 4362136570,
-  "lat": -25.6317509,
-  "lon": -54.5581927
-},
-{
-  "type": "node",
   "id": 4362136571,
   "lat": -25.6324135,
   "lon": -54.5571908
-},
-{
-  "type": "node",
-  "id": 4362136572,
-  "lat": -25.6323748,
-  "lon": -54.5581108
-},
-{
-  "type": "node",
-  "id": 7767887449,
-  "lat": -25.6323217,
-  "lon": -54.5571868
 },
 {
   "type": "node",
@@ -154709,12 +154676,6 @@
   "id": 13836991943,
   "lat": -25.6317112,
   "lon": -54.5583305
-},
-{
-  "type": "node",
-  "id": 4362136567,
-  "lat": -25.6267486,
-  "lon": -54.5520007
 },
 {
   "type": "node",
@@ -207507,19 +207468,6 @@
     7758204282,
     7758204281,
     7758216091
-  ]
-},
-{
-  "type": "way",
-  "id": 438468421,
-  "nodes": [
-    9176447375,
-    4362136567,
-    4362136569,
-    4362136570,
-    4362136572,
-    7767887449,
-    4362136571
   ]
 },
 {

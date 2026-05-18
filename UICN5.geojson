@@ -69215,71 +69215,6 @@
 },
 {
   "type": "Feature",
-  "id": "relation/11363919",
-  "properties": {
-    "alt_name": "Güirá Oga",
-    "animal_shelter": "wildlife",
-    "animal_shelter:adoption": "no",
-    "animal_shelter:release": "yes",
-    "boundary": "protected_area",
-    "name": "Paisaje Protegido Güirá Oga",
-    "opening_hours": "Mo-Su 09:00-18:00",
-    "operator": "Fundación Temaikén",
-    "operator:type": "private",
-    "protect_class": "5",
-    "protected_area": "landscape",
-    "protection_title": "Paisaje Protegido",
-    "related_law": "Ley Provincial 3468/97",
-    "source": "Ley Provincial Nº 3468",
-    "start_date": "1997-08-23",
-    "type": "boundary",
-    "wikidata": "Q5890483",
-    "wikipedia": "es:Paisaje protegido Andrés Giai",
-    "zoo": "wildlife_park",
-    "id": "relation/11363919"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -54.5571908,
-          -25.6324135
-        ],
-        [
-          -54.5510497,
-          -25.6276753
-        ],
-        [
-          -54.5520007,
-          -25.6267486
-        ],
-        [
-          -54.5586205,
-          -25.6317098
-        ],
-        [
-          -54.5581927,
-          -25.6317509
-        ],
-        [
-          -54.5581108,
-          -25.6323748
-        ],
-        [
-          -54.5571868,
-          -25.6323217
-        ],
-        [
-          -54.5571908,
-          -25.6324135
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "relation/11657104",
   "properties": {
     "boundary": "protected_area",
@@ -118335,8 +118270,7 @@
   "id": "way/1514072406",
   "properties": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
-    "name": "Paisaje Natural Protegido Arroyo Cazador",
+    "name": "Paisaje Protegido Arroyo Cazador",
     "operator": "Ministerio de Ecología y Recursos Naturales Renovables de Misiones",
     "protect_class": "5",
     "source": "survey",
@@ -118571,7 +118505,6 @@
   "id": "way/993171906",
   "properties": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Cerro Mbororé",
     "operator": "Provincia de Misiones",
     "operator:type": "government",
@@ -118765,7 +118698,6 @@
   "id": "way/1514902047",
   "properties": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Andrés Giai",
     "operator": "Provincia de Misiones",
     "operator:type": "government",
