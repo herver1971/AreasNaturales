@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-18T22:51:45Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-05-19T22:58:46Z",
+    "timestamp_areas_base": "2026-05-19T05:06:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1027,6 +1027,41 @@
     "wikidata": "Q3089010",
     "wikimedia_commons": "File:Monte San Lorenzo.jpg",
     "wikipedia": "es:Cerro San Lorenzo"
+  }
+},
+{
+  "type": "way",
+  "id": 1517053126,
+  "nodes": [
+    13849381346,
+    13849381345,
+    13849381344,
+    13849381343,
+    13849381342,
+    13849381341,
+    13849381340,
+    13849381339,
+    13849381338,
+    13849381337,
+    13849381336,
+    13849381335,
+    13849381334,
+    13849381333,
+    13849381332,
+    13849381331,
+    13849381330,
+    13849381329,
+    13849381328,
+    13849381346
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Reserva Natural Cultural Solar del Che",
+    "note": "Superficie según ley: 21.97 ha",
+    "operator:type": "government",
+    "protect_class": "4",
+    "short_name": "RNC Solar del Che",
+    "source": "LEY N° XVI - N°170"
   }
 },
 {
@@ -3243,6 +3278,27 @@
     "start_date": "2023-11-30",
     "type": "multipolygon",
     "website": "https://www.santuariocruzdepiedra.cl"
+  }
+},
+{
+  "type": "relation",
+  "id": 20707442,
+  "members": [
+    {
+      "type": "way",
+      "ref": 1517053126,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Reserva Natural Cultural Solar del Che",
+    "note": "Superficie según ley: 21.97 ha",
+    "operator:type": "government",
+    "protect_class": "4",
+    "short_name": "RNC Solar del Che",
+    "source": "LEY N° XVI - N°170",
+    "type": "boundary"
   }
 },
 {
@@ -165012,6 +165068,120 @@
   "lon": -58.2850413
 },
 {
+  "type": "node",
+  "id": 13849381337,
+  "lat": -26.6174880,
+  "lon": -54.7824118
+},
+{
+  "type": "node",
+  "id": 13849381338,
+  "lat": -26.6177974,
+  "lon": -54.7824831
+},
+{
+  "type": "node",
+  "id": 13849381339,
+  "lat": -26.6181571,
+  "lon": -54.7823305
+},
+{
+  "type": "node",
+  "id": 13849381340,
+  "lat": -26.6183440,
+  "lon": -54.7823737
+},
+{
+  "type": "node",
+  "id": 13849381341,
+  "lat": -26.6184537,
+  "lon": -54.7822031
+},
+{
+  "type": "node",
+  "id": 13849381342,
+  "lat": -26.6185146,
+  "lon": -54.7822177
+},
+{
+  "type": "node",
+  "id": 13849381343,
+  "lat": -26.6197067,
+  "lon": -54.7810327
+},
+{
+  "type": "node",
+  "id": 13849381328,
+  "lat": -26.6135613,
+  "lon": -54.7817788
+},
+{
+  "type": "node",
+  "id": 13849381329,
+  "lat": -26.6139208,
+  "lon": -54.7815882
+},
+{
+  "type": "node",
+  "id": 13849381330,
+  "lat": -26.6142929,
+  "lon": -54.7819617
+},
+{
+  "type": "node",
+  "id": 13849381331,
+  "lat": -26.6159646,
+  "lon": -54.7822547
+},
+{
+  "type": "node",
+  "id": 13849381332,
+  "lat": -26.6161449,
+  "lon": -54.7820744
+},
+{
+  "type": "node",
+  "id": 13849381333,
+  "lat": -26.6163697,
+  "lon": -54.7822452
+},
+{
+  "type": "node",
+  "id": 13849381334,
+  "lat": -26.6166314,
+  "lon": -54.7823761
+},
+{
+  "type": "node",
+  "id": 13849381335,
+  "lat": -26.6168932,
+  "lon": -54.7824118
+},
+{
+  "type": "node",
+  "id": 13849381336,
+  "lat": -26.6172501,
+  "lon": -54.7824831
+},
+{
+  "type": "node",
+  "id": 13849381346,
+  "lat": -26.6131806,
+  "lon": -54.7815647
+},
+{
+  "type": "node",
+  "id": 13849381344,
+  "lat": -26.6165951,
+  "lon": -54.7769543
+},
+{
+  "type": "node",
+  "id": 13849381345,
+  "lat": -26.6125755,
+  "lon": -54.7812016
+},
+{
   "type": "way",
   "id": 778048988,
   "nodes": [
@@ -192939,6 +193109,32 @@
   "nodes": [
     7752584576,
     7752584578
+  ]
+},
+{
+  "type": "way",
+  "id": 1517053126,
+  "nodes": [
+    13849381346,
+    13849381345,
+    13849381344,
+    13849381343,
+    13849381342,
+    13849381341,
+    13849381340,
+    13849381339,
+    13849381338,
+    13849381337,
+    13849381336,
+    13849381335,
+    13849381334,
+    13849381333,
+    13849381332,
+    13849381331,
+    13849381330,
+    13849381329,
+    13849381328,
+    13849381346
   ]
 },
 {
