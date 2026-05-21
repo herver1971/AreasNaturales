@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-20T23:08:00Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-05-21T23:01:16Z",
+    "timestamp_areas_base": "2026-05-21T14:54:08Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -65,7 +65,7 @@
     "protect_class": "5",
     "protected_area": "landscape",
     "protection_title": "Paisaje Protegido",
-    "ref": "Ley N° XVI-124/18",
+    "related_law": "Ley N° XVI-124/18",
     "source": "SOT MERNR Misiones"
   }
 },
@@ -160,7 +160,7 @@
     "protect_class": "5",
     "protected_area": "landscape",
     "protection_title": "Paisaje Protegido",
-    "ref": "Ley N° 3468",
+    "related_law": "Ley N° 3468",
     "source": "SOT MERNR Misiones"
   }
 },
@@ -3750,7 +3750,6 @@
   ],
   "tags": {
     "boundary": "protected_area",
-    "leisure": "nature_reserve",
     "name": "Paisaje Protegido Andrés Giai",
     "operator": "Provincia de Misiones",
     "operator:type": "government",
@@ -3759,7 +3758,7 @@
     "protect_class": "5",
     "protected_area": "landscape",
     "protection_title": "Paisaje Protegido",
-    "ref": "Ley N° 3468",
+    "related_law": "Ley N° 3468",
     "source": "SOT MERNR Misiones",
     "type": "boundary"
   }
@@ -3784,7 +3783,7 @@
     "protect_class": "5",
     "protected_area": "landscape",
     "protection_title": "Paisaje Protegido",
-    "ref": "Ley N° XVI-124/18",
+    "related_law": "Ley N° XVI-124/18",
     "source": "SOT MERNR Misiones",
     "type": "boundary"
   }

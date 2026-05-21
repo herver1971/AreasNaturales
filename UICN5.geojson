@@ -118513,7 +118513,7 @@
     "protect_class": "5",
     "protected_area": "landscape",
     "protection_title": "Paisaje Protegido",
-    "ref": "Ley N° XVI-124/18",
+    "related_law": "Ley N° XVI-124/18",
     "source": "SOT MERNR Misiones",
     "id": "way/993171906"
   },
@@ -118706,7 +118706,7 @@
     "protect_class": "5",
     "protected_area": "landscape",
     "protection_title": "Paisaje Protegido",
-    "ref": "Ley N° 3468",
+    "related_law": "Ley N° 3468",
     "source": "SOT MERNR Misiones",
     "id": "way/1514902047"
   },
