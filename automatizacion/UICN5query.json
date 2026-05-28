@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-27T23:12:51Z",
-    "timestamp_areas_base": "2026-05-27T09:03:30Z",
+    "timestamp_osm_base": "2026-05-28T23:11:12Z",
+    "timestamp_areas_base": "2026-05-28T06:05:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -129,9 +129,11 @@
     13831949878
   ],
   "tags": {
+    "area": "no",
     "boundary": "protected_area",
     "name": "Paisaje Protegido Arroyo Cazador",
-    "operator": "Ministerio de Ecología y Recursos Naturales Renovables de Misiones",
+    "operator": "Provincia de Misiones",
+    "operator:wikidata": "Q44798",
     "protect_class": "5",
     "source": "survey"
   }
@@ -3694,7 +3696,7 @@
     {
       "type": "way",
       "ref": 1514072406,
-      "role": ""
+      "role": "outer"
     }
   ],
   "tags": {
