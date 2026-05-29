@@ -2,170 +2,12 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-28T23:11:12Z",
-    "timestamp_areas_base": "2026-05-28T06:05:21Z",
+    "timestamp_osm_base": "2026-05-29T23:05:51Z",
+    "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
-{
-  "type": "way",
-  "id": 993171906,
-  "nodes": [
-    9175606850,
-    9175606849,
-    9175606848,
-    9175606847,
-    9175606846,
-    9175606845,
-    9175606844,
-    9175606843,
-    9175606842,
-    9175606841,
-    9175606840,
-    9175606839,
-    9175606838,
-    9175606837,
-    9175606836,
-    9175606835,
-    9175606834,
-    9175606833,
-    9175606832,
-    9175606831,
-    9175606830,
-    9175606829,
-    9175606828,
-    9175606827,
-    9175606826,
-    9175606825,
-    9175606824,
-    9175606823,
-    9175606822,
-    9175606821,
-    9175606820,
-    9175606819,
-    9175606818,
-    9175606817,
-    9175590016,
-    9175590015,
-    9175590014,
-    9175590013,
-    9175590012,
-    9175590011,
-    9175590010,
-    9175606850
-  ],
-  "tags": {
-    "boundary": "protected_area",
-    "name": "Paisaje Protegido Cerro Mbororé",
-    "operator": "Provincia de Misiones",
-    "operator:type": "government",
-    "operator:wikidata": "Q44798",
-    "ownership": "government",
-    "protect_class": "5",
-    "protected_area": "landscape",
-    "protection_title": "Paisaje Protegido",
-    "related_law": "Ley N° XVI-124/18",
-    "source": "SOT MERNR Misiones"
-  }
-},
-{
-  "type": "way",
-  "id": 1514072406,
-  "nodes": [
-    13831949878,
-    13831949877,
-    13831949876,
-    13831949875,
-    13831949874,
-    13831949873,
-    13831949872,
-    13831949871,
-    13831949870,
-    13831949869,
-    13831949868,
-    13831949867,
-    13831949866,
-    13831949865,
-    13831949864,
-    13831949863,
-    13831949862,
-    13831949861,
-    13831949860,
-    13831949859,
-    13831949858,
-    13831949857,
-    13831949856,
-    13831949855,
-    13831949854,
-    13831949853,
-    13831949852,
-    13831949851,
-    13831949850,
-    13831949849,
-    13831949848,
-    13831949847,
-    13831949846,
-    13831949845,
-    13831949844,
-    13831949843,
-    13831949842,
-    13831949841,
-    13831949840,
-    13831949839,
-    13831949838,
-    13831949837,
-    13831949836,
-    13831949835,
-    13831949834,
-    13831949833,
-    13831949832,
-    13831949831,
-    13831949830,
-    13831949829,
-    13831949828,
-    13831949827,
-    13831949826,
-    13831949878
-  ],
-  "tags": {
-    "area": "no",
-    "boundary": "protected_area",
-    "name": "Paisaje Protegido Arroyo Cazador",
-    "operator": "Provincia de Misiones",
-    "operator:wikidata": "Q44798",
-    "protect_class": "5",
-    "source": "survey"
-  }
-},
-{
-  "type": "way",
-  "id": 1514902047,
-  "nodes": [
-    13836991943,
-    13836991942,
-    13836991941,
-    13836991940,
-    13836991939,
-    13836991938,
-    13836991937,
-    13836991936,
-    13836991943
-  ],
-  "tags": {
-    "boundary": "protected_area",
-    "name": "Paisaje Protegido Andrés Giai",
-    "operator": "Provincia de Misiones",
-    "operator:type": "government",
-    "operator:wikidata": "Q44798",
-    "ownership": "government",
-    "protect_class": "5",
-    "protected_area": "landscape",
-    "protection_title": "Paisaje Protegido",
-    "related_law": "Ley N° 3468",
-    "source": "SOT MERNR Misiones"
-  }
-},
 {
   "type": "relation",
   "id": 5604956,
@@ -3720,7 +3562,7 @@
     {
       "type": "way",
       "ref": 331939604,
-      "role": ""
+      "role": "outer"
     }
   ],
   "tags": {
@@ -3747,7 +3589,7 @@
     {
       "type": "way",
       "ref": 1514902047,
-      "role": ""
+      "role": "outer"
     }
   ],
   "tags": {
@@ -3772,7 +3614,7 @@
     {
       "type": "way",
       "ref": 993171906,
-      "role": ""
+      "role": "outer"
     }
   ],
   "tags": {

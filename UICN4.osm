@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-28T23:09:14Z",
+    "timestamp_osm_base": "2026-05-29T23:04:45Z",
     "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -1027,42 +1027,6 @@
     "wikidata": "Q3089010",
     "wikimedia_commons": "File:Monte San Lorenzo.jpg",
     "wikipedia": "es:Cerro San Lorenzo"
-  }
-},
-{
-  "type": "way",
-  "id": 1517053126,
-  "nodes": [
-    13849381346,
-    13849381345,
-    13849381344,
-    13849381343,
-    13849381342,
-    13849381341,
-    13849381340,
-    13849381339,
-    13849381338,
-    13849381337,
-    13849381336,
-    13849381335,
-    13849381334,
-    13849381333,
-    13849381332,
-    13849381331,
-    13849381330,
-    13849381329,
-    13849381328,
-    13849381346
-  ],
-  "tags": {
-    "area": "no",
-    "boundary": "protected_area",
-    "name": "Reserva Natural Cultural Solar del Che",
-    "note": "Superficie según ley: 21.97 ha",
-    "operator:type": "government",
-    "protect_class": "4",
-    "short_name": "RNC Solar del Che",
-    "source": "LEY N° XVI - N°170"
   }
 },
 {
@@ -3298,7 +3262,7 @@
     {
       "type": "way",
       "ref": 1517053126,
-      "role": ""
+      "role": "outer"
     }
   ],
   "tags": {

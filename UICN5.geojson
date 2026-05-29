@@ -118508,7 +118508,121 @@
 },
 {
   "type": "Feature",
-  "id": "way/993171906",
+  "id": "relation/20690226",
+  "properties": {
+    "boundary": "protected_area",
+    "email": "consultas@parquedelacruz.tur.ar",
+    "name": "Paisaje Protegido Parque Temático de la Cruz",
+    "operator": "Provincia de Misiones",
+    "operator:type": "government",
+    "operator:wikidata": "Q44798",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "source": "IDE Misiones",
+    "source:url": "http://www.ide.misiones.gov.ar/index.php?option=com_content&view=article&id=8&Itemid=3",
+    "type": "boundary",
+    "website": "https://www.parquedelacruz.tur.ar/",
+    "wikipedia": "es:Parque Temático de la Cruz",
+    "id": "relation/20690226"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -55.5762231,
+          -27.4480448
+        ],
+        [
+          -55.5745718,
+          -27.4503669
+        ],
+        [
+          -55.5726824,
+          -27.4493001
+        ],
+        [
+          -55.5719765,
+          -27.4489015
+        ],
+        [
+          -55.5745693,
+          -27.4470825
+        ],
+        [
+          -55.5762231,
+          -27.4480448
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/20694387",
+  "properties": {
+    "boundary": "protected_area",
+    "name": "Paisaje Protegido Andrés Giai",
+    "operator": "Provincia de Misiones",
+    "operator:type": "government",
+    "operator:wikidata": "Q44798",
+    "ownership": "government",
+    "protect_class": "5",
+    "protected_area": "landscape",
+    "protection_title": "Paisaje Protegido",
+    "related_law": "Ley N° 3468",
+    "source": "SOT MERNR Misiones",
+    "type": "boundary",
+    "id": "relation/20694387"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -54.5583305,
+          -25.6317112
+        ],
+        [
+          -54.5581841,
+          -25.6317209
+        ],
+        [
+          -54.5581011,
+          -25.6323508
+        ],
+        [
+          -54.557179,
+          -25.6322927
+        ],
+        [
+          -54.5571847,
+          -25.6323891
+        ],
+        [
+          -54.5510952,
+          -25.6276899
+        ],
+        [
+          -54.5519898,
+          -25.6267182
+        ],
+        [
+          -54.5586144,
+          -25.6316826
+        ],
+        [
+          -54.5583305,
+          -25.6317112
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/20694392",
   "properties": {
     "boundary": "protected_area",
     "name": "Paisaje Protegido Cerro Mbororé",
@@ -118521,7 +118635,8 @@
     "protection_title": "Paisaje Protegido",
     "related_law": "Ley N° XVI-124/18",
     "source": "SOT MERNR Misiones",
-    "id": "way/993171906"
+    "type": "boundary",
+    "id": "relation/20694392"
   },
   "geometry": {
     "type": "Polygon",
@@ -118695,338 +118810,6 @@
           -54.917618,
           -27.6880218
         ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1514902047",
-  "properties": {
-    "boundary": "protected_area",
-    "name": "Paisaje Protegido Andrés Giai",
-    "operator": "Provincia de Misiones",
-    "operator:type": "government",
-    "operator:wikidata": "Q44798",
-    "ownership": "government",
-    "protect_class": "5",
-    "protected_area": "landscape",
-    "protection_title": "Paisaje Protegido",
-    "related_law": "Ley N° 3468",
-    "source": "SOT MERNR Misiones",
-    "id": "way/1514902047"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -54.5583305,
-          -25.6317112
-        ],
-        [
-          -54.5581841,
-          -25.6317209
-        ],
-        [
-          -54.5581011,
-          -25.6323508
-        ],
-        [
-          -54.557179,
-          -25.6322927
-        ],
-        [
-          -54.5571847,
-          -25.6323891
-        ],
-        [
-          -54.5510952,
-          -25.6276899
-        ],
-        [
-          -54.5519898,
-          -25.6267182
-        ],
-        [
-          -54.5586144,
-          -25.6316826
-        ],
-        [
-          -54.5583305,
-          -25.6317112
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/331939604",
-  "properties": {
-    "id": "way/331939604"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -55.5762231,
-        -27.4480448
-      ],
-      [
-        -55.5745718,
-        -27.4503669
-      ],
-      [
-        -55.5726824,
-        -27.4493001
-      ],
-      [
-        -55.5719765,
-        -27.4489015
-      ],
-      [
-        -55.5745693,
-        -27.4470825
-      ],
-      [
-        -55.5762231,
-        -27.4480448
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/1514072406",
-  "properties": {
-    "area": "no",
-    "boundary": "protected_area",
-    "name": "Paisaje Protegido Arroyo Cazador",
-    "operator": "Provincia de Misiones",
-    "operator:wikidata": "Q44798",
-    "protect_class": "5",
-    "source": "survey",
-    "id": "way/1514072406"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [
-        -55.5239808,
-        -27.2801251
-      ],
-      [
-        -55.5206712,
-        -27.2774138
-      ],
-      [
-        -55.5198586,
-        -27.2781024
-      ],
-      [
-        -55.5169667,
-        -27.2775728
-      ],
-      [
-        -55.516655,
-        -27.278149
-      ],
-      [
-        -55.5146951,
-        -27.2762991
-      ],
-      [
-        -55.5144317,
-        -27.2761075
-      ],
-      [
-        -55.5135702,
-        -27.2768621
-      ],
-      [
-        -55.5133574,
-        -27.2732678
-      ],
-      [
-        -55.5126352,
-        -27.2716552
-      ],
-      [
-        -55.5133405,
-        -27.2710304
-      ],
-      [
-        -55.5136594,
-        -27.2706908
-      ],
-      [
-        -55.5099112,
-        -27.2672919
-      ],
-      [
-        -55.5061935,
-        -27.2704747
-      ],
-      [
-        -55.5074107,
-        -27.2715503
-      ],
-      [
-        -55.5056414,
-        -27.2730886
-      ],
-      [
-        -55.5074202,
-        -27.2757663
-      ],
-      [
-        -55.4999278,
-        -27.2823409
-      ],
-      [
-        -55.4988797,
-        -27.2814558
-      ],
-      [
-        -55.4975246,
-        -27.2810294
-      ],
-      [
-        -55.4958028,
-        -27.2810992
-      ],
-      [
-        -55.4912959,
-        -27.2769754
-      ],
-      [
-        -55.4837315,
-        -27.2836961
-      ],
-      [
-        -55.4943942,
-        -27.2936179
-      ],
-      [
-        -55.4983031,
-        -27.2902743
-      ],
-      [
-        -55.5018892,
-        -27.2935847
-      ],
-      [
-        -55.5095579,
-        -27.2868433
-      ],
-      [
-        -55.5131582,
-        -27.2901548
-      ],
-      [
-        -55.5158355,
-        -27.2876191
-      ],
-      [
-        -55.5152883,
-        -27.2872617
-      ],
-      [
-        -55.5147854,
-        -27.2868432
-      ],
-      [
-        -55.5142596,
-        -27.286415
-      ],
-      [
-        -55.5138351,
-        -27.2860087
-      ],
-      [
-        -55.513469,
-        -27.2852484
-      ],
-      [
-        -55.5133264,
-        -27.2847353
-      ],
-      [
-        -55.5134864,
-        -27.2842118
-      ],
-      [
-        -55.5139633,
-        -27.2834884
-      ],
-      [
-        -55.5151048,
-        -27.2831485
-      ],
-      [
-        -55.5157628,
-        -27.2828581
-      ],
-      [
-        -55.5164516,
-        -27.2824788
-      ],
-      [
-        -55.5171092,
-        -27.2819563
-      ],
-      [
-        -55.5178476,
-        -27.2813562
-      ],
-      [
-        -55.5180256,
-        -27.2811671
-      ],
-      [
-        -55.5184409,
-        -27.280732
-      ],
-      [
-        -55.5186988,
-        -27.2804848
-      ],
-      [
-        -55.5191443,
-        -27.2801361
-      ],
-      [
-        -55.5194436,
-        -27.2799981
-      ],
-      [
-        -55.5198287,
-        -27.2797064
-      ],
-      [
-        -55.5202602,
-        -27.2796535
-      ],
-      [
-        -55.5208883,
-        -27.2797487
-      ],
-      [
-        -55.5214962,
-        -27.2797725
-      ],
-      [
-        -55.5221456,
-        -27.2797978
-      ],
-      [
-        -55.5234047,
-        -27.2799907
-      ],
-      [
-        -55.5239808,
-        -27.2801251
       ]
     ]
   }
