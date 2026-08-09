@@ -56311,6 +56311,7 @@
     "name": "Reserva Natural de Objetivo Definido Bahia San Samborombón",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
+    "operator:wikidata": "Q44754",
     "protect_class": "4",
     "protected_area": "habitat",
     "protection_title": "Reserva Natural de Objetivo Definido",

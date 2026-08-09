@@ -60076,6 +60076,7 @@
     "name": "Reserva Natural Integral Bahia Samborombon",
     "operator": "Provincia de Buenos Aires",
     "operator:type": "government",
+    "operator:wikidata": "Q44754",
     "protect_class": "1a",
     "protected_area": "nature_reserve_strict",
     "protection_title": "Reserva Natural Integral",
