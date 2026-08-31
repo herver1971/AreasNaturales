@@ -5980,6 +5980,7 @@
     "name": "Reserva Natural Turística Punta Loma",
     "operator": "Provincia de Chubut",
     "operator:type": "government",
+    "operator:wikidata": "Q45007",
     "protect_class": "4",
     "protected_area": "sustainable",
     "protection_title": "Reserva Natural Turística",
