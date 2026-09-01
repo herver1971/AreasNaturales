@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-31T00:14:26Z",
-    "timestamp_areas_base": "2026-08-30T06:05:49Z",
+    "timestamp_osm_base": "2026-09-01T01:01:51Z",
+    "timestamp_areas_base": "2026-08-31T07:55:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3367,8 +3367,9 @@
     "name:es": "Parque y Reserva Nacional Los Alerces",
     "name:fr": "Parc national de Los Alerces",
     "name:nl": "Los Alerces Nationaal Park",
-    "operator": "Administración Parques Nacionales",
+    "operator": "Administración de Parques Nacionales",
     "operator:type": "government",
+    "operator:wikidata": "Q661984",
     "protected_area": "national_park",
     "protection_title": "Parque Nacional",
     "ref:whc": "1526",
@@ -175478,6 +175479,12 @@
   "id": 10684574621,
   "lat": -43.1705259,
   "lon": -71.6374844
+},
+{
+  "type": "node",
+  "id": 14137897928,
+  "lat": -43.1675760,
+  "lon": -71.6411068
 },
 {
   "type": "node",
@@ -422431,6 +422438,7 @@
     10684574620,
     10684574619,
     10684574618,
+    14137897928,
     10684574617,
     2051585855,
     10684574616,

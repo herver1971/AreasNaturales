@@ -153044,8 +153044,9 @@
     "name:es": "Parque y Reserva Nacional Los Alerces",
     "name:fr": "Parc national de Los Alerces",
     "name:nl": "Los Alerces Nationaal Park",
-    "operator": "Administración Parques Nacionales",
+    "operator": "Administración de Parques Nacionales",
     "operator:type": "government",
+    "operator:wikidata": "Q661984",
     "protected_area": "national_park",
     "protection_title": "Parque Nacional",
     "ref:whc": "1526",
@@ -161182,6 +161183,10 @@
         [
           -71.6416097,
           -43.1674115
+        ],
+        [
+          -71.6411068,
+          -43.167576
         ],
         [
           -71.6410357,
