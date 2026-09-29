@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-28T00:16:19Z",
-    "timestamp_areas_base": "2026-09-26T22:02:21Z",
+    "timestamp_osm_base": "2026-09-29T01:30:16Z",
+    "timestamp_areas_base": "2026-09-28T09:46:50Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3970,6 +3970,8 @@
   ],
   "tags": {
     "boundary": "protected_area",
+    "heritage:operator": "whc",
+    "heritage:website": "https://whc.unesco.org/en/list/145",
     "name": "Parque y Reserva Nacional Los Glaciares",
     "name:de": "Los Glaciares Nationalpark und Reservat",
     "name:en": "Los Glaciares National Park and Reserve",
@@ -3982,9 +3984,12 @@
     "operator:wikidata": "Q661984",
     "protected_area": "national_park",
     "protection_title": "Parque Nacional",
+    "ref:whc": "145",
     "related_law": "Decreto Nacional 105433/37",
     "start_date": "1937",
     "type": "boundary",
+    "whc:criteria": "(vii)(viii)",
+    "whc:inscription_date": "1981",
     "wikidata": "Q215992",
     "wikipedia": "es:Parque nacional Los Glaciares"
   }

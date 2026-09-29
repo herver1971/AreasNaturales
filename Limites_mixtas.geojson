@@ -165745,6 +165745,8 @@
   "id": "relation/11277779",
   "properties": {
     "boundary": "protected_area",
+    "heritage:operator": "whc",
+    "heritage:website": "https://whc.unesco.org/en/list/145",
     "name": "Parque y Reserva Nacional Los Glaciares",
     "name:de": "Los Glaciares Nationalpark und Reservat",
     "name:en": "Los Glaciares National Park and Reserve",
@@ -165757,9 +165759,12 @@
     "operator:wikidata": "Q661984",
     "protected_area": "national_park",
     "protection_title": "Parque Nacional",
+    "ref:whc": "145",
     "related_law": "Decreto Nacional 105433/37",
     "start_date": "1937",
     "type": "boundary",
+    "whc:criteria": "(vii)(viii)",
+    "whc:inscription_date": "1981",
     "wikidata": "Q215992",
     "wikipedia": "es:Parque nacional Los Glaciares",
     "id": "relation/11277779"
