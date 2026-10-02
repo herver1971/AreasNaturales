@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-01T00:53:01Z",
-    "timestamp_areas_base": "2026-09-30T00:32:36Z",
+    "timestamp_osm_base": "2026-10-02T01:09:29Z",
+    "timestamp_areas_base": "2026-09-30T08:16:49Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2889,8 +2889,7 @@
   "tags": {
     "boundary": "protected_area",
     "contact:email": "coloniabenitez@apn.gob.ar",
-    "contact:mobile": "+54 3725 510121",
-    "contact:phone": "+54 362 4493044; +54 362 4493054",
+    "contact:phone": "+54 362 449 3044; +54 362 449 3054; +54 3725 51 0121",
     "contact:website": "https://www.argentina.gob.ar/parquesnacionales/coloniabenitez",
     "fee": "no",
     "name": "Reserva Natural Educativa Colonia Benitez",
