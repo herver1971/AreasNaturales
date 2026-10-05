@@ -2644,6 +2644,7 @@
     "boundary": "protected_area",
     "name": "Monumento Natural Provincial Puente del Inca",
     "operator": "Provincia de Mendoza",
+    "operator:wikidata": "Q44797",
     "protect_class": "3",
     "protected_area": "national_monument",
     "protection_title": "Monumento Natural Provincial",
@@ -2767,8 +2768,8 @@
           -32.8267787
         ],
         [
-          -69.8975052,
-          -32.8267352
+          -69.8974702,
+          -32.8267195
         ],
         [
           -69.8977493,
