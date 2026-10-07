@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-06T02:00:32Z",
-    "timestamp_areas_base": "2026-10-04T19:59:06Z",
+    "timestamp_osm_base": "2026-10-07T01:08:32Z",
+    "timestamp_areas_base": "2026-10-05T17:16:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -998,9 +998,19 @@
       "role": "outer"
     },
     {
-      "type": "way",
-      "ref": 867498747,
-      "role": "outer"
+      "type": "node",
+      "ref": 8085922590,
+      "role": ""
+    },
+    {
+      "type": "node",
+      "ref": 8085922589,
+      "role": ""
+    },
+    {
+      "type": "node",
+      "ref": 8085922591,
+      "role": ""
     }
   ],
   "tags": {
@@ -1008,6 +1018,7 @@
     "name": "Vía Panorámica Casuchas del Rey",
     "operator": "Provincia de Mendoza",
     "operator:type": "government",
+    "operator:wikidata": "Q44797",
     "protect_class": "3",
     "protected_area": "landscape",
     "protection_title": "Vía Panorámica",
@@ -9569,14 +9580,14 @@
 {
   "type": "node",
   "id": 8085922591,
-  "lat": -32.8146389,
-  "lon": -70.0533056
+  "lat": -32.8145962,
+  "lon": -70.0532436
 },
 {
   "type": "node",
   "id": 8085922590,
   "lat": -32.8202730,
-  "lon": -70.0102970
+  "lon": -70.0105755
 },
 {
   "type": "node",
@@ -9983,8 +9994,8 @@
 {
   "type": "node",
   "id": 8085922589,
-  "lat": -32.8533417,
-  "lon": -69.8141556
+  "lat": -32.8636615,
+  "lon": -69.7867063
 },
 {
   "type": "node",
@@ -30286,14 +30297,6 @@
     8091508693,
     8091508692,
     8091508691
-  ]
-},
-{
-  "type": "way",
-  "id": 867498747,
-  "nodes": [
-    8085922591,
-    8085922589
   ]
 },
 {

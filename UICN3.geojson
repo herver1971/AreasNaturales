@@ -18859,46 +18859,6 @@
 },
 {
   "type": "Feature",
-  "id": "relation/11840961",
-  "properties": {
-    "boundary": "protected_area",
-    "name": "Vía Panorámica Casuchas del Rey",
-    "operator": "Provincia de Mendoza",
-    "operator:type": "government",
-    "protect_class": "3",
-    "protected_area": "landscape",
-    "protection_title": "Vía Panorámica",
-    "related_law": "Ley Provincial 8820/15",
-    "start_date": "2015",
-    "type": "boundary",
-    "id": "relation/11840961"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -70.0533056,
-          -32.8146389
-        ],
-        [
-          -69.8141556,
-          -32.8533417
-        ],
-        [
-          -70.010297,
-          -32.820273
-        ],
-        [
-          -70.0533056,
-          -32.8146389
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "relation/11848341",
   "properties": {
     "boundary": "protected_area",
@@ -18940,6 +18900,48 @@
           -35.8002645
         ]
       ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8085922591",
+  "properties": {
+    "id": "node/8085922591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.0532436,
+      -32.8145962
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8085922590",
+  "properties": {
+    "id": "node/8085922590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.0105755,
+      -32.820273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8085922589",
+  "properties": {
+    "id": "node/8085922589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.7867063,
+      -32.8636615
     ]
   }
 }
