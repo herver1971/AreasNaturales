@@ -3327,6 +3327,7 @@
     "protected_area": "national_monument",
     "protection_title": "Patrimonio Natural y Cultural de la Patagonia",
     "related_law": "Decreto Provincial 491",
+    "source:related_law": "https://legislactivo.wordpress.com/wp-content/uploads/2021/05/decreto-491-99.pdf",
     "start_date": "1999",
     "type": "boundary",
     "id": "relation/10809048"
@@ -18898,6 +18899,52 @@
         [
           -69.8114305,
           -35.8002645
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1564984101",
+  "properties": {
+    "boundary": "protected_area",
+    "name": "Parque Provincial Cueva de las Manos",
+    "operator": "Provincia de Santa Cruz",
+    "operator:type": "government",
+    "protect_class": "3",
+    "protected_area": "nature_reserve",
+    "protection_title": "Parque Provincial",
+    "related_law": "Ley Provincial 3613",
+    "source:geometry": "Ley Provincial 3613, artículo 1 (WGS84)",
+    "source:related_law": "https://legislactivo.wordpress.com/wp-content/uploads/2021/05/ley-3613-parque-provincial-cueva-de-las-manos.pdf",
+    "start_date": "2018",
+    "website": "https://cuevadelasmanos.gob.ar",
+    "id": "way/1564984101"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -70.6744698,
+          -47.1477639
+        ],
+        [
+          -70.6760739,
+          -47.1649264
+        ],
+        [
+          -70.6346189,
+          -47.1684458
+        ],
+        [
+          -70.6341761,
+          -47.1514744
+        ],
+        [
+          -70.6744698,
+          -47.1477639
         ]
       ]
     ]
