@@ -116235,6 +116235,7 @@
   "properties": {
     "boundary": "protected_area",
     "name": "Parque Nacional Los Cardones",
+    "name:it": "Parco nazionale di Los Cardones",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
     "protect_class": "2",
@@ -129521,6 +129522,7 @@
     "geological": "palaeontological_site",
     "name": "Parque Provincial Ischigualasto",
     "name:en": "Ischigualasto Provincial Park",
+    "name:it": "Parco Provinciale Ischigualasto",
     "operator": "Provincia de San Juan",
     "protect_class": "2",
     "protected_area": "national_park",
@@ -302722,6 +302724,7 @@
   "properties": {
     "boundary": "protected_area",
     "name": "Parque Nacional Monte León",
+    "name:it": "Parco nazionale di Monte León",
     "operator": "Administración de Parques Nacionales",
     "operator:type": "government",
     "operator:wikidata": "Q661984",
@@ -400335,6 +400338,7 @@
     "boundary": "protected_area",
     "name": "Parque Nacional Talampaya",
     "name:en": "Talampaya National Park",
+    "name:it": "Parco nazionale Talampaya",
     "operator": "Administración Parques Nacionales",
     "operator:type": "government",
     "protect_class": "2",
